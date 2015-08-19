@@ -1,0 +1,268 @@
+{
+    "quizlist": [
+        {
+            "question": "A person has fallen overboard and is being picked up with a lifeboat. If the person appears in danger of drowning, how the lifeboat should make?",
+            "option1": "the most direct approach ",
+            "option2": "an approach across the wind ",
+            "option3": "an approach from windward "
+        },
+        {
+            "question": "You have abandoned ship in tropical waters. Which procedure(s) should be used during a prolonged period in a raft? ",
+            "option1": "Get plenty of rest.",
+            "option2": "Use TPA",
+            "option3": "Immersion suite"
+        },
+        {
+            "question": "You suspect that a crewmember has fallen overboard during the night and immediately execute a Williamson turn. What is the primary advantage of this maneuver under these circumstances?",
+            "option1": "You will be on a reciprocal course and nearly on the trackline run during the night. ",
+            "option2": "The turn provides the maximum coverage of the area to be searched. ",
+            "option3": "The turn enables you to reverse course in the shortest possible time. "
+        },
+        {
+            "question": "After abandoning ship, which action should be taken IMMEDIATELY upon entering a liferaft?",
+            "option1": "Get clear of the ship.",
+            "option2": "Dry the liferaft floor and inflate. ",
+            "option3": "Issue anti-seasickness medicine."
+        },
+        {
+            "question": "During the course of a voyage, a seaman falls on the main deck and injures his ankle. When does the Master should submit a Report of Marine Accident, Injury or Death?",
+            "option1": " injured is incapacitated",
+            "option2": "injured needs first aid ",
+            "option3": "injury results in loss of life only "
+        },
+        {
+            "question": "Following the loss of a ‘man overboard’, you take the ‘conn’ and complete a Williamson Turn manoeuvre but are unable to locate the man in the water. What would you do now?",
+            "option1": "I would conduct a ‘sector search’, as recommended by the IAMSAR Manual. During this period I would keep the RCC appraised of my activities and the results of any findings.",
+            "option2": "I would keep off the RCC appraised of my activities and the results of any findings.",
+            "option3": "I would consider checking the sea temperature before conducting a man overboard search"
+        },
+        {
+            "question": "How should the vessel be when evacuating a seaman by helicopter lift?",
+            "option1": "underway with the wind 30° on the bow",
+            "option2": "underway on a course to provide no apparent wind ",
+            "option3": "stopped with the wind on the beam "
+        },
+        {
+            "question": "What should you do if help has not arrived in 10-12 hours after abandoning a vessel in a rescue boat?",
+            "option1": "shut down the engines if installed and put out the sea anchor ",
+            "option2": "steer a course for the nearest sea lane",
+            "option3": "steer a course for the nearest land "
+        },
+        {
+            "question": "What action you would do, if more than one liferaft is manned after the vessel has sunk?",
+            "option1": "tie each of the rafts together and try to stay in a single group",
+            "option2": "reduce the number of liferafts by getting as many people as possible into as few rafts as possible ",
+            "option3": "the possibility of a search aircraft finding you is increased by spreading out "
+        },
+        {
+            "question": "What should they do if there are a number of survivors in the water after abandoning ship?",
+            "option1": "form a small circular group to create a warmer pocket of water in the center of the circle ",
+            "option2": "tie themselves to the unit so they won't drift with the current",
+            "option3": " send the strongest swimmer to shore for assistance "
+        },
+        {
+            "question": "If you are forced to abandon ship in a liferaft, what course of action you should do",
+            "option1": "remain in the immediate vicinity ",
+            "option2": "head for the nearest land",
+            "option3": "head for the closest sea-lanes"
+        },
+        {
+            "question": "What would be your main course of action if you have to abandon ship, and enter a liferaft?",
+            "option1": "remain in the vicinity of the sinking vessel ",
+            "option2": "head for the closest land ",
+            "option3": "head for the closest sea-lanes"
+        },
+        {
+            "question": "What you should do if you will enter water on which there is an oil fire?",
+            "option1": "enter the water on the windward side of the vessel ",
+            "option2": "protect your life preserver by holding it above your head ",
+            "option3": " keep both hands in front of your face to break the water surface when diving head first "
+        },
+        {
+            "question": "If, for any reason, it is necessary to abandon ship while far out at sea, what is the most important that the crew members should do?",
+            "option1": "remain together in the area because rescuers will start searching at the vessel's last known position ",
+            "option2": "immediately head for the nearest land ",
+            "option3": "get away from the area because sharks will be attracted to the vessel "
+        },
+        {
+            "question": "On board an OSV, what is the key to the most rapid and effective response to a man overboard situation?",
+            "option1": "good communication",
+            "option2": "good equipment",
+            "option3": "a dedicated crew "
+        },
+        {
+            "question": "What is one of the first actions to be taken by survivors when they have boarded an inflatable liferaft?",
+            "option1": "take an anti-seasickness pill",
+            "option2": "stream the sea anchor ",
+            "option3": "open the pressure relief valve "
+        },
+        {
+            "question": "Provided every effort is used to produce, as well as preserve body moisture content by avoiding perspiration, how long is it normally possible to survive without stored quantities of water? ",
+            "option1": "8 to 14 days",
+            "option2": "Up to 3 days",
+            "option3": "15 to 20 days "
+        },
+        {
+            "question": "What is the most important reason for taking anti-seasickness pills as soon as possible after entering a liferaft?",
+            "option1": "prevent loss of body moisture by vomiting",
+            "option2": "assist in sleeping ",
+            "option3": "reduce appetite by decreasing nausea"
+        },
+        {
+            "question": "What hould be done to keep injured survivors warm in the water after abandoning ship?",
+            "option1": "be placed in the middle of a small circle formed by the other survivors in the water ",
+            "option2": "float on their backs with their arms extended for maximum exposure to the air",
+            "option3": " remove their life preservers and hold on to the uninjured survivors "
+        },
+        {
+            "question": "What is important that the crew member should do if, for any reason, it is necessary to abandon ship while far out at sea?",
+            "option1": "remain together in the area because rescuers will start searching at the vessel's last known position ",
+            "option2": "immediately head for the nearest land ",
+            "option3": "get away from the area because sharks will be attracted to the vessel "
+        },
+        {
+            "question": "What is one of the FIRST things to be done when a ship is abandoned and there are several liferafts in the water?",
+            "option1": "secure the rafts together to keep them from drifting apart ",
+            "option2": "transfer all the injured to one raft ",
+            "option3": "transfer all supplies to one raft"
+        },
+        {
+            "question": "What is the greatest danger when you are at sea in an inflatable liferaft in high latitudes?",
+            "option1": "hypothermia caused by cold temperature ",
+            "option2": "asphyxiation due to keeping the canopy closed",
+            "option3": "collapse of the raft due to cold temperatures"
+        },
+        {
+            "question": "What is the most important reason for taking anti-seasickness pills as soon as possible after entering a liferaft?",
+            "option1": "To prevent loss of body moisture by vomiting",
+            "option2": "To assist in sleeping ",
+            "option3": "To reduce appetite by decreasing nausea"
+        },
+        {
+            "question": "What must you do if you must enter water on which there is an oil fire?",
+            "option1": "enter the water on the windward side of the vessel ",
+            "option2": "protect your life preserver by holding it above your head ",
+            "option3": " keep both hands in front of your face to break the water surface when diving head first "
+        },
+        {
+            "question": "What should be one of the first actions to be taken by survivors when they have boarded an inflatable liferaft?",
+            "option1": "take an anti-seasickness pill",
+            "option2": "stream the sea anchor ",
+            "option3": "open the pressure relief valve "
+        },
+        {
+            "question": "What should be your main course of action if you have to abandon ship and enter a liferaft?",
+            "option1": "remain in the vicinity of the sinking vessel ",
+            "option2": "head for the closest land ",
+            "option3": "head for the closest sea-lanes"
+        },
+        {
+            "question": "What should the survivor do if there are a number of survivors in the water after abandoning ship?",
+            "option1": "form a small circular group to create a warmer pocket of water in the center of the circle ",
+            "option2": "tie themselves to the unit so they won't drift with the current",
+            "option3": " send the strongest swimmer to shore for assistance "
+        },
+        {
+            "question": "What should we do if more than one liferaft is manned after the vessel has sunk?",
+            "option1": " tie each of the rafts together and try to stay in a single group",
+            "option2": "reduce the number of liferafts by getting as many people as possible into as few rafts as possible ",
+            "option3": "the possibility of a search aircraft finding you is increased by spreading out "
+        },
+        {
+            "question": "What should you do if help has not arrived in 10-12 hours after abandoning a vessel in a rescue boat?",
+            "option1": "shut down the engines if installed and put out the sea anchor ",
+            "option2": "steer a course for the nearest sea lane",
+            "option3": "steer a course for the nearest land "
+        },
+        {
+            "question": "What should you do when abandoning ship and jumping into the water from a substantial height without a life jacket?",
+            "option1": "jump feet first, covering your nose and mouth with one hand and grasping the opposing upper arm with the other ",
+            "option2": "ump feet first, holding your knees to your chest ",
+            "option3": "hold your arms firmly at your sides and jump feet first "
+        },
+        {
+            "question": "What should you do when abandoning ship, after launching the motor lifeboat?",
+            "option1": "stay in the immediate area",
+            "option2": "go in one direction until fuel runs out ",
+            "option3": "take a vote on which direction you should go"
+        },
+        {
+            "question": "When a man who has fallen overboard is being picked up by a lifeboat, how should the boat approach with the wind?",
+            "option1": "just off the bow and the victim to leeward ",
+            "option2": "just off the bow and the victim to windward ",
+            "option3": "ahead and the victim just off the bow "
+        },
+        {
+            "question": "When a ship is abandoned and there are several liferafts in the water, what is one of the FIRST things to be done?",
+            "option1": "secure the rafts together to keep them from drifting apart ",
+            "option2": "transfer all the injured to one raft ",
+            "option3": "transfer all supplies to one raft"
+        },
+        {
+            "question": "What you should do when abandoning ship and jumping into the water from a substantial height without a life jacket?",
+            "option1": "jump feet first, covering your nose and mouth with one hand and grasping the opposing upper arm with the other ",
+            "option2": "ump feet first, holding your knees to your chest ",
+            "option3": "ump feet first, holding your knees to your chest "
+        },
+        {
+            "question": "What you should do when abandoning ship, after launching the motor lifeboat?",
+            "option1": "stay in the immediate area",
+            "option2": "go in one direction until fuel runs out ",
+            "option3": "take a vote on which direction you should go"
+        },
+        {
+            "question": "When evacuating a seaman by helicopter lift, what the vessel should be?",
+            "option1": "underway with the wind 30° on the bow",
+            "option2": "underway on a course to provide no apparent wind ",
+            "option3": "stopped with the wind on the beam "
+        },
+        {
+            "question": "Which step should normally be taken FIRST by those who have boarded a liferaft in an emergency? ",
+            "option1": "Take anti-seasickness pills, if available.",
+            "option2": " Ration food and water supplies.",
+            "option3": " Determine position and closest point of land."
+        },
+        {
+            "question": "Why should the the high handler be equipped with electricians and rubber soled shoes during helicopter winching operations over deck of a vessel needing assistance? ",
+            "option1": "To avoid shock from static discharge",
+            "option2": "To avoid Being grounded by helicopter currents",
+            "option3": "To avoid injury caused by the winch lines"
+        },
+        {
+            "question": "What is the the greatest danger when you are at sea in an inflatable liferaft in high latitudes?",
+            "option1": "hypothermia caused by cold temperature ",
+            "option2": "asphyxiation due to keeping the canopy closed",
+            "option3": "collapse of the raft due to cold temperatures"
+        },
+        {
+            "question": "You are on watch at sea at night, and a fire breaks out in #3 hold. What would you NOT do immediately?",
+            "option1": "Proceed to the space and inspect the extent of the fire. ",
+            "option2": "Call the Master. ",
+            "option3": "Sound the fire alarm signal to rouse out all hands. "
+        },
+        {
+            "question": "You are picking up a conscious person that has fallen overboard. How do you approach the victim to make Recovery easier?",
+            "option1": "victim to leeward",
+            "option2": "victim to windward",
+            "option3": "wind on your port side "
+        },
+        {
+            "question": "You are picking up a person that has fallen overboard. How should a small craft should approach the victim with?",
+            "option1": "victim to windward ",
+            "option2": "victim to leeward ",
+            "option3": "wind on your port side "
+        },
+        {
+            "question": "You are standing the wheelwatch when you hear the cry 'Man overboard starboard side'. What should you do?",
+            "option1": "give full right rudder ",
+            "option2": " give full left rudder ",
+            "option3": "put the rudder amidships "
+        },
+        {
+            "question": "A vessel is flying the signal 'BJ-1' from her starboard halyard. What does the signal means?",
+            "option1": "An aircraft is circling over an accident.",
+            "option2": "There is no danger of explosion.",
+            "option3": "The aircraft is still afloat."
+        }
+    ]
+}

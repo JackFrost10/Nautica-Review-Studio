@@ -1,0 +1,202 @@
+{
+    "quizlist": [
+        {
+            "question": "As a vessel changes course to starboard, the compass card in a magnetic compass __________. ",
+            "option1": "remains aligned with compass north",
+            "option2": "also turns to starboard",
+            "option3": "first turns to starboard then counterclockwise to port"
+        },
+        {
+            "question": "You are proceeding up a channel at night. It is marked by a range which bears 185°T. You steady up on a compass course of 180° with the range in line dead ahead. What does this indicates?",
+            "option1": "That your compass has some easterly error ",
+            "option2": "That your are being affected by a southerly current ",
+            "option3": "That your course is in error "
+        },
+        {
+            "question": "Your ship is steaming at night with the gyropilot engaged when you notice that the vessel's course is slowly changing to the right. What action should you take FIRST?",
+            "option1": "switch to hand steering",
+            "option2": "shift steering to the emergency steering station",
+            "option3": "call the Master "
+        },
+        {
+            "question": "Besides variation, what does the compass rose on a nautical chart also indicates?",
+            "option1": "annual rate of variation change",
+            "option2": "deviation",
+            "option3": "precession"
+        },
+        {
+            "question": "If a magnetic compass is not affected by any magnetic field other than the Earth's, which statement is TRUE? ",
+            "option1": "Compass error and variation are equal. ",
+            "option2": "Compass north will be true north. ",
+            "option3": "Variation will equal deviation. "
+        },
+        {
+            "question": "What would happen if the compass heading and the magnetic heading are the same?",
+            "option1": "there is no deviation on that heading",
+            "option2": "the compass is being influenced by nearby metals ",
+            "option3": "there is something wrong with the compass"
+        },
+        {
+            "question": "If the gyrocompass error is east, what describes the error and the correction to be made to gyrocompass headings to obtain true headings? ",
+            "option1": "The readings are too low (small numerically) and the amount of the error must be added to the compass to obtain true ",
+            "option2": "The readings are too low and the amount of the error must be subtracted from the compass to obtain true ",
+            "option3": "The readings are too high (large numerically) and the amount of the error must be added to the compass to obtain true "
+        },
+        {
+            "question": "Isogonic lines are lines on a chart and what does it indicates?",
+            "option1": "points of equal variation",
+            "option2": "points of zero variation",
+            "option3": " the magnetic latitude"
+        },
+        {
+            "question": "What do you call those Lines on a chart which connect points of equal magnetic variation?",
+            "option1": " isogonic lines",
+            "option2": "dip",
+            "option3": "magnetic declinations "
+        },
+        {
+            "question": "What aspect where Magnetic variation changes?",
+            "option1": " the vessel's position",
+            "option2": "seasons ",
+            "option3": "sea conditions"
+        },
+        {
+            "question": "On an isomagnetic chart, what is the line of zero variation?",
+            "option1": "Agonic line",
+            "option2": "Variation line",
+            "option3": "Isogonic line"
+        },
+        {
+            "question": "What indicates in the agonic line on an isomagnetic chart?",
+            "option1": "points where there is no variation ",
+            "option2": "points where there is no annual change in variation",
+            "option3": "magnetic longitude reference line"
+        },
+        {
+            "question": "What does the vessel changes when compass deviation changes?",
+            "option1": "heading",
+            "option2": "longitude",
+            "option3": "speed"
+        },
+        {
+            "question": "What is the compass error of a magnetic compass that has no deviation?",
+            "option1": "equal to variation ",
+            "option2": "zero",
+            "option3": "eliminated by adjusting the compass"
+        },
+        {
+            "question": "Besides variation, what does the compass rose on a nautical chart indicates?",
+            "option1": "annual rate of variation change",
+            "option2": "deviation",
+            "option3": "precession"
+        },
+        {
+            "question": "What is called as the gyrocompass error resulting from your vessel's movement in OTHER than an east-west direction?",
+            "option1": "speed error",
+            "option2": "quadrantal error ",
+            "option3": "ballistic deflection"
+        },
+        {
+            "question": "What is the most accurate method of determining gyrocompass error while underway?",
+            "option1": "comparing the gyro azimuth of a celestial body with the computed azimuth of the body ",
+            "option2": " comparing the gyro heading with the magnetic compass heading",
+            "option3": "determining from the chart the course made good between celestial fixes "
+        },
+        {
+            "question": "The spin axis of a gyroscope tends to remain fixed in space in the direction in which it is started. How does this gyroscope become north seeking so that it can be used as a compass?",
+            "option1": "By mechanically or electrically applying forces to precess the gyroscope ",
+            "option2": "By starting the compass with the spin axis in a north/south position ",
+            "option3": "By taking advantage of the property of gyroscopic inertia "
+        },
+        {
+            "question": "What caused Variation in a compass?",
+            "option1": "magnetism from the earth's magnetic field",
+            "option2": "worn gears in the compass housing ",
+            "option3": "magnetism within the vessel"
+        },
+        {
+            "question": "What does the agonic line on an isomagnetic chart indicates?",
+            "option1": "Points where there is no variation ",
+            "option2": "Points where there is no annual change in variation",
+            "option3": "Magnetic longitude reference line"
+        },
+        {
+            "question": "What does the vessel change if the compass deviation changes?",
+            "option1": "Heading",
+            "option2": "Longitude",
+            "option3": "Speed"
+        },
+        {
+            "question": "What happens to the compass card in a magnetic compass when a vessel changes course to starboard?",
+            "option1": "remains aligned with compass north",
+            "option2": "also turns to starboard",
+            "option3": "first turns to starboard then counterclockwise to port"
+        },
+        {
+            "question": "What is an error in a gyrocompass caused by rapid changes in course, speed and latitude causing deviation before the gyro can adjust itself?",
+            "option1": "Steaming error",
+            "option2": "Parallax error",
+            "option3": "Error of collimation"
+        },
+        {
+            "question": "What is called as the gyrocompass error resulting from your vessel's movement in OTHER than an east-west direction?",
+            "option1": "speed error",
+            "option2": "quadrantal error ",
+            "option3": "ballistic deflection"
+        },
+        {
+            "question": "What is the compass error of a magnetic compass that has no deviation?",
+            "option1": "Equal to variation ",
+            "option2": "Zero",
+            "option3": "Eliminated by adjusting the compass"
+        },
+        {
+            "question": "What is the most accurate method of determining gyrocompass error while underway?",
+            "option1": "comparing the gyro azimuth of a celestial body with the computed azimuth of the body ",
+            "option2": " comparing the gyro heading with the magnetic compass heading",
+            "option3": "determining from the chart the course made good between celestial fixes "
+        },
+        {
+            "question": "What lines are indicated on a chart by an Isogonic lines?",
+            "option1": "points of equal variation",
+            "option2": "points of zero variation",
+            "option3": " the magnetic latitude"
+        },
+        {
+            "question": "What lines on a chart which connect points of equal magnetic variation are called?",
+            "option1": "Isogonic lines",
+            "option2": "Dip",
+            "option3": "magnetic declinations "
+        },
+        {
+            "question": "What should be done when a magnetic compass is not in use for a prolonged period of time?",
+            "option1": "be shielded from direct sunlight ",
+            "option2": " be locked into a constant heading",
+            "option3": "have any air bubbles replaced with nitrogen"
+        },
+        {
+            "question": "What then if the compass heading and the magnetic heading are the same?",
+            "option1": "There is no deviation on that heading",
+            "option2": "The compass is being influenced by nearby metals ",
+            "option3": "There is something wrong with the compass"
+        },
+        {
+            "question": "Which statement about gyrocompass error is TRUE?",
+            "option1": "The amount of the error and the sign will generally be the same on all headings",
+            "option2": "The sign (E or W) of the error will change with different headings of the ship. ",
+            "option3": "Any error will remain constant unless the compass is stopped and restarted. "
+        },
+        {
+            "question": "Which statement about the Flinders bar on a magnetic compass is correct?",
+            "option1": "It compensates for the error caused by the vertical component of the earth's magnetic field.",
+            "option2": "It reduces the deviation into half.",
+            "option3": "It allows the magnetic compass to move freely in the fluid."
+        },
+        {
+            "question": "Which would influence a magnetic compass?",
+            "option1": "Radio",
+            "option2": "Binoculars",
+            "option3": "Pyrotechnics"
+        }
+    ]
+}

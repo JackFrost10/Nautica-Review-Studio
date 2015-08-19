@@ -1,0 +1,790 @@
+{
+    "quizlist": [
+        {
+            "question": " A tank has been sealed and unventilated for a long period of time. Which of the following conditions does this indicate?",
+            "option1": "The tank is specially dangerous to enter.",
+            "option2": "Carbon monoxide is present.",
+            "option3": "The tank is safe to enter after being opened."
+        },
+        {
+            "question": "What is classed as a Cottonseed oil?",
+            "option1": "Combustible liquid",
+            "option2": "Flammable",
+            "option3": "Flammable solid"
+        },
+        {
+            "question": " What shoud be designated as Oil tankers of 20,000 tons deadweight and above but less than 30,000 deadweight NOT fitted with SBT,PL?",
+            "option1": "Product carrier",
+            "option2": "Oil tanker",
+            "option3": "Crude oil/product tanker"
+        },
+        {
+            "question": " You are on a multiple-product chemical tanker and will carry cargoes of allyl alcohol, benzene, and propanolamine. Which of the following is true?",
+            "option1": "Allyl alcohol is incompatible with propanolamine but both are compatible with benzene.",
+            "option2": "Propanolamine is compatible with allyl alcohol but must be segregated from benzene.",
+            "option3": "Benzene may not be carried in a tank adjacent to either of the other two cargoes."
+        },
+        {
+            "question": "A drum containing 100 litres of Isobutyryl chloride is being shipped from Milan to Paris. How must the drum be marked and labelled for transport?",
+            "option1": "Mark = UN2395; Labels = Class 3 and Class 8",
+            "option2": "Mark = UN2390; Labels = Class 4 and Class 7",
+            "option3": "Mark = UN2396; Labels = Class 4 and Class 7"
+        },
+        {
+            "question": "A package contains nitric acid solution and is radioactive. The radiation level at the package surface is .36 millirems per hour. How should this package be labeled? ",
+            "option1": "Radioactive I and corrosive",
+            "option2": "Fissile class I",
+            "option3": "Radioactive II and poison"
+        },
+        {
+            "question": "According to the Chemical Data Guide, ethylene oxide exhibits which fire and explosion hazard?",
+            "option1": "It does not need oxygen for combustion.",
+            "option2": "It reacts with water to provide flammable vapors.",
+            "option3": "Its flash point is 80.4°F."
+        },
+        {
+            "question": "According to the Chemical Data Guide, propylene oxide is assigned a health hazard rating of 3,2,2. What does the last digit '2' of the rating means?",
+            "option1": "The chemical poison presents some hazard if it enters the body and typically has threshold limits of 100 to 500 ppm.",
+            "option2": "The chemical contains fairly severe skin irritants, causing second- and third-degree burns after a few minutes contact.",
+            "option3": "The chemical is severely hazardous, usually having threshold limits below 10 ppm."
+        },
+        {
+            "question": "According to the Chemical Data Guide, what does ethyl chloride produce when ignited?",
+            "option1": "Poisonous phosgene gas.",
+            "option2": "Toxic fumes of lead.",
+            "option3": "Poisonous chlorine gas."
+        },
+        {
+            "question": "According to the IMO Code, what are the minimum number of securing points that should be on each side of a 'road vehicle', whose gross vehicle mass is between 20 tons and 30 tons, when carried on Ro-Ro vessels?",
+            "option1": "Three",
+            "option2": "One ",
+            "option3": "Two"
+        },
+        {
+            "question": "At what below temperature according to regulations should ethylene oxide shall be loaded?",
+            "option1": "70°F",
+            "option2": "its flash point",
+            "option3": "90°F"
+        },
+        {
+            "question": "At which the (auto) ignition temperature is that temperature?",
+            "option1": "No spark or flame is required to ignite gas or vapor.",
+            "option2": "A fuel begins to give off explosive vapors.",
+            "option3": "A fuel if ignited will continue to burn."
+        },
+        {
+            "question": "Can containers be packed with Hazardous (Dangerous) Goods?",
+            "option1": "Yes. But they must be declared as dangerous goods and the container would need to be provided with a packing certificate to effect that the goods have been packaged, labeled and stowed in accord with the IMDG Code.",
+            "option2": "Yes, the nature of the goods being shipped, would not dictate the position of stowage.",
+            "option3": "Yes, as long as it is packed accordingly."
+        },
+        {
+            "question": "Cargo parcels of goods listed in the IMDG Code are loaded on board your vessel at the beginning of a voyage. After several days at sea these packages are seen to be leaking. What action can you legally take?",
+            "option1": "If ‘dangerous goods’ are not packaged and properly marked or if shipped without the knowledge or consent of the carrier then the goods can be landed, jettisoned, destroyed or rendered innocuous by the carrier at any time before discharge.",
+            "option2": "If the goods are not a danger to the ship. ",
+            "option3": "if other cargo they may be dealt with in a similar manner with liability to the carrier."
+        },
+        {
+            "question": "Corrosive liquids and acids should have which kind of label?",
+            "option1": "White and black",
+            "option2": "Red and white",
+            "option3": "Yellow and white"
+        },
+        {
+            "question": "For the purpose of regulating tank vessels, what will happen to liquids which are flammable liquids?",
+            "option1": "Give off flammable vapors at or below 80°F (27°C).",
+            "option2": "Have a Reid vapor pressure of 18 pounds or more.",
+            "option3": "Give off flammable vapors only above 80°F (27°C)."
+        },
+        {
+            "question": "How does Argon is classified?",
+            "option1": "Nonflammable gas",
+            "option2": "Flammable liquid",
+            "option3": "Flammable gas"
+        },
+        {
+            "question": "How many grade is Combustible liquids are divided into?",
+            "option1": "Two",
+            "option2": "Four",
+            "option3": "Three"
+        },
+        {
+            "question": "In MARPOL, what is the non-hazardous mg/l as more than the rating for damage to living resources?",
+            "option1": "1000 mg/l ",
+            "option2": "Less than 1 mg/l ",
+            "option3": "500 mg/l"
+        },
+        {
+            "question": "It is a normal part of an entity duties to take appropriate measures to avoid loss resulting from risks of which he is or should be aware. He assumes all risks of accidents attributable to a failure to carry in that manner.",
+            "option1": "Carrier",
+            "option2": "Shipper",
+            "option3": "Charterer"
+        },
+        {
+            "question": "On a vessel proceeding from a very cold to a warm climate with a cargo of a nonhygroscopic nature in the holds, which is TRUE? ",
+            "option1": "There is danger of heavy cargo sweat if outside air is introduced by ventilation.",
+            "option2": "Danger of heavy ship sweat exists; constant and vigorous ventilation is required.",
+            "option3": "There is little danger of ship's sweat, slight possibility of cargo sweat; moderate ventilation is needed."
+        },
+        {
+            "question": "What is the classification of substances that emit flammable gases when it contact with water?",
+            "option1": "Class 4.3",
+            "option2": "Class 5.2",
+            "option3": "Class 5.3"
+        },
+        {
+            "question": "What is Class 6 under IMDG Code?",
+            "option1": "Poisonous substance",
+            "option2": "Flammable solids",
+            "option3": "Explosive"
+        },
+        {
+            "question": "From where a damage arises from when a vessel will be liable under the Carriage of Goods by Sea Act of 1936?",
+            "option1": "Unseaworthiness when sailing.",
+            "option2": "Insufficient packing",
+            "option3": "Quarantine delays"
+        },
+        {
+            "question": "From where a damage arises when a vessel will be liable for damage to a cargo under the Carriage of Goods by Sea Act of 1936?",
+            "option1": "Lack of ventilation in transit.",
+            "option2": "An act of war.",
+            "option3": "Perils of the sea."
+        },
+        {
+            "question": "Under which fire are flammable liquids, gases, grease and other similar products are classed?",
+            "option1": "Class B",
+            "option2": "Class C",
+            "option3": "Class D"
+        },
+        {
+            "question": "Wha are the 'flammable limits' of an atmosphere?",
+            "option1": "Upper and lower percentage of vapor concentrations in an atmosphere.",
+            "option2": "Two temperatures between which an atmosphere will self ignite.",
+            "option3": "Two temperatures between which an atmosphere will burn if an ignition source is present."
+        },
+        {
+            "question": "What can be determine which the moisture equilibrium chart can be used with?",
+            "option1": "Dew point temperature that the air surrounding a hygroscopic commodity will have when in moisture equilibrium with that commodity.",
+            "option2": "Absolute moisture content of the air surrounding a hygroscopic cargo when moisture equilibrium exists.",
+            "option3": "Enthalpy of the air surrounding a hydroscopic cargo which is in moisture equilibrium with the cargo."
+        },
+        {
+            "question": "What cargo is defined as a hygroscopic cargo?",
+            "option1": "Capable of giving off moisture in the form of gas",
+            "option2": "That is shipped in a liquid state",
+            "option3": "That will ignite in contact with water"
+        },
+        {
+            "question": "What does a shore that is a piece of securing dunnage?",
+            "option1": "Runs from a low supporting level up to the cargo at an angle.",
+            "option2": "Is placed on the deck under the cargo to distribute its weight evenly.",
+            "option3": "Is run horizontally from  a support to the cargo."
+        },
+        {
+            "question": "What does not indicate in the dangerous cargo manifest?",
+            "option1": "The net weight of each hazardous cargo.",
+            "option2": "UN identification numbers.",
+            "option3": "A description of the packaging (drums, boxes, etc.)."
+        },
+        {
+            "question": "What flash point a grade E combustible liquids have?",
+            "option1": "150°F or above",
+            "option2": "80°F to 150°F",
+            "option3": "60°F to 100°F"
+        },
+        {
+            "question": "What grade is a flammable liquid having a Reid vapor pressure of 81/2 P.S.I.A. or less and a flash point of 80°F or below?",
+            "option1": "C",
+            "option2": "B",
+            "option3": "A"
+        },
+        {
+            "question": "What grade this liquid is classed if a petroleum liquid with has a flash point of 135°Fahrenheit?",
+            "option1": "D combustible liquid",
+            "option2": "C flammable liquid",
+            "option3": "E combustible liquid"
+        },
+        {
+            "question": "What indicates the volatility of a flammable liquid?",
+            "option1": "Flash point",
+            "option2": "Flammable lines",
+            "option3": "Ignition temperature"
+        },
+        {
+            "question": "What is epichlorohydrin according to the Chemical Data Guide?",
+            "option1": "Class B poison",
+            "option2": "Oxidizer",
+            "option3": "Explosive"
+        },
+        {
+            "question": "What is a flame screen?",
+            "option1": "Permits the passage of vapor but not of flame",
+            "option2": "Permits vapors to exit but not enter a tank",
+            "option3": "Prevents the passage of flammable vapors"
+        },
+        {
+            "question": "What is a tanker designed to carry oil or alternatively solid cargoes in bulk according to SOLAS?",
+            "option1": "Combination carrier",
+            "option2": "OBO (oil-bulk-oil)",
+            "option3": "Special tanker"
+        },
+        {
+            "question": "What is an example of failure to provide clean holds prior loading resulting to cargo contamination?",
+            "option1": "Lack of due diligence ",
+            "option2": "Latent defect",
+            "option3": "Inherent vice"
+        },
+        {
+            "question": "What is another name for coal naphtha that would appear on a dangerous cargo manifest?",
+            "option1": "Benzene",
+            "option2": "Tar",
+            "option3": "Middle oil"
+        },
+        {
+            "question": "What is by definition, an example of a flammable liquid?",
+            "option1": "Gasoline",
+            "option2": "Caustic potash",
+            "option3": "Vegetable oil"
+        },
+        {
+            "question": "What is called as a piece of securing dunnage that runs from a low supporting level up to the cargo at an angle?",
+            "option1": "Shoring",
+            "option2": "Lashing",
+            "option3": "Tomming"
+        },
+        {
+            "question": "What is known as damage to cargo which is caused by dust?",
+            "option1": "Contamination",
+            "option2": "Oxidation",
+            "option3": "Tainting"
+        },
+        {
+            "question": "What is labeled as Flammable liquids?",
+            "option1": "Red ",
+            "option2": "Skull and crossbones",
+            "option3": "White "
+        },
+        {
+            "question": "What is one of the requirements for an oil tanker operating with dedicated ballast tank?",
+            "option1": "An oil content meter.",
+            "option2": "Water pressure",
+            "option3": "Sounding meter"
+        },
+        {
+            "question": "What is per MARPOL, the rating for damage to living resources of 1-10 mg/1?",
+            "option1": "Moderately toxic",
+            "option2": "Slightly toxic",
+            "option3": "Highly toxic"
+        },
+        {
+            "question": "What is Sulfuric acid?",
+            "option1": "Colorless-to-brown liquid with a choking odor when hot.",
+            "option2": "Clear syrupy liquid with no odor.",
+            "option3": "Colorless liquid with a pleasant fruity odor."
+        },
+        {
+            "question": "What is termed as the lowest temperature at which a liquid gives off sufficient vapor to form a flammable to mixture over its surface?",
+            "option1": "Flash point ",
+            "option2": "Flammable limit",
+            "option3": "Auto-ignition point"
+        },
+        {
+            "question": "What is the classification of corrosive materials?",
+            "option1": "Class 8",
+            "option2": "Class 4.`1",
+            "option3": "CLASS 6"
+        },
+        {
+            "question": "What is the classification of oxidizing substance?",
+            "option1": "Class 5.1 ",
+            "option2": "Class 5.3",
+            "option3": "Class 6.0"
+        },
+        {
+            "question": "What is the flash point above of any liquid which is defined as Combustible liquid?",
+            "option1": "80°F (27°C)",
+            "option2": "40°F ( 4°C)",
+            "option3": "110°F (43°C)"
+        },
+        {
+            "question": "What is the purpose of explosimeters?",
+            "option1": "Measure the amount of explosive gases in % of LEL.",
+            "option2": "Measure electric charging in the atmosphere.",
+            "option3": "Check the power of the explosions in a combustion engine."
+        },
+        {
+            "question": "What maximum flash point a grade D combustible liquids have?",
+            "option1": "149°F",
+            "option2": "109°F",
+            "option3": "100°F"
+        },
+        {
+            "question": "What may cause chemical action within a substance?",
+            "option1": "Spontaneous combustion",
+            "option2": "Explosion",
+            "option3": "Deterioration of the substance"
+        },
+        {
+            "question": "What produces the MOST dangerous vapors?",
+            "option1": "Anhydrous ammonia",
+            "option2": "Camphor oil",
+            "option3": "Methyl alcohol"
+        },
+        {
+            "question": "What should be a vapor ignition by as regulations require that tank vessels handling grade B liquids shall have their cargo pumps separated from all sources?",
+            "option1": "Gas tight bulkheads",
+            "option2": "Cofferdams",
+            "option3": "Empty cargo spaces"
+        },
+        {
+            "question": "What should the shipper should be conspicuously labeled with the Containers of flammable solids?",
+            "option1": "Red and white label",
+            "option2": "Green label",
+            "option3": "Orange label"
+        },
+        {
+            "question": "What task under the Carriage of Goods by Sea Act which is the section of United States code that governs the responsibilities and protections of shippers of cargo and the carriers of that cargo?",
+            "option1": "Under the act, the first responsibility of the carrier is to ensure that his or her ship is seaworthy. ",
+            "option2": "This means that the vessel may not be properly manned and equipped.",
+            "option3": "The carrier does not gain certain protections under the Carriage of Goods by Sea Act."
+        },
+        {
+            "question": "What would require for a noxious substances if discharged into the sea which would present a recognized environmental hazard?",
+            "option1": "Special attention in operational conditions.",
+            "option2": "Stringent anti-pollution measures.",
+            "option3": "Special operational measures."
+        },
+        {
+            "question": "What you should FIRST do to prevent oil from escaping into the sea when ballasting through the cargo piping system?",
+            "option1": "Start the cargo pump, then open sea suction valves.",
+            "option2": "Start the suction valves and open the sea chest.",
+            "option3": "Start the cargo pump and close the sea chest."
+        },
+        {
+            "question": "What should be check when measuring the oxygen content of the cargo tanks prior to loading cargoes requiring vapor recovery?",
+            "option1": "One half the ullage of the tank and one meter below the tank top.",
+            "option2": "One meter from the tank bottom and one meter below the tank top.",
+            "option3": "One half the ullage of the tank and one meter above the tank bottom."
+        },
+        {
+            "question": "Which entry on a dangerous cargo manifest concerning the classification of a cargo is correct?",
+            "option1": "Class 8",
+            "option2": "Class 3 - flammable liquid",
+            "option3": "Division 2.2 - nonflammable gas"
+        },
+        {
+            "question": "Which entry on a dangerous cargo manifest concerning the classification of a cargo is NOT correct?",
+            "option1": "Division 3.1",
+            "option2": "Class 8",
+            "option3": "Division 2.3"
+        },
+        {
+            "question": "Which one of the following arguments is not valid regarding discharge of oil/oily mix into sea?",
+            "option1": "The lower speed the higher ratio of oil/oily water can be discharged.",
+            "option2": "When discharging oil/oily water, the vessel's position must be minimum 50 nm off any shores.",
+            "option3": "Rate of discharge regarding oily water is not to exceed 30 litters/nautical mile."
+        },
+        {
+            "question": "Which referred to as a single fitting installed in a pipeline that either blanks off the pipe or allows a full flow passage of a liquid through the pipe?",
+            "option1": "Spectacle flange",
+            "option2": "Quick-release coupling",
+            "option3": "Blind flange"
+        },
+        {
+            "question": "Which statement about the carriage of solid hazardous materials in bulk is TRUE?",
+            "option1": "The loading of the cargo must be conducted under the direction and observation of a person employed or assigned for that purpose.",
+            "option2": "A certificate issued by ABS will be accepted as evidence that the vessel complies with all applicable loading regulations.",
+            "option3": "The shipping papers must indicate the primary hazardous characteristic or property of the material."
+        },
+        {
+            "question": "Which statement about the dangerous cargo manifest is FALSE?",
+            "option1": "Shipments of hazardous and non-hazardous cargoes may be listed on the manifest if they are destined for the same consignee.",
+            "option2": "The manifest must be made up by the carrier, agents, and any person designated for this purpose.",
+            "option3": "The manifest must be kept in a designated holder on or near the bridge."
+        },
+        {
+            "question": "Which statement is NOT true concerning the stowage of  class 1 explosives?",
+            "option1": "Class 1.4 explosives may not be stowed in the same hold with class 6.1 poisons.",
+            "option2": "Class 1.1 explosives may be stowed with class 9 dangerous substances",
+            "option3": "Class 1.4 explosives must be 'separated from' a stow of class 5.1 oxidizing materials."
+        },
+        {
+            "question": "Which toxic gas is a product of incomplete combustion, and is often present which a fire burns in a closed compartment?",
+            "option1": "Carbon monoxide",
+            "option2": "Hydrogen sulfide",
+            "option3": "Nitric oxide "
+        },
+        {
+            "question": "Why are concentrates considered to be dangerous cargoes?",
+            "option1": "Concentrates tend to run out flat and will tend to move at sea.",
+            "option2": "Concentrate are extremely volatile.",
+            "option3": "Concentrates are extremely heavy cargo."
+        },
+        {
+            "question": "Why are concentrates considered to be dangerous cargoes?",
+            "option1": "Moisture content of concentrates may migrate to the surface and the cargo may liquefy.",
+            "option2": "Concentrates are generally toxic.",
+            "option3": "Concentrates can produce free surface effect."
+        },
+        {
+            "question": "Why do we use inhibitor in the cargo",
+            "option1": "Inhibitor is used to prevent polymerisation of the cargo",
+            "option2": "Inhibitor is used to reduce the oxygen content in chemical gases",
+            "option3": "Inhibitor is used to prevent polymerisation of cold cargoes"
+        },
+        {
+            "question": "Why does a Petroleum cargo tanks should not be topped off at deck level when loading on a cold day?",
+            "option1": "A subsequent temperature rise will cause the cargo to overflow.",
+            "option2": "Air pockets may cause the cargo to bubble out of the ullage hole.",
+            "option3": "The increased viscosity of the product requires higher loading pressure which increases the chances of a spill."
+        },
+        {
+            "question": "Why is an inhibitor added into, for instance, butadiene?",
+            "option1": "To remove the oxygen and by that avoid a chemical reaction.",
+            "option2": "To minimize the tank pressure.",
+            "option3": "To prevent the cargo producing heat."
+        },
+        {
+            "question": "With an increase in temperature, what would happen to the volume of flammable and combustible liquids?",
+            "option1": "Expands",
+            "option2": "Remains constant",
+            "option3": "Remains constant if pressure remains constant."
+        },
+        {
+            "question": "You are carrying cargoes of crotonaldehyde, phosphoric acid, and morpholine on your multiple-product tankship. Which of the following statements is TRUE?",
+            "option1": "Each of the cargoes must be segregated from the other by at least two barriers.",
+            "option2": "Aluminum, copper, and zinc are prohibited in all valve parts in contact with these cargoes.",
+            "option3": "The required warning sign must have the legend 'cancer hazard' added to it."
+        },
+        {
+            "question": "You are carrying cargoes of crotonaldehyde, phosphoric acid, and morpholine on your multiple-product tankship. Which of the following statements is TRUE",
+            "option1": "Each of the cargoes must be segregated from the other by at least two barriers.",
+            "option2": "The minimum protective clothing required for taking samples of phosphoric acid is goggles or a face shield.",
+            "option3": "Aluminum, copper, and zinc are prohibited in all valve parts in contact with these cargoes."
+        },
+        {
+            "question": "You are carrying triethylamine, methyl methacrylate and isoprene in your multiple-product tankship.  Which of the following statements is true?",
+            "option1": "Isoprene may be carried in a cargo tank adjacent to either  of the other two cargoes.",
+            "option2": "Methyl methacrylate must usually be heated to maintain its  stability.",
+            "option3": "Portable thermometers are not permitted to be used to take  the cargo temperature of triethylamine."
+        },
+        {
+            "question": "You are in a containership, which of the following statements about the stowage of hazardous materials in containers is TRUE?",
+            "option1": "A refrigerated container with a fuel tank containing a flammable liquid must be stowed on deck.",
+            "option2": "Package liquids within a container should be stowed on top of packages of solids to prevent crushing.",
+            "option3": "All packages within a  container must be mark this end up to indicate correct."
+        },
+        {
+            "question": "You are involved in discharging and crude oil washing  a crude oil carrier. What is the maximum allowed oxygen level in the Inert Gas supply to a tank being crude oil washed (IMO)?",
+            "option1": "5%",
+            "option2": "3%",
+            "option3": "8%"
+        },
+        {
+            "question": "You are involved in the discharging and crude oil washing  a crude oil carrier. What is the maximum allowed oxygen level in a tank during crude oil washing? (IMO Reg)",
+            "option1": "8%",
+            "option2": "3%",
+            "option3": "10%"
+        },
+        {
+            "question": "You are loading epichlorohydrin onto your barge. According to the Chemical Data Guide, at least what ppm you could expect to detect a leak by smell if the concentration in air?",
+            "option1": "10 - 25 ppm",
+            "option2": "40 ppm",
+            "option3": "105 ppm"
+        },
+        {
+            "question": "You are loading propanolamine and spill a small quantity on deck. What odor you would expect according to the Chemical Data Guide?",
+            "option1": "Fishy",
+            "option2": "Similar to turpentine.",
+            "option3": "Similar to ammonia."
+        },
+        {
+            "question": "You are on a container vessel. What concerning the handling and stowage of containerized hazardous materials is TRUE?",
+            "option1": "Open-bed containers may be used to transport hazardous materials if the cargo is properly secured.",
+            "option2": "A portable cargo tank containing a cryogenic liquid must be shipped on deck unless forced ventilation is provided to the decks-decks.",
+            "option3": "A container loaded with packages of tear gas would display a placard reading 'Irritant.'"
+        },
+        {
+            "question": "You are on a container vessel. What concerning the handling and stowage of containerized hazardous materials is TRUE?",
+            "option1": "Open-bed containers may be used to transport hazardous materials if the cargo is properly secured.",
+            "option2": "A portable cargo tank containing a cryogenic liquid must be shipped on deck unless forced ventilation is provided to the decks-decks.",
+            "option3": "A container loaded with packages of tear gas would display a placard reading 'Irritant.'"
+        },
+        {
+            "question": "You are on a containership carrying a tank container that had been filled with sodium hydroxide solution. The container is empty but has not been cleaned.  Which, if any, placard is required?",
+            "option1": "Black and white corrosive placard",
+            "option2": "Residue label with the UN number",
+            "option3": "No placard is required; the tank openings must be sealed"
+        },
+        {
+            "question": "You are on a containership carrying a tank container that had been filled with sodium hydroxide solution.  The container is empty but has not been cleaned.  Which, if any, placard is required?",
+            "option1": "Black and white corrosive placard.",
+            "option2": "Residue label with the UN number.",
+            "option3": "No placard is required; the tank openings must be sealed."
+        },
+        {
+            "question": "You are on a containership. The cargo includes a container of small arms ammunition, a container of lead-acid storage batteries and a container of methyl acetylene bottles. Which statement is TRUE?",
+            "option1": "No separation is required because freight containers are exempted.",
+            "option2": "The ammunition must be separated from the methyl acetylene by at least one hold.",
+            "option3": "The storage batteries must be at least ten horizontal feet away from the methyl acetylene."
+        },
+        {
+            "question": "You are on a containership. The cargo includes a container of small arms ammunition, a container of lead-acid storage batteries and a container of methyl acetylene bottles.  Which statement is TRUE?",
+            "option1": "No separation is required because freight containers are exempted.",
+            "option2": "The ammunition must be separated from the methyl acetylene by at least one hold.",
+            "option3": "The storage batteries must be at least ten horizontal feet away from the methyl acetylene."
+        },
+        {
+            "question": "You are on a containership. Which statement about the stowage of hazardous materials in containers is TRUE?",
+            "option1": "A refrigerated container with a fuel tank containing a flammable liquid must be stowed on deck.",
+            "option2": "All packages within a container must be marked 'This End Up' to indicate the correct stowage.",
+            "option3": "Packages of liquids within a container should be stowed on  top of packages of solids to prevent crushing."
+        },
+        {
+            "question": "You are on a containership. Which statement about the stowage of hazardous materials in containers is TRUE?",
+            "option1": "A refrigerated container with a fuel tank containing a flammable liquid must be stowed on deck.",
+            "option2": "All packages within a container must be marked 'This End Up' to indicate the correct stowage.",
+            "option3": "Packages of liquids within a container should be stowed on  top of packages of solids to prevent crushing."
+        },
+        {
+            "question": "You are on a multiple product tankship and carrying methyl acrylate, diethanolamine, and triethylamine. Which statement is TRUE?",
+            "option1": "The heating coils to the cargo tank loaded with methyl acrylate must be blanked off.",
+            "option2": "Valve components made of aluminum, copper, or zinc may not  be in contact with the cargoes.",
+            "option3": "Each crew member working on deck must have an emergency escape breathing apparatus."
+        },
+        {
+            "question": "You are on a multiple product tankship and carrying methyl acrylate, diethanolamine, and triethylamine. Which statement is TRUE? ",
+            "option1": "The heating coils to the cargo tank loaded with methyl acrylate must be blanked off.",
+            "option2": "Methyl acrylate may be loaded in a tank adjacent to diethanolamine but not triethylamine.",
+            "option3": "Valve components made of aluminum, copper, or zinc may not be in contact with the cargoes."
+        },
+        {
+            "question": "You are on a multiple-product chemical tanker and will carry cargoes of allyl alcohol, benzene, and propanolamine.  Which of the following is true?",
+            "option1": "Allyl alcohol is incompatible with propanolamine but both are compatible with benzene.",
+            "option2": "Benzene may not be carried in a tank adjacent to either of  the other two cargoes.",
+            "option3": "Propanolamine is compatible with allyl alcohol but must be  segregated from benzene."
+        },
+        {
+            "question": "You are on a multiple-product chemical tanker and will carry cargoes of butyric acid, propylene oxide, and octyl alcohol. Which statement is true?",
+            "option1": "Propylene oxide may not be stowed in a tank adjacent to butyric acid.",
+            "option2": "Butyric acid is incompatible with octyl alcohol but not propylene oxide.",
+            "option3": "All of these cargoes are compatible."
+        },
+        {
+            "question": "You are on a multiple-product chemical tanker and will carry cargoes of butyric acid, propylene oxide, and octyl alcohol. Which statement is true?",
+            "option1": "Propylene oxide may not be stowed in a tank adjacent to butyric acid.",
+            "option2": "All of these cargoes are compatible.",
+            "option3": "Octyl alcohol is incompatible with both butyric acid and propylene oxide."
+        },
+        {
+            "question": "You are on a multiple-product chemical tanker and will carry cargoes of ethanolamine, methyl acrylate, and glycerine. Which statement is true?",
+            "option1": "Glycerine is compatible with both of the other cargoes.",
+            "option2": "Methyl acrylate and ethanolamine are compatible but both must be segregated from glycerine.",
+            "option3": "Glycerine may be stowed adjacent to methyl acrylate but must be segregated from ethanolamine."
+        },
+        {
+            "question": "You are on a multiple-product chemical tanker and will carry cargoes of ethanolamine, methyl acrylate, and glycerine. Which statement is true?",
+            "option1": "Glycerine is compatible with both of the other cargoes.",
+            "option2": "Methyl acrylate and ethanolamine are compatible but both must be segregated from glycerine.",
+            "option3": "All of these cargoes are mutually incompatible."
+        },
+        {
+            "question": "You are on a multiple-product chemical tanker and will carry cargoes of isophorone, ethylenediamine, and creosote. Which of the following is TRUE?",
+            "option1": "All of these cargoes are compatible.",
+            "option2": "All of these cargoes are incompatible.",
+            "option3": "Ethylenediamine is compatible with isophorone but both are  incompatible with creosote."
+        },
+        {
+            "question": "You are on a multiple-product chemical tanker with orders to load diethylamine. What is NOT a requirement for transporting this cargo",
+            "option1": "A person taking cargo samples must wear protective clothing.",
+            "option2": "If you are carrying propionic acid also, the venting systems must be segregated.",
+            "option3": "Each crew member must be provided with an emergency escape breathing apparatus."
+        },
+        {
+            "question": "You are on a multiple-product tankship and scheduled to load a cargo classed as an aromatic amine. What class of cargo that made this cargo incompatible with?",
+            "option1": "Organic anhydrides",
+            "option2": "Phenols",
+            "option3": "Ketones"
+        },
+        {
+            "question": "You are on a tankship carrying benzene in bulk.  Which statement is TRUE?",
+            "option1": "Personnel working in regulated areas must use respirators.",
+            "option2": "Benzene is not a cancer-causing agent.",
+            "option3": "No other cargoes may be carried due to the possibility of  contamination by a carcinogen."
+        },
+        {
+            "question": "You are on a vessel designed to carry compressed gasses in bulk with a cargo of butadiene. Which statement is TRUE? ",
+            "option1": "Silver and copper are prohibited in the parts of valves and fittings in contact with the cargo.",
+            "option2": "The ullage must be padded with compressed air at a minimum pressure of 2 psig.",
+            "option3": "The cargo tank may be sampled only when the tank is being filled."
+        },
+        {
+            "question": "You are planning the stowage of two incompatible products on your multiple-product tankship.  What will NOT provide the  minimum required segregation?",
+            "option1": "Solid (non-intercostal) bulkhead.",
+            "option2": "Diagonally adjacent tanks.",
+            "option3": "Tank containing a third cargo compatible with the other two."
+        },
+        {
+            "question": "You are to load styrene in bulk, which is subject to self-polymerization.  What you must do?",
+            "option1": "Be furnished with a Certificate of Inhibition to be maintained on the bridge.",
+            "option2": "Inject nitrogen to pad any ullage above the styrene to prevent contact with oxygen.",
+            "option3": "Use heating coils to maintain the styrene within the temperatures specified by the shipper."
+        },
+        {
+            "question": "You are transferring a cargo of ethyl chloride and a small amount spills into the water around your vessel. What would be the the solubility of ethyl chloride in water indicated in the Chemical Data Guide?",
+            "option1": "Slight",
+            "option2": "Moderate",
+            "option3": "Negligible"
+        },
+        {
+            "question": "You are transiting a narrow channel. What can happen in this situation?",
+            "option1": "The bow will be pushed away from the bank.",
+            "option2": "The stern will be pushed away from the bank.",
+            "option3": "The bow will be sucked towards the bank."
+        },
+        {
+            "question": "You are transporting dangerous cargo on your vessel. Who must signed the Dangerous Cargo Manifest?",
+            "option1": "Master or his authorized representative.",
+            "option2": "U.S. Coast Guard Marine Inspector.",
+            "option3": "Master only"
+        },
+        {
+            "question": "You are transporting dangerous cargo on your vessel. What does the regulations require you to?",
+            "option1": "Periodically inspect it and make an entry in a log",
+            "option2": "Keep a fire hose run out and ready for use if needed",
+            "option3": "Allow no chipping or painting in the vicinity of the cargo"
+        },
+        {
+            "question": "You are transporting dangerous cargo on your vessel. What does the regulations require you to?",
+            "option1": "Periodically inspect it and make an entry in a log.",
+            "option2": "Keep a warning sign posted nearby.",
+            "option3": "Keep a fire hose run out and ready for use if needed."
+        },
+        {
+            "question": "You are transporting dangerous cargo on your vessel. When must you inspect this cargo?",
+            "option1": "Daily",
+            "option2": "After encountering rough weather",
+            "option3": "After loading and prior to arrival in port only"
+        },
+        {
+            "question": "You have completed a Dangerous Cargo Manifest for dangerous cargoes loaded on board. In which conspicuous location it should be kept?",
+            "option1": "On or near the bridge",
+            "option2": "In the ship's office",
+            "option3": "Outside the Captain's stateroom"
+        },
+        {
+            "question": "You have just discharged a Category 'A' chemical cargo and are making the first wash of the tank that had contained it. The washing contain a chemical residual concentration of over 0.1% by weight. What could you do?",
+            "option1": "Discharge the washing to shore reception facilities only.",
+            "option2": "Discharge the washing to sea only if you are outside a special area.",
+            "option3": "Discharge the washing to sea directly."
+        },
+        {
+            "question": "You have just discharged a Category 'A' chemical cargo and are making the first wash of the tank that had contained it. The washing contain a chemical residual concentration of over 0.1% by weight. What would you do?",
+            "option1": "Discharge the washing to shore reception facilities only.",
+            "option2": "Discharge the washing to sea only if you are outside a special area.",
+            "option3": "Discharge the washing to sea directly."
+        },
+        {
+            "question": "You have orders to load cargoes of carbon disulfide, diisopropylamine and pyridine on your multi-product tankship. Which statement is TRUE?",
+            "option1": "Pyridine need not be separated from carbon disulfide by two barriers (cofferdams, voids, empty tanks, etc.).",
+            "option2": "Pyridine and diisopropylamine may be carried in tanks having a common header vent.",
+            "option3": "A tank of carbon disulfide may be used to separate a tank of pyridine from a tank of diisopropylamine."
+        },
+        {
+            "question": "You have orders to load cargoes of carbon disulfide, diisopropylamine and pyridine on your multi-product tankship. Which statement is TRUE?",
+            "option1": "Diisopropylamine must be separated from carbon disulfide by two barriers (cofferdams, voids, empty tanks, etc.)",
+            "option2": "A tank of carbon disulfide may be used to separate a tank of pyridine from a tank of diisopropylamine.",
+            "option3": "Pyridine and diisopropylamine may be carried in tanks having a common header vent."
+        },
+        {
+            "question": "You receive a package, for shipment aboard your vessel, containing Class 1 explosives. The package is damp, moldy and stained.  What must you do?",
+            "option1": "Refuse to accept the package.",
+            "option2": "Replace the packaging material before stowage.",
+            "option3": "Seek the approval of the USCG Captain of the Port."
+        },
+        {
+            "question": "You receive a package, for shipment aboard your vessel, containing Class 1 explosives. The package is damp, moldy and stained. What must you do?",
+            "option1": "Seek the shipper's advice with regard to withdrawal, repair, or replacement.",
+            "option2": "Repair or replace the packaging before stowage.",
+            "option3": "Have the U.S.C.G. Captain of the Port approve the shipment."
+        },
+        {
+            "question": "You will load and carry a bulk cargo of sulfur at ambient  temperature.  Which statement is true?",
+            "option1": "Bulk sulfur may be carried without a special permit providing the vessel complies with all applicable regulations.",
+            "option2": "The major characteristic of this cargo is that it forms sulfuric acid upon contact with water.",
+            "option3": "The major characteristic of this cargo is that it forms sulfuric acid upon contact with water."
+        },
+        {
+            "question": "You will load class 1.2 commercial explosives and need to construct a portable magazine. What should the magazine MUST be?",
+            "option1": "Be elevated with skids 10cm (3.9 inches) above the deck.",
+            "option2": "Have a hinged cover.",
+            "option3": "Be fastened with nails or screws."
+        },
+        {
+            "question": "Your containership has a container displaying a hazardous cargo placard.  The placard has the number 2199 on it. This indicates that it is carrying what cargo?",
+            "option1": "Phosphine",
+            "option2": "Adiponitrile",
+            "option3": "Xylenol"
+        },
+        {
+            "question": "Your containership has a container displaying a hazardous cargo placard.  The placard has the number 2206 on it. This indicates that it is carrying what cargo?",
+            "option1": "Isocyanates, n.o.s.",
+            "option2": "Xylenol",
+            "option3": "Hexanols"
+        },
+        {
+            "question": "Your containership has a container displaying a hazardous cargo placard.  The placard has the number 2224 on it.  This indicates that it is carrying what cargo?",
+            "option1": "Benzonitrile",
+            "option2": "Acrylic acid",
+            "option3": "Propadiene, inhibited"
+        },
+        {
+            "question": "Your containership has a container displaying a hazardous cargo placard.  The placard has the number 2282 on it. This indicates that it is carrying what cargo?",
+            "option1": "Hexanols",
+            "option2": "Furan",
+            "option3": "Isoheptene"
+        },
+        {
+            "question": "Your ship is carrying hazardous cargo. During a daily inspection, you notice that some of the cargo has shifted and several cases are broken. What you should do FIRST?",
+            "option1": "Report the facts immediately to the Master, who will make a decision.",
+            "option2": "Make a determination of the seriousness of the breakage, and do what you think best.",
+            "option3": "Call out the deck gang to jettison the cargo."
+        },
+        {
+            "question": "Your tankship is carrying a cargo of styrene.  Which of the following is NOT a requirement for carriage of this cargo?",
+            "option1": "P/V valves with galvanized parts must be replaced.",
+            "option2": "You must have a 'Certificate of Inhibition' provided by the shipper.",
+            "option3": "Authorization to carry styrene must be endorsed on the Certificate of Inspection."
+        },
+        {
+            "question": "Your tankship is carrying a cargo of styrene.  Which of the following is NOT a requirement for carriage of this cargo?",
+            "option1": "P/V valves with galvanized parts must be replaced.",
+            "option2": "You must have a 'Certificate of Inhibition' provided by the shipper.",
+            "option3": "Authorization to carry styrene must be endorsed on the Certificate of Inspection."
+        },
+        {
+            "question": "Your U.S. tankship is designed to carry anhydrous ammonia in bulk.  The keel was laid in 1980.  Which statement concerning the carriage of this cargo is TRUE?",
+            "option1": "The cargo may be gauged by automatic float type devices.",
+            "option2": "Carriage of this cargo is authorized by issuance of an IMO Certificate.",
+            "option3": "Aluminum, copper, zinc, and mercury are allowed in valve parts in contact with the cargo."
+        },
+        {
+            "question": "Your vessel is going from a warm climate to a cold climate with a hygroscopic cargo. Which statement is TRUE?",
+            "option1": "You must ventilate constantly and vigorously to combat ship sweat.",
+            "option2": "There is danger of heavy cargo sweat if you ventilate.",
+            "option3": "There is little danger of any sweat problem."
+        },
+        {
+            "question": "Your vessel is loaded with nonhygroscopic cargoes and is going from a cold to a warm climate. What should you do?",
+            "option1": "Not ventilate the cargo holds.",
+            "option2": "Start the intake blowers.",
+            "option3": "Ventilate the cargo holds."
+        },
+        {
+            "question": " What class is an aluminum power fire is classified?",
+            "option1": "D",
+            "option2": "C",
+            "option3": "A  "
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "quizlist": [
+        {
+            "question": "At 2150, your position is LAT 36°57.2'N, LONG 76°01.3'W. In this position on the chart, you note a light magenta line running in a direction of 030°T. What limits does this line indicates of?",
+            "option1": "A pilotage area",
+            "option2": "A precautionary area",
+            "option3": "The Cape Henry Light red sector"
+        },
+        {
+            "question": "",
+            "option1": "",
+            "option2": "Bogota",
+            "option3": "San Juan"
+        },
+        {
+            "question": "If a sound signal is emitted from the oscillator of a fathometer, and two seconds elapse before the returning signal is picked up, what depth of water is indicated? ",
+            "option1": "824 fathoms",
+            "option2": "1048 fathoms",
+            "option3": "1248 fathoms"
+        },
+        {
+            "question": "If the electronic chart is part of an ECDIS, what minimum data required by IMO/IHO it should except for display?",
+            "option1": " tidal current",
+            "option2": "regulatory boundaries",
+            "option3": " aids to navigation"
+        },
+        {
+            "question": "In general, how many radio channels will an automatic identification system (AIS) operate? ",
+            "option1": "2",
+            "option2": "4",
+            "option3": "6"
+        },
+        {
+            "question": "What all echo-sounders can measure?",
+            "option1": "Actual depth of water below keel ",
+            "option2": "Actual depth of water",
+            "option3": "Average depth from waterline to hard bottom"
+        },
+        {
+            "question": "What all echo-sounders can measure?",
+            "option1": "Actual depth of water below keel ",
+            "option2": "Actual depth of water",
+            "option3": "Average depth from waterline to hard bottom"
+        },
+        {
+            "question": "What does an automatic identification system (AIS) transponder use to transmit and receive information broadcasts? ",
+            "option1": "161.975 Mhz and 162.025 Mhz ",
+            "option2": "1575.42 Mhz and 1227.6 Mhz ",
+            "option3": "2182 Khz and 2187.5 Khz"
+        },
+        {
+            "question": "What is called as the database resulting from (1) the transformation of the electronic navigational chart (ENC) by ECDIS for appropriate use, (2) the updates to the ENC by appropriate means, and (3) the additional data added by the mariner?",
+            "option1": "system electronic navigational chart ",
+            "option2": "chart display information ",
+            "option3": "standard display information"
+        },
+        {
+            "question": "What is provided in the highest level of commercial navigational accuracy?",
+            "option1": "DGPS, within a coverage area",
+            "option2": "SPS, without selective availability",
+            "option3": "PPS, without selective availability"
+        },
+        {
+            "question": "What is the geographic longitude of a body whose GHA is 215°15'? ",
+            "option1": "144°45'E",
+            "option2": "144°45'W",
+            "option3": "35°15'E"
+        },
+        {
+            "question": "What is the graphic record produced by the recording fathometer?",
+            "option1": "depth underneath the keel against a time base",
+            "option2": " bottom contour only up to depths of 100 fathoms",
+            "option3": "contour of the bottom against a distance base "
+        },
+        {
+            "question": "What is the typical nominal operating range of automatic identification systems (AIS) at sea?",
+            "option1": "20-25 nm",
+            "option2": " 50-75 nm",
+            "option3": "6-8 nm"
+        },
+        {
+            "question": "What previous hours does ECDIS must have the capability to preserve the record of the voyage track?",
+            "option1": "12 hours",
+            "option2": "24 hours",
+            "option3": "4 hours"
+        },
+        {
+            "question": "What should you apply to a fathometer reading to determine the depth of water? ",
+            "option1": "Add the draft of the vessel.",
+            "option2": "Subtract the draft of the vessel.",
+            "option3": "Subtract the sea water correction. "
+        },
+        {
+            "question": "When using a recording depth finder in the open ocean, what phenomena is most likely to produce a continuous trace that may not be from the actual ocean bottom? ",
+            "option1": "Echoes from a deep scattering layer",
+            "option2": " Echoes from schools of fish ",
+            "option3": "Multiple returns reflected from the bottom to the surface and to the bottom again "
+        },
+        {
+            "question": "",
+            "option1": "",
+            "option2": "",
+            "option3": ""
+        },
+        {
+            "question": "When using an Electronic Plotting Aid (EPA), what should you consider in order to evaluate the information displayed? ",
+            "option1": "Navigational constraints may require a target vessel to change course.",
+            "option2": "The target vessel's generated course and speed are based solely on radar inputs. ",
+            "option3": "The trial maneuver feature will automatically determine a course that will clear all targets. "
+        },
+        {
+            "question": "With regard to GPS, when does a civilian receiver may be capable of achieving the same accuracy as a military receiver?",
+            "option1": "When selective availability is set to zero",
+            "option2": "When the satellites are all below 15° in elevation",
+            "option3": "When your vessel is equipped with a Doppler receiver"
+        },
+        {
+            "question": "With respect to automatic identification systems (AIS), which information is expected to be broadcast every 1 to 10 seconds? ",
+            "option1": "Ship's heading",
+            "option2": "Name of ship",
+            "option3": "IMO number"
+        },
+        {
+            "question": "You are running parallel to the coast and plotting running fixes using bearings of the same object. You are making more speed than assumed for the running fix. What will you be in relation to the position indicated by the fix?",
+            "option1": "Will be farther from the coast",
+            "option2": "Will be closer to the coast",
+            "option3": "Will be on the track line ahead of the fix"
+        },
+        {
+            "question": "You are running parallel to the coast and take a running fix using bearings of the same object. If you are making less speed than used for the running fix, what will you be in relation to the position indicated by the fix?",
+            "option1": "Will be closer to the coast",
+            "option2": "Will be farther from the coast",
+            "option3": "Will be on the track line ahead of the fix"
+        },
+        {
+            "question": "You determined your vessel's position by taking a range and bearing to a buoy. How will be your position be plotted?",
+            "option1": "As estimated position",
+            "option2": "As dead-reckoning position",
+            "option3": "As fix"
+        },
+        {
+            "question": "You plot a fix using three lines of position and find they intersect in a triangle. How should you plot the position of the vessel?",
+            "option1": "In the geometric center of the triangle",
+            "option2": "Outside of the triangle",
+            "option3": "On the line of position from the nearest object, between the other two lines of position"
+        },
+        {
+            "question": "Your ARPA has automatic speed inputs from the log. Due to currents, the log is indicating a faster speed than the speed over the ground. What should you expect under these circumstances? ",
+            "option1": "The targets true course vector will be in error. ",
+            "option2": "The range of initial target acquisition will be less than normal.",
+            "option3": "The generated TCPA will be later than the actual TCPA."
+        },
+        {
+            "question": "Where do you write the note that the chart has been corrected?",
+            "option1": "at the left lower corner",
+            "option2": "at the vicinity of the chart title",
+            "option3": "at the right lower corner"
+        },
+        {
+            "question": "You are in British waters on course 090°T when you sight a flashing white light with a characteristic of VQ(9)10s. You immediately change course to 030°T.  After one hour, you sight another flashing white light with the characteristic  of VQ.  What bouy indicates?",
+            "option1": "north of this buoy",
+            "option2": "east of this buoy",
+            "option3": "south of this buoy"
+        },
+        {
+            "question": "Where in the sextant error when the pivot of the Index bar is not at the center of the arc?",
+            "option1": "centering error",
+            "option2": "shade error",
+            "option3": "prismatic error"
+        },
+        {
+            "question": "Which of the following when subtracted to 90 degrees will give the radius of almucantar?",
+            "option1": "Altitude",
+            "option2": "Amplitude",
+            "option3": "Zenith distance"
+        }
+    ]
+}

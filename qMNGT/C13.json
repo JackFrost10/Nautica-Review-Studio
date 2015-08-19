@@ -1,0 +1,357 @@
+{
+    "quizlist": [
+        {
+            "question": "What may prevent the tank from if a wooden plug fitted tightly in the vent of a damaged tank?",
+            "option1": "Filling completely",
+            "option2": "Developing free surface",
+            "option3": "Developing free surface moment"
+        },
+        {
+            "question": "Aboard damaged vessels, what is the MOST important consideration to preserve?",
+            "option1": "Reserve buoyancy",
+            "option2": "Bilge pumping capacity. ",
+            "option3": "Level attitude"
+        },
+        {
+            "question": "What is Damage stability?",
+            "option1": "Stability after flooding",
+            "option2": "Stability at the maximum load.",
+            "option3": "Stability before collision."
+        },
+        {
+            "question": "Damaged bulkheads often take a permanent set which is independent of the panting or bulge caused by water pressure. What should you do to control this?",
+            "option1": "Install shoring so the shoring supports the damaged bulkheads without pushing on them. ",
+            "option2": "Install shoring so that it pushes on the damaged bulkhead while supporting it. ",
+            "option3": "Use jacks or chain falls to remove the set before installing shores."
+        },
+        {
+            "question": "During counterflooding to correct a severe list aggravated by an off-center load, your vessel suddenly takes a list or trim to the opposite side. What should you do?",
+            "option1": "Immediately stop counterflooding.",
+            "option2": "Deballast from the low side.",
+            "option3": "Continue counterflooding, but in the opposite direction. "
+        },
+        {
+            "option1": "What situation to the flooded space when free communication will adversely affect transverse stability only?",
+            "option2": "off-center",
+            "option3": "on the centerline "
+        },
+        {
+            "question": "Many vessels are provided with flume tanks, which also have a dump tank located under the flume tanks. What will happen in the event the ship is damaged, where you could dump the flume tanks into the dump tank?",
+            "option1": "Reduce the free surface effect and lower the KG.",
+            "option2": "Not have any effect on free surface and lower the KG.",
+            "option3": "Not have any effect on free surface and raise the KG."
+        },
+        {
+            "question": "Where do you obtain the BEST information on the nature and extent of damage to the vessel?",
+            "option1": "Personnel at the scene of the damage",
+            "option2": " The bridge watch",
+            "option3": "The engineroom watch"
+        },
+        {
+            "question": "What is the result of liquids which is the most detrimental effect on initial stability?",
+            "option1": "Flowing in and out of a holed wing tank.",
+            "option2": "Pocketing in a slack tank as a vessel heels. ",
+            "option3": "Completely flood high center tanks."
+        },
+        {
+            "question": "What is known as the percentage of the total surface area or volume of a flooded compartment that can be occupied by water caused by damage?",
+            "option1": "Permeability ",
+            "option2": "Form gain",
+            "option3": "Center of flotation "
+        },
+        {
+            "question": "What stability which remains after a compartment is flooded?",
+            "option1": "Damage stability ",
+            "option2": "Immersion stability",
+            "option3": "Initial stability"
+        },
+        {
+            "question": "What does it means to 'shore up' the main deck for the stowage of deck cargo means?",
+            "option1": "Strengthen the main deck by placing pillars underneath it in the tween-decks.",
+            "option2": "Weld pad eyes on deck in proper position to secure the cargo.",
+            "option3": "Distribute the weight of the cargo by placing fore-and-aft planks on the main deck."
+        },
+        {
+            "question": "What should you do to increase the extent of flooding where your vessel can suffer without sinking?",
+            "option1": "Increase reserve buoyancy.",
+            "option2": "Ballast the vessel. ",
+            "option3": "Lower the center of gravity. "
+        },
+        {
+            "question": "What should you do to prevent loss of stability from free communication flooding?",
+            "option1": "Close any opening to the sea in an off-center tank.",
+            "option2": "Ballast double bottom wing tanks.",
+            "option3": "Completely flood high center tanks ."
+        },
+        {
+            "question": "Besides to determine the thickness of a vessel's shell plating, what else is Ultrasonic testing is used to?",
+            "option1": "Test welds for subsurface defects.",
+            "option2": "Provide tail shaft clearances.",
+            "option3": "Check the wear of the rudder carrier bearing."
+        },
+        {
+            "question": "What is the principal danger from the liquid in a half full tank onboard a vessel? ",
+            "option1": "Loss of stability from free surface effect.",
+            "option2": "Holing of the tank bottom from the weight of the shifting liquid.",
+            "option3": "Rupturing of bulkheads from the shifting liquid."
+        },
+        {
+            "question": "What is used to prevent accidental flooding of a double bottom or peak tanks in the event of a pipe rupture due to collision?",
+            "option1": "Suction lines are fitted with a non-return valve",
+            "option2": "All tanks must be served by the fewest possible number of pipes to reduce the possibility of rupture.",
+            "option3": "Pipe lines must run vertically from the tank to a point above the margin line before turning fore or aft towards the pump."
+        },
+        {
+            "question": "Why is proper sequencing of loading by hatch number is necessary when loading a cargo of taconite?",
+            "option1": "Prevent excessive longitudinal stresses.",
+            "option2": "Control list",
+            "option3": "Prevent negative stability from developing."
+        },
+        {
+            "question": "When loading containers into the cell guides in the hold of a container ship, which statement is TRUE?",
+            "option1": "No further securing is usually required.",
+            "option2": "Containers must have vertical lashings if they do not have twist lock securing.",
+            "option3": "All containers must have vertical and horizontal lashings."
+        },
+        {
+            "question": "When loading deck cargo what reference would you employ to ensure that the safety of the vessel is not impaired?",
+            "option1": "The Merchant Shipping (Load Lines) (Deck Cargo) Regulations 1968.",
+            "option2": "Bulk Carrier handling code.",
+            "option3": "Holds Capacity Plan."
+        },
+        {
+            "question": "Which condition would NOT entitle a vessel to carry goods on deck?",
+            "option1": "The cargo will damage other cargoes by tainting or contamination.",
+            "option2": "The shipper agrees to deck stowage.",
+            "option3": "Deck stowage is required by law or regulation."
+        },
+        {
+            "question": "Which is an advantage of using watertight longitudinal divisions in double bottom tanks?",
+            "option1": "Cuts down free surface effect",
+            "option2": "Increases the rolling period",
+            "option3": "Decreases weight because extra stiffeners are unneeded"
+        },
+        {
+            "question": "Which is an example of failure to exercise due diligence?",
+            "option1": "Overloading",
+            "option2": "Sailing short of union manning requirements.",
+            "option3": "Sailing with less than 30% reserve fuel oil supply."
+        },
+        {
+            "question": "Which tanker discharge pattern would be the safest and most efficient?",
+            "option1": "Start discharging with most of the discharge coming from forward, but include some from midships and after tanks.",
+            "option2": "Empty the forward tanks and start working aft, emptying each tank in sequence.",
+            "option3": "Start pumping from forward, midships, and aft with the discharge distributed equally among the tanks."
+        },
+        {
+            "question": "Which type of hull damage should be repaired FIRST?",
+            "option1": "Damage at or just above the waterline.",
+            "option2": "Damage in way of machinery rooms.",
+            "option3": "Damage below the waterline."
+        },
+        {
+            "question": "Which type of weld testing can be used to detect internal flaws?",
+            "option1": "Ultrasonic",
+            "option2": "Dye penetrant",
+            "option3": "Magnetic particle"
+        },
+        {
+            "question": "Which type of weld testing can be used to detect internal flaws?",
+            "option1": "Radiographic",
+            "option2": "Dye penetrant",
+            "option3": "Magnetic particle"
+        },
+        {
+            "question": "Which type of weld testing can be used to detect the internal flaws?",
+            "option1": "Chemical reaction",
+            "option2": "Dye penetrant",
+            "option3": "Radiographic "
+        },
+        {
+            "question": "Which weld fault can only be detected by a method that examines the internal structure of a weld?",
+            "option1": "Lack of penetration",
+            "option2": "Overlap ",
+            "option3": "Undercut"
+        },
+        {
+            "question": "While in a narrow channel underway, your steering ability becomes a problem and become not underway. What action would you do?",
+            "option1": "Give proper warning signals to an approaching vessel.",
+            "option2": "Secure sidelights and stern lights.",
+            "option3": "Secure the navigation lights."
+        },
+        {
+            "question": "You are attempting to take a dead ship in tow.  All lines have been passed and secured.  How should you get underway?",
+            "option1": "Order minimum turns until the catenary almost breaks the water, then stop.  Order more turns as the hawser slackens  but keep the catenary in the water.",
+            "option2": "Order minimum turns until the towing hawser is taut and then continue at that speed until towing speed is attained.",
+            "option3": "Order minimum turns until the towing hawser is just clear of the water, then reduce speed to that necessary to keep the line clear of the water."
+        },
+        {
+            "question": "You are fighting a fire in a watertight compartment using hoses and river water. Because of what condition that stability may be reduced?",
+            "option1": "Increase in free surface which reduces the metacentric height. ",
+            "option2": "Reduction of KG to the minimum allowable.",
+            "option3": "Reduction of water in the storage tanks. "
+        },
+        {
+            "question": "You are in a tropical port. The refrigeration machinery on a container loaded with air-cooled fruit fails. It cannot be repaired for 18 to 24 hours.  Which step should you take to reduce the temperature rise and spoilage of the fruit?",
+            "option1": "Shade the container and periodically hose it down.",
+            "option2": "Seal any ventilation openings and add dry ice.",
+            "option3": "Spread ice over the top layer and in any voids within the container."
+        },
+        {
+            "question": "You are on a vessel that has broken down and are preparing  to be taken in tow.  You will use your anchor cable as part of the towline.  Which statement is TRUE?",
+            "option1": "The strain of the tow is taken by the riding pawl, chain stopper, and anchor windlass brake.",
+            "option2": "The anchor cable should be veered enough to allow the towline connection to be immediately astern of the towing vessel.",
+            "option3": "The anchor cable should be veered enough to allow the towline connection to be just forward of your bow."
+        },
+        {
+            "question": "You are on the MV Navigator and involved in a collision. Your draft has increased uniformly and there is about 4 feet of freeboard remaining. The vessel is on an even keel and has a long rolling period. The roll is sluggish, and the vessel hangs at the ends of a roll. Which of the following actions would you take first to correct the situation? ",
+            "option1": "Jettison topside weights to increase freeboard.",
+            "option2": "Pump out flooding water in the cargo holds to reduce free surface. ",
+            "option3": "Flood any empty double bottom tanks to decrease KG. "
+        },
+        {
+            "question": "You have completed a Dangerous Cargo Manifest for dangerous cargoes loaded on board. Which conspicuous location it should be kept?",
+            "option1": "On or near the bridge.",
+            "option2": "In the ship's office.",
+            "option3": "Outside the Captain's stateroom."
+        },
+        {
+            "question": "You have taken another vessel in tow.  When could you tell that the towing speed is too fast?",
+            "option1": "Catenary comes clear of the water.",
+            "option2": "Tow line feels like it is 'jumping' when touched.",
+            "option3": "Towed vessel goes 'in irons'."
+        },
+        {
+            "question": "You must shore up a bulkhead due to solid flooding forward. The bulkhead approximates a rectangle. Where should the center of pressure of the shores on the bulkhead should be located?",
+            "option1": "Approximately halfway up the bulkhead.",
+            "option2": "Approximately one-third of the way up the bulkhead.",
+            "option3": "Evenly over the surface of the bulkhead."
+        },
+        {
+            "question": "You must shore up the collision bulkhead due to solid flooding forward. The bulkhead approximates an inverted triangle. Where should the center of pressure of the shores on the bulkhead should be located?",
+            "option1": "Approximately two-thirds of the way up the bulkhead.",
+            "option2": "Evenly over the surface of the bulkhead.",
+            "option3": "Approximately halfway up the bulkhead."
+        },
+        {
+            "question": "Your ship is dead in the water with the rudder amidships. As the right-handed screw starts to turn ahead, where does the bow will tend to go?",
+            "option1": "To port",
+            "option2": "Straight ahead",
+            "option3": "As influenced by the tide and sea"
+        },
+        {
+            "question": "Your ship is drifting in open sea with temporary engine malfunction. You are equipped with precise navigation equipment. What should you do in this situation?",
+            "option1": "Use the opportunity to plot direction and rate of drift for later use.",
+            "option2": "Ask the chief engineer when the engine will be ready.",
+            "option3": "Go to bed and wait for the engine to be ready."
+        },
+        {
+            "question": "Your vessel was grounded on a bar. Which of the following should you do? ",
+            "option1": "Switch to the high suction for condenser circulating water if it is submerged.",
+            "option2": "If you cannot get clear immediately, lighten the ship by pumping all ballast overboard.",
+            "option3": "Pump out dedicated ballast if any."
+        },
+        {
+            "question": "Your vessel has a midships engine room and the cargo is concentrated in the end holds. What is the vessel deflection condition? ",
+            "option1": "Hogging with tensile stress on main deck.",
+            "option2": "Hogging with compressive stress on main deck.",
+            "option3": "Sagging with compressive stress on main deck."
+        },
+        {
+            "question": "Your vessel has been damaged and is partially flooded. What is the first step to be taken in attempting to save the vessel?",
+            "option1": "Establish follding boudaries and prevent further spread of flood water.",
+            "option2": "Calcualte the free surface effectm and lost buoyancy  to determine the vessel's stability. ",
+            "option3": "Pump out the water the vessel."
+        },
+        {
+            "question": "Your vessel has been damaged and you must shore a bulkhead. How should you cut the shore?",
+            "option1": "Approximately shorter than the measured length to allow for wedges. ",
+            "option2": "Approximately 1/2 inch longer than the measured length to allow for trimming. ",
+            "option3": "Approximately 1/2 inch shorter per foot of shoring to allow for wet expansion. "
+        },
+        {
+            "question": "Your vessel has been holed in #1 hold and partially flooded. The hole is plugged against further flooding. In calculating the effect of the flooding on your transverse stability, you should use which method? ",
+            "option1": "Added weight method ",
+            "option2": "Factor of subdivision method ",
+            "option3": "Lost buoyancy method"
+        },
+        {
+            "question": "Your vessel has run aground and is touching bottom for the first one-quarter of its length. What is the LEAST desirable method from the standpoint of stability to decrease the bottom pressure?",
+            "option1": "Flood an after double bottom tank.",
+            "option2": "Pump out the forepeak tank.",
+            "option3": "Shift deck cargo aft."
+        },
+        {
+            "question": "Your vessel has run hard aground in an area subject to heavy wave action.  Backing full astern failed to free her. Which action should be taken next?",
+            "option1": "Flood empty tanks to increase bottom pressure and prevent inshore creep.",
+            "option2": "Wait for high tide and then try backing.",
+            "option3": "Shift weight aft to reduce the forward draft."
+        },
+        {
+            "question": "Your vessel is being towed and back-up wires have been installed. What in the event that Back-up wires carry the towing load?",
+            "option1": "Towing bitt or pad eye fails.",
+            "option2": "Bight ring fails.",
+            "option3": "Main towing hawser parts."
+        },
+        {
+            "question": "Your vessel is being towed and you are using a tripping rope.  When does a tripping rope of fiber or wire is used to?",
+            "option1": "Retrieve the outboard legs of the bridle where they are connected to the fishplate.",
+            "option2": "Retrieve the main tow hawser.",
+            "option3": "Open the pelican hook at the fishplate."
+        },
+        {
+            "question": "Your vessel is broken down and rolling in heavy seas. How could you reduce the danger of capsizing?",
+            "option1": "Rigging a sea anchor.",
+            "option2": "Moving all passengers to one side of the boat.",
+            "option3": "Moving all passengers to the stern."
+        },
+        {
+            "question": "Your vessel is damaged and is listing to port. The rolling period is short. There is sufficient freeboard so that deck edge submersion is not a problem. What corrective action should be taken FIRST in regard to the vessel's stability? ",
+            "option1": "Shift any off-center weights from port to starboard. ",
+            "option2": "Jettison topside weights to reduce KG and KB.",
+            "option3": "Flood any empty double-bottom tanks to add weight low and down."
+        },
+        {
+            "question": "Your vessel is damaged and listing to port. There is a short rolling period around the angle of list. The port side freeboard is reduced to 1 foot. There is no trim and the weather is calm. You should FIRST ",
+            "option1": "Pump out a slack marine portable tank located on the portside amidships.",
+            "option2": "Jettison the anchors and anchor cables. ",
+            "option3": "Fill an empty centerline double bottom tank. "
+        },
+        {
+            "question": "Your vessel is damaged and partially flooded. It is listing 12° to port and trimmed 8 feet down by the head. It has a long, slow, sluggish roll. Which action should you take FIRST? ",
+            "option1": "Press up an after, slack, centerline double bottom tank ",
+            "option2": "Pump out the forepeak tank ",
+            "option3": "Jettison the anchors and anchor cables "
+        },
+        {
+            "question": "Your vessel is damaged with no list, but down by the stern. There is progressive flooding and trim by the stern is increasing. What is the effect on transverse stability after the deck edge at the stern is submerged? ",
+            "option1": "BM decreases from loss of water plane and greater volume.",
+            "option2": "There is no effect on transverse stability. ",
+            "option3": "KG increases due to the weight of the added water on deck. "
+        },
+        {
+            "question": "Your vessel is damaged, and there is no list or trim. The rolling period is short. The freeboard before the damage was 12`02`` (3.7 meters). It is now reduced to 3`-00``(1 meter). Which action would you take FIRST? ",
+            "option1": "Pump out an amidships centerline ballast tank. ",
+            "option2": "Press up a slack centerline double bottom tank.",
+            "option3": "Transfer ballast from the peak tanks to an amidships centerline tank. "
+        },
+        {
+            "question": "Your vessel is damaged, listing to port and on occasion flopping to the same angle to starboard. It has a long, slow, sluggish roll around the angle of list. There is excessive trim by the stern with little freeboard aft. What action should you take FIRST to correct this situation? ",
+            "option1": "Press up any slack double-bottom tanks forward of the tipping center, then fill the forepeak if empty. ",
+            "option2": "Pump out the after peak and fill the forepeak to change the trim. ",
+            "option3": "Pump out any slack after double-bottom tanks to reduce free surface and increase freeboard."
+        },
+        {
+            "question": "Your vessel is listing 4° to port and has a short rolling period. There is loose firefighting water in the hull. The ship is trimmed down by the head with one foot of freeboard at the bow. Which action should you take FIRST? ",
+            "option1": "Pump out the forepeak tank.",
+            "option2": "Press up the slack NO.1 starboard double bottom tank.",
+            "option3": "Eliminate the water in the 'tween decks aft."
+        },
+        {
+            "question": "Your vessel was damaged and initially assumed a significant list and trim; however, further increase has been slow. Based on this data, what should you expect?",
+            "option1": "The vessel can probably be saved if further flooding can be stopped.",
+            "option2": "The vessel will continue to slowly list and/or trim due to  the free surface effect and free communication effect.",
+            "option3": "The vessel will suddenly flop to the same or greater angle  of list on the other side and may capsize."
+        }
+    ]
+}

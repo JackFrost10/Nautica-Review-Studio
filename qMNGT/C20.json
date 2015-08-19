@@ -1,0 +1,178 @@
+{
+    "quizlist": [
+        {
+            "question": "What is a treatment for traumatic shock? ",
+            "option1": "Administer fluids.",
+            "option2": "Administer CPR.",
+            "option3": "Open clothing cooling of the body."
+        },
+        {
+            "question": "What first, second, and third degree burns are classified according to?",
+            "option1": "Layers of skin affected.",
+            "option2": " Area of the body burned.",
+            "option3": "Source of heat causing the burn."
+        },
+        {
+            "question": "What is an emergency life-saving procedure that consists of recognizing and correcting failure of the respiratory or cardiovascular systems?",
+            "option1": " Basic life support",
+            "option2": " First aid",
+            "option3": " Heimlich maneuver"
+        },
+        {
+            "question": "What would you do if a person gets something in his or her eye and you see that it is not embedded?",
+            "option1": "Remove it with a moist, cotton-tipped applicator.",
+            "option2": "Get them to rub their eye until the object is gone.",
+            "option3": "Remove it with a piece of dry sterile cotton."
+        },
+        {
+            "question": "If there is a possibility of confusion, which signal should be used to send the group 'True Bearing 045 Degrees'? ",
+            "option1": "A045",
+            "option2": "B045T",
+            "option3": "B045"
+        },
+        {
+            "question": "A crew member has suffered frostbite to the toes of both feet. What should you do?",
+            "option1": " Immerse the feet in warm water.",
+            "option2": "Warm the feet with a heat lamp.",
+            "option3": "Warm the feet at room temperature."
+        },
+        {
+            "question": "What should you do when a crew member is unconscious and the face is flushed?",
+            "option1": "Lay the crew member down with the head and shoulders slightly raised.",
+            "option2": "Administer a liquid stimulant.",
+            "option3": "Lay the crew member down with the head lower than the feet."
+        },
+        {
+            "question": "A crew member suddenly becomes blind in both eyes.  Which code should your message contain?",
+            "option1": "MNO",
+            "option2": "MNI",
+            "option3": "MNM"
+        },
+        {
+            "question": "A man has a burn on his arm. There is reddening of the skin, blistering, and swelling. What burn is this using standard medical terminology?",
+            "option1": "Second-degree burn",
+            "option2": "Blister burn",
+            "option3": "Secondary burn"
+        },
+        {
+            "question": "A man has suffered a burn on the arm. There is a reddening of the skin but no other apparent damage. What burn is this using standard MEDICAL terminology?",
+            "option1": "First-degree burn",
+            "option2": "Extremity burn",
+            "option3": "Superficial burn"
+        },
+        {
+            "question": "A man has suffered a burn on the arm. There is extensive damage to the skin with charring present. How is this injury classified using standard medical terminology? ",
+            "option1": " Third-degree burn",
+            "option2": "Dermal burn",
+            "option3": "Major burn"
+        },
+        {
+            "question": "A message giving warning of a hurricane should have which prefix when sent by radiotelephone? ",
+            "option1": "Securite Securite Securite",
+            "option2": "TTT TTT TTT",
+            "option3": " Pan-Pan (3 times)."
+        },
+        {
+            "question": "A package contains nitric acid solution and is radioactive. The radiation level at the package surface is .36 millirems per hour. How should this package be labeled?",
+            "option1": "Radioactive I and corrosive.",
+            "option2": "Fissile class I",
+            "option3": "Radioactive II and poison."
+        },
+        {
+            "question": "A patient in shock should NOT be placed in which position?",
+            "option1": "Arms above their head.",
+            "option2": "Flat on their back with head and feet at the same level.",
+            "option3": "Head down and feet up, no injuries to face or head."
+        },
+        {
+            "question": "Why should a person being treated for shock should be wrapped in warm coverings?",
+            "option1": "Preserve body heat.",
+            "option2": "Increase body heat.",
+            "option3": "Avoid self-inflicted wounds caused by spastic movement."
+        },
+        {
+            "question": "A person has suffered a laceration of the arm. Severe bleeding has been controlled by using a sterile dressing and direct pressure. What should you do next? ",
+            "option1": "Apply a pressure bandage over the dressing.",
+            "option2": "Apply a tourniquet to prevent the bleeding from restarting.",
+            "option3": "Remove any small foreign matter and apply antiseptic."
+        },
+        {
+            "question": "What should be done to a person suffering from possible broken bones and internal injuries?",
+            "option1": "Not be moved but made comfortable until medical assistance arrives.",
+            "option2": "Not be allowed to lie down where injured but moved to a chair or bunk.",
+            "option3": "Be examined then walked to a bunk."
+        },
+        {
+            "question": "A petroleum liquid has a flash point of 135°Fahrenheit. How this liquid is classed as a grade?",
+            "option1": "D combustible liquid. ",
+            "option2": "E combustible liquid.",
+            "option3": "C flammable liquid. "
+        },
+        {
+            "question": "Where in the pulse to check where a rescuer can most easily determine whether or not an adult victim has a pulse?",
+            "option1": "Carotid artery in the neck.",
+            "option2": "Femoral artery in the groin. ",
+            "option3": "Brachial artery in the arm."
+        },
+        {
+            "question": "A shipmate chokes suddenly, cannot speak, and starts to turn blue. What should you do?",
+            "option1": "Perform the Heimlich maneuver.",
+            "option2": "Make the victim lie down with the feet elevated to get blood to the brain.",
+            "option3": "Immediately administer CPR."
+        },
+        {
+            "question": "What would precede to a signal indicating Greenwich mean time?",
+            "option1": "A code hoist to indicate Greenwich mean time to follow.",
+            "option2": "The letter G",
+            "option3": "The letters GT"
+        },
+        {
+            "question": "When and only when does a tourniquet should be used to control bleeding?",
+            "option1": "When all other means have failed.",
+            "option2": "With puncture wounds.",
+            "option3": "When the victim is unconscious."
+        },
+        {
+            "question": "What immediately followed does a vessel in distress should send by radio telephone the two tone alarm signal?",
+            "option1": "Spoken words 'Mayday, Mayday, Mayday'.",
+            "option2": "Distress position",
+            "option3": "Ship's name"
+        },
+        {
+            "question": "A victim has suffered a second-degree burn to a small area of the lower arm. What is the proper treatment for this injury? ",
+            "option1": "Immerse the arm in cold water for 1 to 2 hours, apply burn ointment, and bandage.",
+            "option2": "Open any blisters with a sterile needle, apply burn ointment and bandage.",
+            "option3": "Apply burn ointment, remove any foreign material and insure that nothing is in contact with the burn."
+        },
+        {
+            "question": "A victim is coughing and wheezing from a partial obstruction of the airway. What an observer should do?",
+            "option1": "Allow the person to continue coughing and dislodge the obstruction on his own.",
+            "option2": "Give back blows and something to drink.",
+            "option3": "Immediately start CPR."
+        },
+        {
+            "question": "What should your radiotelephone log must contain according to the 'Vessel Bridge-to-Bridge Radiotelephone Act'?",
+            "option1": "A summary of all distress calls and messages.",
+            "option2": "The home address of the vessel's Master or owner.",
+            "option3": "A record of your transmissions only."
+        },
+        {
+            "question": "According to the Chemical Data Guide, propylene oxide is assigned a health hazard rating of 3,2,2. What does the last digit '2' of the rating means?",
+            "option1": "The chemical poison presents some hazard if it enters the body and typically has threshold limits of 100 to 500 ppm.",
+            "option2": "The chemical is severely hazardous, usually having threshold limits below 10 ppm.",
+            "option3": "The chemical contains fairly severe skin irritants, causing second- and third-degree burns after a few minutes contact."
+        },
+        {
+            "question": "According to the Chemical Data Guide, what flash point (degrees F) of fuel oil number 6 has?",
+            "option1": "150° - 430°",
+            "option2": "110° - 140°",
+            "option3": "80° - 100°"
+        },
+        {
+            "question": "According to the Chemical Data Guide, what is NOT a recommended extinguishing agent for an ethyl chloride fire?",
+            "option1": "Alcohol foam.",
+            "option2": "CO2.",
+            "option3": "Dry chemical."
+        }
+    ]
+}

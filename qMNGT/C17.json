@@ -1,0 +1,346 @@
+{
+    "quizlist": [
+        {
+            "question": "'Thermal protective aids' are required for what percentage of the persons survival craft is equipped to carry?",
+            "option1": "10%",
+            "option2": "50%",
+            "option3": "75%"
+        },
+        {
+            "question": "What is the minimum number of fire pumps required on a cargo vessel of 2,000 GT? ",
+            "option1": "2",
+            "option2": "1",
+            "option3": "3"
+        },
+        {
+            "question": "What is the total number of approved low-velocity spray ('water-fog') applicators required aboard a tankship? ",
+            "option1": "7",
+            "option2": "4",
+            "option3": "10"
+        },
+        {
+            "question": "On a vessel of 900 GT, what is the minimum number of fire axes required?",
+            "option1": "6",
+            "option2": "4",
+            "option3": "2"
+        },
+        {
+            "question": "In how many locations must lifeboats be installed on a mobile offshore drilling unit? ",
+            "option1": "2",
+            "option2": "4",
+            "option3": "3"
+        },
+        {
+            "question": "What is the maximum number of sleeping accommodations a barge may have before it is required to have fire pumps, hydrants, hose, and nozzles installed? ",
+            "option1": "12",
+            "option2": "5",
+            "option3": "8"
+        },
+        {
+            "question": "Motor-propelled lifeboats are required to have sufficient fuel to operate continuously at 6 knots for how many hours? ",
+            "option1": "24",
+            "option2": "18",
+            "option3": "12"
+        },
+        {
+            "question": "Why should only dry powder known to be “foam compatible” be used in conjunction with foam to extinguish gas fires?",
+            "option1": "Because certain types of dry powder can cause breakdown of a foam blanket.",
+            "option2": "Because certain types of dry powder has a negligible cooling effect.",
+            "option3": "Because certain types of dry powder not give protection against re-ignition."
+        },
+        {
+            "question": "The gross weight of a fully charged CO2 bottle in a fixed CO2 system is 220 lbs. When the bottle is empty it weighs 120 lbs. What is the minimum acceptable gross weight of the CO2 bottle before it should be recharged by the manufacturer? ",
+            "option1": "210 lbs",
+            "option2": " 220 lbs",
+            "option3": "205 lbs"
+        },
+        {
+            "question": "What must be the least capable attaining speed of a fully loaded motor-propelled lifeboat?",
+            "option1": " 6 knots in smooth water.",
+            "option2": " 3 knots in smooth water.",
+            "option3": "3 knots in rough water."
+        },
+        {
+            "question": "All lifeboats, rescue boats, and rigid-type liferafts shall be stripped, cleaned, and thoroughly overhauled at least once every what?",
+            "option1": "Year",
+            "option2": " 6 months",
+            "option3": "18 months"
+        },
+        {
+            "question": "All towing vessels of 26 feet or longer while navigating are required to carry which item? ",
+            "option1": "A radiotelephone",
+            "option2": "At least two lifeboats.",
+            "option3": "A radio direction finder."
+        },
+        {
+            "question": "After a collision and survivors have been assisted, fire has been controlled, what is the next action of the crew?",
+            "option1": "Resume deck work",
+            "option2": " Damage control",
+            "option3": " Proceed to the nearest port"
+        },
+        {
+            "question": " What is an emergency life-saving procedure that consists of recognizing and correcting failure of the respiratory or cardiovascular systems?",
+            "option1": "Basic life support.",
+            "option2": "First aid",
+            "option3": " Heimlich maneuver"
+        },
+        {
+            "question": "What should be used to remove corrosion from the swivel on the female coupling of a fire hose? ",
+            "option1": "Fresh water, soap, and a stiff brush.",
+            "option2": "Fish oil and a soft brush.",
+            "option3": "Talc and fine sandpaper."
+        },
+        {
+            "question": "What should be the painter line of an inflatable?",
+            "option1": "Secured to a permanent object on deck.",
+            "option2": "Free running on the deck.",
+            "option3": "Stowed near the raft."
+        },
+        {
+            "question": "What is a spanner?",
+            "option1": "Special wrench for the couplings in a fire hose line.",
+            "option2": "An authomatic wrench",
+            "option3": "Tackle rigged to support a fire hos.e"
+        },
+        {
+            "question": "What is the process of checking a CO2 portable extinguisher annually?",
+            "option1": "Weighing the extinguisher.",
+            "option2": "Reading the gage pressure",
+            "option3": "Discharging a small amount of CO2"
+        },
+        {
+            "question": "To remedy a leaking fire hose connection at the hydrant, what should be secure besides the valve?",
+            "option1": "Replace the gasket in the female coupling.",
+            "option2": "Rethread the male coupling.",
+            "option3": "Reduce fire pump pressure."
+        },
+        {
+            "question": "Which statement is TRUE concerning life jackets which are severely damaged? ",
+            "option1": "They should be replaced.",
+            "option2": " They must be tested for buoyancy before being continued in use.",
+            "option3": "They can be repaired by a reliable seamstress."
+        },
+        {
+            "question": "What is the normal designed CO2 storage tank temperature and pressure associated with a ship's low-pressure CO2 fixed fire extinguishing system?",
+            "option1": "0°F at 300 PSI",
+            "option2": "0°F at 50 PSI",
+            "option3": "70°F at 150 PSI"
+        },
+        {
+            "question": "What is the length of time on cargo vessels, the discharge of the required quantity of carbon dioxide into any 'tight' space shall be completed?",
+            "option1": "2 minutes",
+            "option2": "1 minute",
+            "option3": "4 minutes"
+        },
+        {
+            "question": "What should be the maximun required portable fluid extinguishers?",
+            "option1": "13.5 liters",
+            "option2": "10.5 liters",
+            "option3": "12 liters"
+        },
+        {
+            "question": "What would be the capacity of a One gallon of high expansion foam solution will produce?",
+            "option1": "500 to 1000 gallons of foam",
+            "option2": "100 to 200 gallons of foam",
+            "option3": "25 to 50 gallons of foam"
+        },
+        {
+            "question": "For a period of how many hours does a motor lifeboat shall carry sufficient fuel to operate continuously?",
+            "option1": "24 hours ",
+            "option2": "12 hours ",
+            "option3": "18 hours "
+        },
+        {
+            "question": " When the lifeboat is in a capsized position, a safety belt shall be fitted at each indicated seating position designed to hold a person of a mass of how many kilograms securely in place?",
+            "option1": "100 kgs",
+            "option2": "130 kgs  ",
+            "option3": "110 kgs"
+        },
+        {
+            "question": "Carbon dioxide cylinders which protect machinery spaces, paint lockers and tanks may be located within those spaces when the amount of carbon dioxide does not exceed what weight?",
+            "option1": " 300 lbs",
+            "option2": "150 lbs",
+            "option3": "450 lbs"
+        },
+        {
+            "question": "How much water per person is provided in a life raft not equipped with a desalting apparatus?",
+            "option1": "1.5 litre",
+            "option2": "2 litre",
+            "option3": "3 litre"
+        },
+        {
+            "question": "What is the least time interval for each lifeboat to be lowered and maneuvered in the water?",
+            "option1": "3 months",
+            "option2": "2 months",
+            "option3": "4 months"
+        },
+        {
+            "question": "What minimum capacity of an A B-II fire extinguisher has?",
+            "option1": "10 pounds of dry chemical",
+            "option2": "20 pounds of CO2",
+            "option3": "3 gallons of foam "
+        },
+        {
+            "question": "In weighing CO2 cylinders, how many percent the weight loss exceeds before they must be recharged?",
+            "option1": "10% of weight of charge",
+            "option2": "20% of weight of charge",
+            "option3": "15% of weight of full bottle"
+        },
+        {
+            "question": " When making buoyancy test for lifejackets, the buoyancy should be measured initially and after 24 hours of submersion to just below the water surface. In life jacket buoyancy test, what should be the limit and difference between the initial and final buoyancy?",
+            "option1": "5%",
+            "option2": "25%",
+            "option3": "10%"
+        },
+        {
+            "question": "What should be the lateral field vision of a person wearing and immersion suit and seated in fixed position should be?",
+            "option1": "120 degrees",
+            "option2": "270 degrees",
+            "option3": "135 degrees"
+        },
+        {
+            "question": "What would be the maximum interval onboard training in the davit-launched liferafts that should take place?",
+            "option1": "4 months",
+            "option2": "3 months",
+            "option3": "5 months"
+        },
+        {
+            "question": "Survival crafts are installed so that abandonment should be possible even if the ship is listed to how many degrees?",
+            "option1": "20 degrees",
+            "option2": "30 degrees",
+            "option3": "15 degrees"
+        },
+        {
+            "question": "How many B-II fire extinguishers must be in the machinery space of a 75-foot long fishing vessel propelled by engines with 600 brake horsepower?",
+            "option1": "2",
+            "option2": "4",
+            "option3": "3"
+        },
+        {
+            "question": "How many B-II fire extinguishers must be in the machinery space of a 75-foot long fishing vessel propelled by engines with 600 brake horsepower?",
+            "option1": "2",
+            "option2": "4",
+            "option3": "3"
+        },
+        {
+            "question": "A burning period of the rocket parachute flare should not be less than for how long when it burns?",
+            "option1": "40 secs",
+            "option2": "45 secs",
+            "option3": "55 secs"
+        },
+        {
+            "question": "What is the minimum period of time that the air supply for a self-contained breathing apparatus is required to last?",
+            "option1": "30 minutes",
+            "option2": "60 minutes",
+            "option3": "15 minutes"
+        },
+        {
+            "question": "What should be the Lifebuoys maximum outer diameter?",
+            "option1": "800 mm",
+            "option2": "850 mm",
+            "option3": "950 mm"
+        },
+        {
+            "question": "What is the required minimum capacity of portable fluid extinguishers?",
+            "option1": "9.5 liters",
+            "option2": "9 liters",
+            "option3": "8 liters"
+        },
+        {
+            "question": "What could be an indication of large quantities of gas in the shale shaker area?",
+            "option1": "High formation pressure",
+            "option2": "A break in the drill string",
+            "option3": "Low formation pressure"
+        },
+        {
+            "question": "Instructions  for 'Preparation for welding or hot work in cargo tanks' is laid down by the Norwegian Maritime Directorate. Which of the following requirements regarding welding or hot work corresponds to these instructions?",
+            "option1": "Before hot work or welding in tanks is started, a complete set of duly signed check lists and certificates shall be provided.",
+            "option2": "A complete set of check lists and certificates to be issued by the safety officer for each tank.",
+            "option3": "A common certificate for hot and cold work permit shall be used."
+        },
+        {
+            "question": "What is the reason behind the difference in water spray pattern between the high-velocity tip and low-velocity applicator used with the all-purpose nozzle?",
+            "option1": "The method of breaking up the water stream.",
+            "option2": "A difference in water pressure",
+            "option3": "The length of the applicator"
+        },
+        {
+            "question": "What must ocean going vessels of 100 GT to 400 GT be fitted with for oily mixtures? ",
+            "option1": " A fixed system to discharge oily mixtures to a reception facility.",
+            "option2": "A fixed system to discharge the slops overboard.",
+            "option3": "A portable system to discharge the slops overboard."
+        },
+        {
+            "question": "How is the sea painter is secured in the lifeboat?",
+            "option1": "A turn around a forward thwart with a toggle pin thru the eye.",
+            "option2": "A knot around a thwart",
+            "option3": "An eye splice placed over one of the hooks of the releasing gear."
+        },
+        {
+            "question": "Which lifeboat equipment would be most suitable for night signaling to a ship on the horizon?",
+            "option1": "A red parachute flare.",
+            "option2": "A lantern",
+            "option3": "A red handheld flare."
+        },
+        {
+            "question": "What each open lifeboat on a vessel of an international voyage must carry?",
+            "option1": "A davit span with at least 2 lifelines",
+            "option2": "A motor",
+            "option3": "Hand-propelling gear"
+        },
+        {
+            "question": "Which vessel greater than 100 GT is NOT required to have an EPIRB?",
+            "option1": "A non self-propelled vessel in tow.",
+            "option2": "A towing vessel.",
+            "option3": "A fishing vessel."
+        },
+        {
+            "question": "What will have if the spray of water produced by using the high-velocity fog position on an all-purpose nozzle?",
+            "option1": "Greater range than low-velocity fog.",
+            "option2": "About the same range as low-velocity fog",
+            "option3": "About the same range as low-velocity fog"
+        },
+        {
+            "question": "Where should the portion of the system on an exposed deck of a cutoff valve in the fire-main system of a MODU may be closed to protect from?",
+            "option1": "Freezing",
+            "option2": "Accidental diversion of flow to wrong location.",
+            "option3": "Being used for wash down purposes."
+        },
+        {
+            "question": "What must you do to a shipmate who suffers a heart attack and stops breathing?",
+            "option1": "Immediately start CPR",
+            "option2": "Administer oxygen",
+            "option3": "Make the victim comfortable in a bunk"
+        },
+        {
+            "question": "A large fire, involving class 'A' material, has developed in the ship's galley. What should you do in combating this fire?",
+            "option1": "Cool adjoining horizontal and vertical surfaces before opening the galley door.",
+            "option2": "Advance the hose team into the galley without any preparatory action.",
+            "option3": "Have a hose team cool the galley door, then open the door and extinguish the fire using a type B-II extinguisher."
+        },
+        {
+            "question": "On a vessel with lifeboats on both sides, where is No.2 lifeboat located?",
+            "option1": "Forward of lifeboat no.4 on the portside.",
+            "option2": "Aft of lifeboat no.3 on the portside.",
+            "option3": "Forward of lifeboat no.4 on the starboard side."
+        },
+        {
+            "question": "Which one of the listed requirements regarding abandon ship drills corresponds to present SOLAS regulation?",
+            "option1": "Each lifeboat shall be launched with its assigned crew, and maneuvered in the water at least once every three months during an abandon ship drill.",
+            "option2": "All lifeboats shall be lowered during drills.",
+            "option3": "On ships on short international voyages, each lifeboat shall be launched and maneuvered in the water at least every six months."
+        },
+        {
+            "question": "Where may be used to is Water fog from an all-purpose nozzle?",
+            "option1": "Eliminate smoke from a compartment.",
+            "option2": "Eliminate smoke from engine room.",
+            "option3": "Fight a magnesium fire."
+        },
+        {
+            "question": "Which statement is TRUE concerning a motor lifeboat? ",
+            "option1": "It must be able to maintain a loaded speed of 6 knots.",
+            "option2": "It must be able to run at loaded speed of more than 6 knots.",
+            "option3": "It has a sufficient fuel capacity, if motorized, for 48 hours of operation."
+        }
+    ]
+}

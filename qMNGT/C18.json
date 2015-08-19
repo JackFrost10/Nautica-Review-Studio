@@ -1,0 +1,178 @@
+{
+    "quizlist": [
+        {
+            "question": "What is the minimum period of time that the air supply for a self-contained breathing apparatus is required to last? ",
+            "option1": "30 minutes",
+            "option2": "10 minutes",
+            "option3": "15 minutes"
+        },
+        {
+            "question": "Which of the following is NOT priority consideration when deciding damage control measures after a fire or explosion onboard?",
+            "option1": "Salvage works",
+            "option2": " Pollution prevention",
+            "option3": " Damage to cargo"
+        },
+        {
+            "question": "According to regulations, how many B-II hand portable fire  extinguishers are required in the cargo tank area of an unmanned, cargo pump-equipped tank barge engaged in transferring grade B flammable liquids?",
+            "option1": "Two",
+            "option2": "One",
+            "option3": "Three"
+        },
+        {
+            "question": "Assuming that your vessel is in a damaged condition and you have just beached the ship. What would be your immediate actions?",
+            "option1": "My subsequent actions on taking the ground is to order the Chief Officer to walk back both anchors to prevent accidentally re-floating off the ground into a deep water predicament.",
+            "option2": "Close down the depth of water around the propeller.",
+            "option3": "In the event barrier equipment is not available, ignore an improvised boom with mooring ropes."
+        },
+        {
+            "question": "Flames from small leaks of LFG may be extinguished by what?",
+            "option1": "Letting it burn itself out.",
+            "option2": "Blowing the flames out.",
+            "option3": "Utilizing soda and acid fire extinguishers."
+        },
+        {
+            "question": "Following receipt of a distress message your vessel is requisitioned to assist. You acknowledge the call and proceed towards the distress area. What navigational procedures would you employ to ensure your own ship’s safety while at the same time effectively moving to relieve the distress situation?",
+            "option1": "As the Master I would place the vessel on an alert status and establish an operational ‘Bridge Team’ to include the engine room being placed on ‘stand-by’.",
+            "option2": "The Bridge Team would operate under auto steering at normal sea speed until closing the area. ",
+            "option3": "Maneuvering speed would not be adopted (the speed of approach being faster than the speed of search and engagement)."
+        },
+        {
+            "question": "Following the loss of a ‘man overboard’, you take the ‘conn’ and complete a Williamson Turn maneuvers but are unable to locate the man in the water. What would you now do?",
+            "option1": "I would conduct a ‘sector search’, as recommended by the IAMSAR Manual. During this period I would keep the RCC appraised of my activities and the results of any findings.",
+            "option2": "I would keep off the RCC appraised of my activities and the results of any findings.",
+            "option3": "I would consider checking the sea temperature before conducting a man overboard search"
+        },
+        {
+            "question": "Having made a distress call, what must you do once the distress situation is reCieved?",
+            "option1": "Cancell the distress communication once the distress situation is resolved.",
+            "option2": "Give instruction to OOW to continue listening on DSC.",
+            "option3": "Maintain listening DSC and VHF."
+        },
+        {
+            "question": "Having recovered two survivors from a marine disaster scene, what essential questions would you need to ask them as part of your debriefing?",
+            "option1": "Following the recovery of survivors the Master of the recovering vessel would obtain the following information such as name and rank of the survivor and name of ship/vehicle/flight definition.",
+            "option2": "Following the recovery of survivors the Master of the recovering vessel would obtain the quantity and quality of cargo.",
+            "option3": "Following the recovery of survivors the Master of the recovering vessel would obtain the ship's registry."
+        },
+        {
+            "question": "How many B-II fire extinguishers must be in the machinery space of a 175-foot long fishing vessel propelled by engines with 3200 brake horsepower?",
+            "option1": "4",
+            "option2": "5",
+            "option3": "2"
+        },
+        {
+            "question": "How would you ensure your crew are trained to handle situation disasters?",
+            "option1": "Throughout the period of the voyage it would be prudent to exercise the crew in disaster training scenarios. This could be carried out during the period of boat and fire drills.",
+            "option2": "No active drills with personnel being interchanged to provide multiplicity on essential tasks. ",
+            "option3": "Disaster/safety videos could be shown to crew if required."
+        },
+        {
+            "question": "In the event that you would have to beach your vessel, in order to prevent a total constructive loss, what ideal conditions would you prefer?",
+            "option1": "The ideal conditions for a beaching operation should include communications into and out of the beach area and during daylight operation.",
+            "option2": "The ideal conditions for a beaching operation should be Sheltered from underlying weather.",
+            "option3": "The ideal conditions for a beaching operation should be Current-free and/or tidal situation."
+        },
+        {
+            "question": "What is a document clause thaIt relates to a vessel with liberty to sail without pilots, to call at any port for any reasonable purpose, to tow and to be towed and assist vessel in distress?",
+            "option1": "Deviation clause",
+            "option2": "Exception clause",
+            "option3": "Dreading clause"
+        },
+        {
+            "question": "What is the best extinguisher of Oil fires?",
+            "option1": "Cutting off the supply of oxygen.",
+            "option2": "Removing the fuel.",
+            "option3": "Cooling below the ignition temperature."
+        },
+        {
+            "question": "To which group of hydrocarbons do Benzene and Toluene belong?",
+            "option1": "Aromatic",
+            "option2": "Alcohol",
+            "option3": "Empty cargo spaces"
+        },
+        {
+            "question": "What actions are actuated by a sequence of steps during the C02 flooding system?",
+            "option1": "break glass, pull valve, break glass, pull cylinder control",
+            "option2": "sound evacuation alarm, pull handle",
+            "option3": "open bypass valve, break glass, pull handle"
+        },
+        {
+            "question": "What duties would you expect to conduct when acting as an On Scene Co-coordinator in an SAR operation?",
+            "option1": "Provide a communication platform between the search units, the Rescue Co-ordination Centre and other interested parties. Essential activities would include establishing the position and status of all search units.",
+            "option2": "Debrief survivors and resume search plans on updated information.",
+            "option3": "Allocate normal communication channels."
+        },
+        {
+            "question": "What emergency equipment would you think could reduce the period of conducting a search pattern?",
+            "option1": "The use of an Emergency Position Indicating Radio Beacon (EPIRB) or Search and Rescue Transponder (SART) could positively identify the targets position and reduce search time.",
+            "option2": "The use of ECDIS for safe navigation.",
+            "option3": "The use of Smoke signal."
+        },
+        {
+            "question": "What factors would determine the chosen ‘track space’ when engaging in an Search and Rescue (SAR) search pattern?",
+            "option1": "Track space for a search operation would be based on Recommendations from Rescue Co-ordination Centre (RCC) and/or On Scene Co-coordinator (OSC).",
+            "option2": "The quality of radar target presented.",
+            "option3": "The surface search units employed."
+        },
+        {
+            "question": "What is the key to rescuing a man overboard?",
+            "option1": "Well-conducted drills.",
+            "option2": "Good equipment",
+            "option3": "A dedicated crew."
+        },
+        {
+            "question": "What is to be preserved, as the MOST important consideration aboard the damaged vessels?",
+            "option1": "Reserve buoyancy",
+            "option2": "Bilge pumping capacity.",
+            "option3": "Level attitude"
+        },
+        {
+            "question": "What kind of stability which remains after a compartment is flooded?",
+            "option1": "Damage stability",
+            "option2": "Immersion stability",
+            "option3": "Initial stability"
+        },
+        {
+            "question": "What preservation is the most important consideration with the damaged floating vessels?",
+            "option1": "Reserve buoyancy",
+            "option2": "Bilge pumping capacity.",
+            "option3": "Level attitude"
+        },
+        {
+            "question": "What safety precautions are in place to prevent accidental release of the CO2 injection system into the engine room?",
+            "option1": "The remote cabinet outside the CO2 room is fitted with a ‘break glass take key to unlock’ Operation. Once inside the cabinet a stop valve control must be released prior to operation of the pilot bottles that activate the CO2 bottle bank.",
+            "option2": "The remote cabinet outside the CO2 room is fitted with a ‘Stevenson screen to unlock’ Operation.",
+            "option3": "Once inside the cabinet a release valve control must be released following to operation of the pilot bottles that activate the CO2 bottle bank."
+        },
+        {
+            "question": "What should you do during counter flooding to correct a severe list aggravated by an off-center load when your vessel suddenly takes a list or trim to the opposite side, ?",
+            "option1": "immediately stop counter flooding",
+            "option2": "deballast from the low side",
+            "option3": "continue counter flooding, but in the opposite direction"
+        },
+        {
+            "question": "What type or ideal of vessels would suit to act as OSC?",
+            "option1": "The ideal vessel that is considered most suitable for the role of OSC is of course the warship. It is in possession of all or most of the above requirements.",
+            "option2": "The ideal vessel that is considered most suitable for the role of OSC is of the Cruise ship. It is in possession of all the latest medical requirements.",
+            "option3": "The ideal vessel that is considered most suitable for the role of OSC is the vessel that arrive first on the scene."
+        },
+        {
+            "question": "What would be the stability in damage stability?",
+            "option1": "After flooding",
+            "option2": "At the maximum load.",
+            "option3": "Before collision"
+        },
+        {
+            "question": "When alongside working cargo in a port in the Far East, you are informed that a tropical revolving storm (TRS) is imminent. What options are available to you?",
+            "option1": "Stopping cargo operations, closing up all hatches and re-secure cargo lashings.",
+            "option2": "Enhance any free surface within the vessel to improve the stability.",
+            "option3": "Place the engines and crew on normal stand-by."
+        },
+        {
+            "question": "When carrying out an emergency steering gear test drill, what would you expect to do and observe?",
+            "option1": "Once the drill has been conducted, a statement shall be recorded in both the Official and Deck, Log Books.",
+            "option2": "The drill should demonstrate incapacity of ship’s steering from the steering flat compartment instead of from the navigation bridge.",
+            "option3": "The communication between the two stations, steering flat/bridge, should not be tested and seen to be adequate."
+        }
+    ]
+}

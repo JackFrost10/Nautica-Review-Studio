@@ -1,0 +1,346 @@
+{
+    "quizlist": [
+        {
+            "question": "What is called as the use of an anchor to assist in turning in restricted waters?",
+            "option1": "good seamanship",
+            "option2": "a last resort",
+            "option3": "the sign of a novice shiphandler"
+        },
+        {
+            "question": "What must you be aware of the fact when using the anchor to steady the bow while approaching a dock?",
+            "option1": "using an offshore anchor decreases the chances of the anchor holding",
+            "option2": "the anchor cable must never lead under the hull",
+            "option3": "steering control is ineffective in trying to turn to the side opposite to that of the anchor being used"
+        },
+        {
+            "question": "You are approaching a pier and intend to use the port anchor to assist in docking port side to. When would you NOT use the anchor?",
+            "option1": "there is shallow water enroute to the berth",
+            "option2": "the wind was blowing from the starboard side",
+            "option3": "another vessel is berthed ahead of your position"
+        },
+        {
+            "question": "You are going astern (single-screw, right-handed propeller) with the anchor down at a scope of twice the depth of the water. What should you expect as the anchor dredges?",
+            "option1": "stern to walk to port but at a reduced rate",
+            "option2": "stern to walk to port at a faster rate than normal",
+            "option3": "vessel to back in a straight line"
+        },
+        {
+            "question": "You are using the anchor to steady the bow while maneuvering.When do you expect to have the proper scope of anchor cable?",
+            "option1": "bow is held in position with the engines coming slowly ahead",
+            "option2": "anchor is just touching the bottom",
+            "option3": "scope is not more than 5 times the depth of the water"
+        },
+        {
+            "question": "As the propeller turns, voids are formed on the trailing and leading edges of the propeller blades causing a loss of propulsive efficiency, pitting of the blades, and vibration. How these voids are known as?",
+            "option1": "cavitation",
+            "option2": "advance",
+            "option3": "edging"
+        },
+        {
+            "question": "When a tug is pulling on a hawser at right angles to the ship, on the ship's engine, what care must be taken by the pilot?",
+            "option1": "does not get too much way on the vessel",
+            "option2": "does not break the towline",
+            "option3": "keeps a steady course so the towline will remain tight"
+        },
+        {
+            "question": "You are 15 feet off a pier and docking a vessel using only a bow breast line and stern breast line. Once the slack is out of both lines you begin to haul in on the bow breast line. What is the effect on the vessel?",
+            "option1": "The bow will come in and the stern will remain the same distance off the pier.",
+            "option2": "The stern will come in and the bow will remain the same distance off the pier.",
+            "option3": "The bow and stern come in equally closer toward the pier."
+        },
+        {
+            "question": "You are docking a ship with a single-screw tug assisting on your starboard bow. How should the tug be tied up if you are anticipating that she will have to hold your bow off while you stem the current?",
+            "option1": "The tug should put a stern line up, leading ahead on the ship.",
+            "option2": "The tug should put a spring line up, leading astern on the ship.",
+            "option3": "The tug would need at least two head lines."
+        },
+        {
+            "question": "You are approaching a pier and intend to use the port anchor to assist in docking port side to. When You would NOT use the anchor?",
+            "option1": "there is shallow water enroute to the berth",
+            "option2": "the current was setting you on the pier",
+            "option3": "another vessel is berthed ahead of your position"
+        },
+        {
+            "question": "You are going astern (single-screw, right-handed propeller) with the anchor down at a scope of twice the depth of the water. What should you expect as the anchor dredges?",
+            "option1": "stern to walk to port but at a reduced rate",
+            "option2": "stern to walk to port at a faster rate than normal",
+            "option3": "stern to walk to the same side as the anchor being used"
+        },
+        {
+            "question": "You are using the anchor to steady the bow while maneuvering. When do you have the proper scope of anchor cable?",
+            "option1": "bow is held in position with the engines coming slowly ahead",
+            "option2": "anchor is just touching the bottom",
+            "option3": "scope is not more than 5 times the depth of the water"
+        },
+        {
+            "question": "When a tug is pulling on a hawser at right angles to the ship, on the ship's engine, what care must be taken by the pilot?",
+            "option1": "does not get too much way on the vessel",
+            "option2": "does not break the towline",
+            "option3": "keeps a steady course so the towline will remain tight"
+        },
+        {
+            "question": "You are 15 feet off a pier and docking a vessel using only a bow breast line and stern breast line. Once the slack is out of both lines you begin to haul in on the bow breast line. What is the effect on the vessel?",
+            "option1": "The bow will come in and the stern will remain the same distance off the pier.",
+            "option2": "The stern will come in and the bow will remain the same distance off the pier.",
+            "option3": "The bow will come in and the stern will go out."
+        },
+        {
+            "question": "You are docking a ship with a single-screw tug assisting on your starboard bow. How should the tug be tied up if you are anticipating that she will have to hold your bow off while you stem the current?",
+            "option1": "The tug should put a stern line up, leading ahead on the ship.",
+            "option2": "The tug should put a spring line up, leading astern on the ship.",
+            "option3": "The tug would need at least two head lines."
+        },
+        {
+            "question": "You are docking a vessel in a slip which has its entrance athwart the tide. You land the ship across the end of the pier, stemming the tide, preparatory to breaking the ship around the corner. You have one tug to assist. Where would you generally tie up the tug?",
+            "option1": "Tie her up on the offshore bow.",
+            "option2": "Tie her up on the inshore quarter to lift the stern.",
+            "option3": "Have her on a hawser from the stern."
+        },
+        {
+            "question": "You are docking a ship with a single-screw tug assisting on your starboard bow. How should the tug be tied up if you are anticipating that she will have to hold your bow off while you stem the current?",
+            "option1": "The tug should put a stern line up, leading ahead on the ship.",
+            "option2": "The tug should put a spring line up, leading astern on the ship.",
+            "option3": "The tug would need at least two head lines."
+        },
+        {
+            "question": "You are docking a vessel in a slip which has its entrance athwart the tide. You land the ship across the end of the pier, stemming the tide, preparatory to breaking the ship around the corner. You have one tug to assist. Where would you generally tie up the tug?",
+            "option1": "Tie her up on the offshore bow.",
+            "option2": "Tie her up on the inshore quarter to lift the stern.",
+            "option3": "Tie her up on the inshore bow to hold the ship off the end."
+        },
+        {
+            "question": "You are docking a vessel starboard side to with the assistance of two tugs. You are attempting to hold the vessel off by operating both tugs at right angles to the vessel and at full power. What should you ensure?",
+            "option1": "the ship has no headway at the time",
+            "option2": "the bow closes the dock first",
+            "option3": "the bow doesn't close the dock first"
+        },
+        {
+            "question": "You are docking a vessel. What is the aspect wind and current are most favorable?",
+            "option1": "parallel to the pier from ahead",
+            "option2": "setting you on the pier",
+            "option3": "crossing your course in opposite directions"
+        },
+        {
+            "question": "You are docking an oceangoing single-screw vessel under normal circumstances with a single tug. What the tug is usually used to?",
+            "option1": "control the bow and is tied to the offshore bow",
+            "option2": "control the stern and is tied to the stern on the offshore side",
+            "option3": "pull the vessel into the slip and is tied to the bow"
+        },
+        {
+            "question": "You are landing a single-screw vessel with a left-handed propeller, starboard side to the dock. As you approach the dock you back your engine with your rudder amidships. What would you expect the vessel to?",
+            "option1": "turn its stern towards the dock",
+            "option2": "drift away from the dock",
+            "option3": "turn its bow towards the dock"
+        },
+        {
+            "question": "You are landing a single-screw vessel, with a right-hand propeller, starboard side to the dock. When you have approached the berth and back the engine, what would you expect the vessel to?",
+            "option1": "turn her bow toward the dock",
+            "option2": "lose headway without swinging",
+            "option3": "turn her bow away from the dock"
+        },
+        {
+            "question": "Your vessel is port side to a pier with a spring line led aft from the bow. In calm weather, what will happen to the bow and stern when putting the engines ahead with the rudder hard left?",
+            "option1": "the bow in and the stern out",
+            "option2": "both the bow and stern in",
+            "option3": "the bow out and the stern in"
+        },
+        {
+            "question": "Your vessel is off a lee shore in heavy weather and laboring.  Which action should you take?",
+            "option1": "Put the sea and wind about two points on either bow and reduce speed.",
+            "option2": "Put the sea and wind on either quarter and proceed at increased speed.",
+            "option3": "Put the bow directly into the sea and proceed at full speed."
+        },
+        {
+            "question": "Your vessel is backing on the starboard screw, and going ahead on the port screw.  What will happen to the bow?",
+            "option1": "swing to starboard",
+            "option2": "swing to port",
+            "option3": "back on a straight line"
+        },
+        {
+            "question": "Your vessel is a single-screw ship with a right-hand propeller.  There is no current. What is the easiest way to make a landing?",
+            "option1": "port side to",
+            "option2": "either port or starboard side to, with no difference in degree of difficulty",
+            "option3": "starboard side to"
+        },
+        {
+            "question": "Your ship is going full astern and making sternway. Where will the 'pivot point' be located? No wind, current.",
+            "option1": "Somewhere aft of the center of gravity, but it is impossible to pin-point the exact location",
+            "option2": "At 1/6 of the ship's length from the stern",
+            "option3": "at the center of gravity"
+        },
+        {
+            "question": "Your ship is going full ahead as you start to slow down. Where is the position of the 'pivot point' now? No wind, current.",
+            "option1": "It will move aft as the ship slows down",
+            "option2": "It will move to the side of the center line",
+            "option3": "Same position as when the ship is on full ahead"
+        },
+        {
+            "question": "Your ship is drifting in open sea with temporary engine malfunction. You are equipped with precise navigation equipment. What should you do in this situation?",
+            "option1": "Use the opportunity to plot direction and rate of drift for later use",
+            "option2": "ask the chief engineer when the engine will be ready",
+            "option3": "Go to bed and wait for the engine to be ready"
+        },
+        {
+            "question": "Your ship is dead in the water with the rudder amidships. As the right-handed screw starts to turn ahead,where does the bow will tend to go?",
+            "option1": "to port",
+            "option2": "as influenced by the tide and sea",
+            "option3": "to starboard"
+        },
+        {
+            "question": "You have made a turning test on full speed in deep water. You are now going to make a test in shallow water. Do you think the turning diameter will be the same?",
+            "option1": "No, the turning diameter will be increased in shallow water.",
+            "option2": "Yes, the turning diameter will be the same for all depths.",
+            "option3": "No, the turning diameter will be smaller  in shallow water."
+        },
+        {
+            "question": "You have made a turning circle at full speed in deep water. You are now going to make one with initial speed, slow ahead. Do you think the diameter will differ from that of initial full ahead?",
+            "option1": "The diameter will be the same whatever initial speed we have when starting the turn.",
+            "option2": "Yes, it will be much greater with slow ahead.",
+            "option3": "Yes, it will be a large difference in the turning diameter between full and slow ahead."
+        },
+        {
+            "question": "You are on a course of 000°T and put the rudder right 30°.  In which direction will the transfer be measured?",
+            "option1": "090°T",
+            "option2": "180°T",
+            "option3": "270°T"
+        },
+        {
+            "question": "A channel is stated as having a controlling depth of 38 feet. Which statement is TRUE?",
+            "option1": "100% of the channel width is clear to 38 feet.",
+            "option2": "The sides of the channel conform to at least 50% of the controlling depth.",
+            "option3": "At least 50% of the channel is cleared to the charted depth."
+        },
+        {
+            "question": "When underway with a tow, you are required to notify the Coast Guard in which casualty situation? ",
+            "option1": "Accidental stranding or grounding",
+            "option2": "An injury requiring first aid treatment",
+            "option3": "Damage of bridge-to-bridge radio capability"
+        },
+        {
+            "question": "You are mooring to a buoy.  You should approach the buoy with the current from where?",
+            "option1": "ahead",
+            "option2": "abeam",
+            "option3": "astern"
+        },
+        {
+            "question": "Your vessel is to dock bow first at a pier without the assistance of tugboats.  Which line will be the most useful when maneuvering the vessel alongside the pier?",
+            "option1": "Bow spring line",
+            "option2": "Inshore head line",
+            "option3": "Bow breast line"
+        },
+        {
+            "question": "You are making a sharp turn in a channel and using a buoy four points on the bow to gauge your rate of turn.  If you observe the buoy moving forward relative to you, what should you do?",
+            "option1": "Decrease the rate of turn",
+            "option2": "Maintain a constant rate of turn",
+            "option3": "Increase the rate of turn"
+        },
+        {
+            "question": "Your vessel is to unmoor. Two tugs will assist at the unmooring. Which position and how do you want to use the tugs?",
+            "option1": "Fast FWD and AFT in center lead to pull the vessel out from the jetty and make it in position for voyage.",
+            "option2": "Make fast on ship's flat side to keep  the vessel in position when unmooring and pull vessel out from the jetty. ",
+            "option3": "Pushing on vessel's flat side to keep the vessel in position when unmooring."
+        },
+        {
+            "question": "You are planning to anchor in an area where several anchors have been lost due to fouling.  As a precaution, whar should you do?",
+            "option1": "fit a crown strap and work wire to the anchor",
+            "option2": "anchor using both anchors",
+            "option3": "anchor with scope of 8 or more to 1"
+        },
+        {
+            "question": "Your vessel is proceeding along a narrow channel.  The effect called bank cushion has which effect on the vessel?",
+            "option1": "Forces the bow away from the bank",
+            "option2": "Forces the entire vessel bodily away from the bank",
+            "option3": "Decreases the draft at the bow"
+        },
+        {
+            "question": "When navigating in ‘deep water’ you experience a shallow sounding which is not indicated on the chart. What would you do?",
+            "option1": "I would order the navigator to note the position of the reduced sounding and report the same by means of the Hydrographical Note (H102), found in the WNM and in the ‘Mariners Handbook’.",
+            "option2": "Set the draft warning to the maximum depth in the echo sounder.",
+            "option3": "Calibrate the fathometer weekly or monthly."
+        },
+        {
+            "question": "You are making a sharp turn in a channel and using a buoy four points on the bow to gauge your rate of turn.  If you observe the buoy moving aft relative to you, what should you do?",
+            "option1": "Increase the rate of turn",
+            "option2": "Maintain a constant rate of turn",
+            "option3": "Decrease the rate of turn"
+        },
+        {
+            "question": "Your vessel is going alongside. One tug will assist at the mooring. Which position and how do you want to use the tug?",
+            "option1": "Make fast on the vessel's shoulder to push and pull.",
+            "option2": "Make fast aft to pull when needed.",
+            "option3": "Pushing at vessel's flat side where it is needed."
+        },
+        {
+            "question": "Your vessel is to turn in a narrow canal by use of one tug (turn to port with the bow). In which position and how would you use the tug?",
+            "option1": "Make the tug fast on port shoulder to pull.",
+            "option2": "Make the tug fast aft for pulling.",
+            "option3": "Make the tug fast on starboard shoulder to push."
+        },
+        {
+            "question": "If there is no slip, what is called as the distance that a ship moves forward with each revolution of its propeller?",
+            "option1": "pitch",
+            "option2": "advance",
+            "option3": "head reach"
+        },
+        {
+            "question": "Your vessel is going alongside a pier. Two tugs will assist at the mooring. Which position and how do you want to use the tugs?",
+            "option1": "Pushing on ship's flat side and make fast in the vessel for pulling if needed.",
+            "option2": "Pushing on ship's flat side not made fast to be able to move in best position if needed.",
+            "option3": "Fast FWD and AFT in center lead."
+        },
+        {
+            "question": "Your vessel is off a lee shore in heavy weather and laboring.  Which action should you take?",
+            "option1": "Put the sea and wind about two points on either bow and reduce speed.",
+            "option2": "Put the sea and wind on either quarter and proceed at increased speed.",
+            "option3": "Put the bow directly into the sea and proceed at full speed."
+        },
+        {
+            "question": "Your vessel is being towed and you are using a tripping rope. What is the use of a tripping rope of fiber or wire?",
+            "option1": "retrieve the outboard legs of the bridle where they are connected to the fishplate",
+            "option2": "retrieve the main tow hawser",
+            "option3": "open the pelican hook at the fishplate"
+        },
+        {
+            "question": "What is that common occurrence when a vessel is running into shallow water?",
+            "option1": "squat will cause a decrease in bottom clearance and an increase in draft",
+            "option2": "the vessel is more responsive to the rudder",
+            "option3": "the wake is less pronounced"
+        },
+        {
+            "question": "Your vessel is backing on the starboard screw, and going ahead on the port screw.  What happens to the bow?",
+            "option1": "swing to starboard",
+            "option2": "swing to port",
+            "option3": "back on a straight line"
+        },
+        {
+            "question": "Your vessel is port side to a pier with a spring line led aft from the bow.  In calm weather, which direction when putting the engines ahead with the rudder hard left?",
+            "option1": "the bow in and the stern out",
+            "option2": "the bow out and the stern in",
+            "option3": "both the bow and stern out"
+        },
+        {
+            "question": "You are performing an overtaking maneuver in confined waters. What should you watch out for?",
+            "option1": "The bow may be sucked against, and the stern may be pushed away from the other ship as you pass.",
+            "option2": "That you keep your ship on full ahead",
+            "option3": "That the other ship does not increase its speed"
+        },
+        {
+            "question": "You are transiting a narrow channel. What can happen in this situation?",
+            "option1": "The bow will be pushed away from the bank",
+            "option2": "The stern will be pushed away from the bank",
+            "option3": "The bow will be sucked towards the bank"
+        },
+        {
+            "question": "You are meeting with another ship in confined waters. What can happen as the ships approach each other?",
+            "option1": "The bows of the ships will be pushed away from each other",
+            "option2": "This does not apply to your vessel",
+            "option3": "The bows of the ships will be sucked together"
+        },
+        {
+            "question": "You are maneuvering a vessel with a right-hand propeller.  The rudder is amidships. What will generally back the vessel's bow?",
+            "option1": "to starboard",
+            "option2": "downstream, the stern going in the direction of the current",
+            "option3": "to port"
+        }
+    ]
+}

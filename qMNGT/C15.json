@@ -1,0 +1,436 @@
+{
+    "quizlist": [
+        {
+            "question": "From where the loose liquids flows where the greatest effect on stability occurs?",
+            "option1": "In and out of a vessel that is holed in a wing tank.",
+            "option2": " In and out of a vessel that is holed in a peak tank.",
+            "option3": "From fore to aft in the tanks of a vessel."
+        },
+        {
+            "question": "Your ship's draft is 10 meters, speed 10 knots and having a block coefficient 0f 0.7 water. What will be the underwater clearance if the depth of water is 12 meters?",
+            "option1": "0.6 meters",
+            "option2": "1.4 meters",
+            "option3": "1 meter"
+        },
+        {
+            "question": "What is the equivalent weight of 1,000 short tons?",
+            "option1": "2,000 kips",
+            "option2": "2,000 pounds",
+            "option3": "2,240 long tons"
+        },
+        {
+            "question": "Which likely to have for a semisubmersible which will not remain upright and will assume a list either to port or starboard?",
+            "option1": "A negative GM",
+            "option2": "A large TCG",
+            "option3": "Excessive ballast"
+        },
+        {
+            "question": "Where will the weight be concenrated when a vessel’s bottom will be subjected to tension?",
+            "option1": "amidships",
+            "option2": "aft",
+            "option3": "at both ends of the vessel"
+        },
+        {
+            "question": "Besides the location of the center of gravity, where is Stability principally determined?",
+            "option1": "Center of buoyancy",
+            "option2": "Aft perpendicular",
+            "option3": "keel"
+        },
+        {
+            "question": "While loading a cargo of grain, your vessel develops a list to starboard. How would you correct this?",
+            "option1": "The list man changing the discharge location of the chutes.",
+            "option2": "Allowing the grain to level itself as the hold fills to the spar deck leve.l",
+            "option3": "Trimming the final loading cone by hand."
+        },
+        {
+            "question": "Which likely to have for an inclined semisubmersible with a very short rolling period about a constant angle of list?",
+            "option1": "An off-center TCG",
+            "option2": "An LCG greater than level vessel LCB",
+            "option3": "A negative GM"
+        },
+        {
+            "question": "When does the righting arm has its maximum value for a given displacement?",
+            "option1": "KG is minimum.",
+            "option2": "Angle of inclination is a maximum.",
+            "option3": "Small-angle stability applies."
+        },
+        {
+            "question": "Where does weight is concentrated when a vessel's bottom will be subjected to tension?",
+            "option1": "Amidships",
+            "option2": "At both ends of the vessel",
+            "option3": "Forward"
+        },
+        {
+            "question": "Where does it acts as if it were located if the center of gravity of a freely swinging load is suspended from a pedestal crane?",
+            "option1": "Counterweight",
+            "option2": "Pedestal",
+            "option3": "Longitudinal centerline"
+        },
+        {
+            "question": "Why do we use nickel-alloyed steel, stainless steel or aluminium in cargo tank construction on gas carriers designed for LNG and LEG?",
+            "option1": "Because these metals have a very low thermal expansion coefficient and do not burst of extreme low temperatures.",
+            "option2": "Because these metals cost less than other metal.",
+            "option3": "Because these metals have a high thermal expansion coefficient and do not burst of extreme low temperatures."
+        },
+        {
+            "question": "What yields when subtracting KG from KM?",
+            "option1": "GM",
+            "option2": "BM",
+            "option3": "GZ"
+        },
+        {
+            "question": "Besides the center of gravity, where Stability is determined related to?",
+            "option1": "Center of buoyancy",
+            "option2": "Center of flotation",
+            "option3": "Keel"
+        },
+        {
+            "question": "Where does about the vessel lists and trim?",
+            "option1": "center of flotation",
+            "option2": "center of gravity",
+            "option3": "Centroid of the underwater volume"
+        },
+        {
+            "question": "What is know as the geometric center of the underwater volume?",
+            "option1": "Center of buoyancy",
+            "option2": "Center of gravity",
+            "option3": "Tipping center"
+        },
+        {
+            "question": "What would you multiply with the displacement to determine the righting moment?",
+            "option1": "Righting arm (GZ)",
+            "option2": "Center of gravity (CG)",
+            "option3": "Longitudinal center of gravity (LCG)"
+        },
+        {
+            "question": "Where is the weight of the cargo stowed so that a vessel would be referred to as 'tender'?",
+            "option1": "Concentrated high and the double bottoms are empty.",
+            "option2": "Concentrated low and the double bottoms are full",
+            "option3": "Evenly distributed vertically and the double bottoms are full."
+        },
+        {
+            "question": "What is the usual status of an Structural bulkheads on a MODU?",
+            "option1": "Watertight",
+            "option2": "Continuous",
+            "option3": "Transverse"
+        },
+        {
+            "question": "What is called a a structure, usually made of stone, or cement pilings, which extends from the bank at approximately right angles to the current?",
+            "option1": "Crib",
+            "option2": "Cutoff",
+            "option3": "Dike"
+        },
+        {
+            "question": "While in transit during heavy weather, the crew aboard a vessel should be alert to repeated pounding of waves on the lower bracing. What should be done necessary to the unit?",
+            "option1": "Ballasted to survival draft",
+            "option2": "Deballasted to a shallower draft.",
+            "option3": "Ballasted to a draft in which the KG exceeds the maximum allowed."
+        },
+        {
+            "question": "What increases when topside icing decreases vessel stability?",
+            "option1": "KG",
+            "option2": "Displacement",
+            "option3": "Draft"
+        },
+        {
+            "question": "What is the  true measure of a vessel's stability at all angles of inclination?",
+            "option1": "Righting Moment",
+            "option2": "Displacement",
+            "option3": "Metacentric Height"
+        },
+        {
+            "question": "Where does the height of the metacenter above the keel vary depends to?",
+            "option1": "Draft and beam of the drilling unit.",
+            "option2": "Displacement and deadweight of the drilling unit.",
+            "option3": "Buoyancy and trim of the drilling unit."
+        },
+        {
+            "question": "When does a  vessel is “listed”?",
+            "option1": "Inclined due to an off-center weight.",
+            "option2": "Down by the head.",
+            "option3": "Inclined due to the wind."
+        },
+        {
+            "question": "Besides the position of the center of buoyancy, where else the value of the maximum righting arm depends on?",
+            "option1": "Vertical location of the center of gravity.",
+            "option2": "Downflooding angle",
+            "option3": "Transverse center of gravity."
+        },
+        {
+            "question": "What may caused a virtual rise in the center of gravity?",
+            "option1": "Using fuel from a pressed fuel tank.",
+            "option2": "Emptying a partially filled tank.",
+            "option3": "Transferring ballast from the forepeak to the after peak."
+        },
+        {
+            "question": "When does the natural rolling period of a drilling barge increases?",
+            "option1": "Ice accumulates above deck.",
+            "option2": "Free surfaces are reduced.",
+            "option3": "The setback is placed in the pipe racks."
+        },
+        {
+            "question": "Which term refers to a transverse curvature of the deck?",
+            "option1": "Camber",
+            "option2": "Freeboard",
+            "option3": "Flare"
+        },
+        {
+            "question": "What yields when subtracting GM from KM?",
+            "option1": "KG",
+            "option2": "FS",
+            "option3": "GM"
+        },
+        {
+            "question": "Your vessel rolls slowly and sluggishly. What does this indicates to the vessel?",
+            "option1": "Has poor stability.",
+            "option2": "Has a greater draft forward than aft.",
+            "option3": "Has off-center weights."
+        },
+        {
+            "question": "What will happen to a vessel with a large metacentric height?",
+            "option1": "Be subject to severe racking stresses.",
+            "option2": "Have small amplitude of roll in heavy weather.",
+            "option3": "Be less likely to have cargo shift."
+        },
+        {
+            "question": "What does 'Block stowage' means?",
+            "option1": "Stowing all the cargo for a port in the same area.",
+            "option2": "Having the cargo on pallets.",
+            "option3": "Using port marks on the cargo."
+        },
+        {
+            "question": "What is known as the difference between the height of the metacenter and the metacentric height?",
+            "option1": "Height of the center of gravity.",
+            "option2": "Height of the center of buoyancy.",
+            "option3": "Metacentric radius"
+        },
+        {
+            "question": " What  is called as the stability which remains after a compartment is flooded?",
+            "option1": "Damage stability",
+            "option2": "Immersion stability",
+            "option3": "Initial stability"
+        },
+        {
+            "question": "What yields the vessel's status aboard a vessel, when dividing the sum of the traverse moments by the total weight?",
+            "option1": "Transverse position of the center of gravity.",
+            "option2": "Inclining moments",
+            "option3": "Righting moments"
+        },
+        {
+            "question": "Besides usually off-center, why does topside icing decreases vessel stability?",
+            "option1": "Increases the height of the center of gravity.",
+            "option2": "Increases draft",
+            "option3": "Reduces the pocketing of free surface."
+        },
+        {
+            "question": "What would most adversely affect the stability of the rig when Fighting a rig fire in the ballast pumproom with hoses?",
+            "option1": "A list caused by water filling the compartment.",
+            "option2": "Increasing the permeability of the pumproom.",
+            "option3": "Reduction of drill water from the storage tanks."
+        },
+        {
+            "question": "What are called aboard ship vertical flat plates running transversely and connecting the vertical keel to the margin plates?",
+            "option1": "Floors",
+            "option2": "Intercostals",
+            "option3": "Stringers"
+        },
+        {
+            "question": "What is the metacentric height In a small angle stability?",
+            "option1": "Is calculated by subtracting KG from KM.",
+            "option2": "Is always positiv.",
+            "option3": "Multiplied by the displacement yields the righting moment."
+        },
+        {
+            "question": "When does a vessel will have a greater degree of heel caused by rudder action?",
+            "option1": "Has very little stability.",
+            "option2": "Is deeply loaded and down by the head.",
+            "option3": "Is deeply loaded."
+        },
+        {
+            "question": "Which statement about the free surface correction is TRUE? ",
+            "option1": "The correction decreases as the draft increases",
+            "option2": "It is added to GM at light drafts and subtracted at deep drafts.",
+            "option3": "It is increased if the slack tank is not on the centerline."
+        },
+        {
+            "question": "Your vessel is damaged and is listing to port. The rolling period is short. There is sufficient freeboard so that deck edge submersion is not a problem. What corrective action should be taken FIRST in regard to the vessel's stability? ",
+            "option1": "Shift any off-center weights from port to starboard.",
+            "option2": "Jettison topside weights to reduce KG and KB.",
+            "option3": "Flood any empty double-bottom tanks to add weight low and down."
+        },
+        {
+            "question": "What reduces on a semisubmersible drilling unit, when increasing riser tension?",
+            "option1": "GM",
+            "option2": "KG",
+            "option3": "KM"
+        },
+        {
+            "question": "What will increase as the chance of fatigue failure of a mooring line will during a storm?",
+            "option1": "Vessel motions increase",
+            "option2": "KG increases",
+            "option3": "KG decreases"
+        },
+        {
+            "question": "Your vessel is damaged with no list, but down by the stern. There is progressive flooding and trim by the stern is increasing. What is the effect on transverse stability after the deck edge at the stern is submerged? ",
+            "option1": "BM decreases from loss of water plane and greater volume.",
+            "option2": "KG increases due to the weight of the added water on deck.",
+            "option3": "KB increases, increasing BM and therefore GM."
+        },
+        {
+            "question": "Deballasting a double bottom has what affect on KG? ",
+            "option1": "KG is increased.",
+            "option2": "KG is decreased.",
+            "option3": "KG is not affected."
+        },
+        {
+            "question": "When does the original equilibrium position always unstable?",
+            "option1": "Metacentric height is negative",
+            "option2": "KM is higher than KG",
+            "option3": "KG exceeds maximum allowable limits"
+        },
+        {
+            "question": "What likely to have to a semisubmersible which flops between port and starboard angles of list?",
+            "option1": "KMT less than KGT",
+            "option2": "KMT greater than KML",
+            "option3": "An off-center LCG"
+        },
+        {
+            "question": "Where does a semisubmersible with a negative GM flops to an angle of?",
+            "option1": "Loll",
+            "option2": "List",
+            "option3": "Trim"
+        },
+        {
+            "question": "Vessel A and B are identical. However, 'A' is more tender than 'B'. What does it have when this means that 'A' is relative to 'B'?",
+            "option1": "Smaller GM",
+            "option2": "Lower KG",
+            "option3": "Smaller roll angle"
+        },
+        {
+            "question": "What is called as the horizontal distance between the vertical lines of action of gravity and the buoyant forces?",
+            "option1": "Righting arm",
+            "option2": "Metacentric height",
+            "option3": "Metacentric radius"
+        },
+        {
+            "question": "Which term indicates the rise in height of the bottom plating from the plane of the base line?",
+            "option1": "Deadrise",
+            "option2": "Molded height",
+            "option3": "Sheer"
+        },
+        {
+            "question": "What does a continual worsening of the list or trim indicates? ",
+            "option1": "Progressive flooding",
+            "option2": "Negative GM",
+            "option3": "Structural failure"
+        },
+        {
+            "question": "What would the vessel have if the KG were equal to the KM for small angles of inclination?",
+            "option1": "Neutral stability",
+            "option2": "Positive stability",
+            "option3": "Negative stability"
+        },
+        {
+            "question": "In plugging submerged holes, rags, wedges, and other materials should be used in conjunction with plugs to?",
+            "option1": "Reduce the water leaking around the plugs.",
+            "option2": "Reduce the water pressure on the hull. ",
+            "option3": "Prevent progressive flooding."
+        },
+        {
+            "question": "You are fighting a fire in a watertight compartment using hoses and river water. What may caused the stability to reduced?",
+            "option1": "Increase in free surface which reduces the metacentric height.",
+            "option2": "Reduction of water in the storage tanks.",
+            "option3": "Progressive downflooding."
+        },
+        {
+            "question": "What causes an increase for a movement of liquid in a tank when a drilling barge inclines?",
+            "option1": "Natural rolling period.",
+            "option2": "Righting arm",
+            "option3": "Metacentric height"
+        },
+        {
+            "question": "What yields the vessel's aboard a vessel, when dividing the sum of the vertical moments by the total weight?",
+            "option1": "Height of the center of gravity.",
+            "option2": "Righting moments",
+            "option3": "Vertical moments"
+        },
+        {
+            "question": "You are heading into the sea during rough weather. What could cause to your small boat having too much weight forward?",
+            "option1": "Plunge into the wave",
+            "option2": "Rise rapidly over the wave.",
+            "option3": "List"
+        },
+        {
+            "question": "What is used a measure in the vertical distance between G and M?",
+            "option1": "Initial stability",
+            "option2": "Stability at all angles of inclination.",
+            "option3": "Stability at angles less than the limit of positive stability."
+        },
+        {
+            "question": "What will be the result in the vessel having a large GM?",
+            "option1": "Stiff",
+            "option2": "Subjected to a long roll.",
+            "option3": "Good with transverse stability."
+        },
+        {
+            "question": "While in dry dock your vessel will be belt-gauged. What involves in this this process?",
+            "option1": "Drilling or sonic-testing the hull to determine the plate thickness.",
+            "option2": "Testing and examining the anchor cables for defective links.",
+            "option3": "Measuring the thickness of the tail shaft liner."
+        },
+        {
+            "question": "Why does GM cannot be used as an indicator of stability at all angles of inclination?",
+            "option1": "M is not fixed at large angles.",
+            "option2": "There is no M at large angles.",
+            "option3": "G is not fixed at large angles."
+        },
+        {
+            "question": "Why are stern towing bitts placed well forward of the rudder when hawser towing?",
+            "option1": "To allow the stern to swing more freely when using rudder.",
+            "option2": "To keep the towing bitts as far away as possible from the tugs pivoting point.",
+            "option3": "To have as much of the towing hawser in use as possible."
+        },
+        {
+            "question": "Why do we have longitudinal bulkhead in a prismatic cargo tank?",
+            "option1": "To reduce the free surface ”sloshing” on the cargo.",
+            "option2": "To load two grades of cargo in one tank.",
+            "option3": "To increase the transverse strength of the cargo tank."
+        },
+        {
+            "question": "To calculate the free surface correction, what could necessary divide the free-surface moments?",
+            "option1": "Total displacement",
+            "option2": "Total weight of liquid loads.",
+            "option3": "Lightweight"
+        },
+        {
+            "question": "A wind has caused a difference between drafts starboard and port. What is this difference?",
+            "option1": "Heel",
+            "option2": "Trim",
+            "option3": "Flotation"
+        },
+        {
+            "question": "What is the results in the load’s aboard a vessel, when multiplying a load’s weight by the distance of the load’s center of gravity from the centreline?",
+            "option1": "Transverse moment",
+            "option2": "Vertical moment",
+            "option3": "TCG"
+        },
+        {
+            "question": "What gives for a vessel inclined by the wind, by multiplying the buoyant force by the horizontal distance between the lines of action of the buoyant and gravity forces?",
+            "option1": "Righting moment",
+            "option2": "Vertical moment",
+            "option3": "Longitudinal moment"
+        },
+        {
+            "question": "Which stability that refers to Initial stability?",
+            "option1": "At small angles of inclination.",
+            "option2": "When loaded with minimum deck load.",
+            "option3": "When at transit draft."
+        },
+        {
+            "question": "Initial stability refers to what stability?",
+            "option1": "At small angles of inclination.",
+            "option2": "When loaded with minimum deck load.",
+            "option3": "When at transit draft."
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "quizlist": [
+        {
+            "question": "What causes when temperature and moisture characteristics are modified in a warm or cold air mass?",
+            "option1": "movement of the air mass ",
+            "option2": " pressure changes in the air mass ",
+            "option3": " the heterogeneous nature of the air mass "
+        },
+        {
+            "question": "What is the typical climate of the eastern Gulf coast?",
+            "option1": "varies from warm to subtropical ",
+            "option2": "has a Mediterranean type of climate",
+            "option3": "has an east coast marine type of climate "
+        },
+        {
+            "question": "What is the typical climate of the northern Gulf coast?",
+            "option1": "is a warm marine type of climate",
+            "option2": " varies from warm to subtropical ",
+            "option3": " has an east coast marine type of climate "
+        },
+        {
+            "question": "What a hot air can hold?",
+            "option1": "more moisture than cold air",
+            "option2": " less moisture than cold air ",
+            "option3": " the same amount of moisture as cold air "
+        },
+        {
+            "question": "What is the contrary as the temperature for a given mass of air increases?",
+            "option1": "relative humidity decreases",
+            "option2": "relative humidity increases",
+            "option3": "dew point decreases"
+        },
+        {
+            "question": "What is the contrary as the temperature of an air mass decreases?",
+            "option1": "relative humidity increases",
+            "option2": " absolute humidity decreases",
+            "option3": "specific humidity decreases"
+        },
+        {
+            "question": "What characterized the warm air mass?",
+            "option1": "stability",
+            "option2": "instability ",
+            "option3": "gusty winds "
+        },
+        {
+            "question": "When does an air mass is termed 'warm'?",
+            "option1": "the ground over which it moves is cooler than the air ",
+            "option2": " it is above 70°F",
+            "option3": " it originated in a high pressure area "
+        },
+        {
+            "question": "What warm air masses will generally have?",
+            "option1": "stratiform clouds ",
+            "option2": "turbulence within the mass",
+            "option3": "heavy precipitation "
+        },
+        {
+            "question": "What enables you to estimate the bearing of a storm's center?",
+            "option1": "Buys Ballot's Law",
+            "option2": "An educated guess",
+            "option3": "Pascal's Law"
+        },
+        {
+            "question": "According to Buys Ballot's law, when an observer in the Northern Hemisphere experiences a northeast wind the center of low pressure is located to where?",
+            "option1": "south-southeast",
+            "option2": "northwest",
+            "option3": "west-southwest"
+        },
+        {
+            "question": "According to Buys Ballot's law, when an observer in the Northern Hemisphere experiences a northwest wind, the center of low pressure is located to where?",
+            "option1": "northeast",
+            "option2": "west-southwest",
+            "option3": "northwest"
+        },
+        {
+            "question": "Where is the center of low pressure if an observer in the Northern Hemisphere faces the surface wind?",
+            "option1": "right, slightly behind him ",
+            "option2": "left, slightly behind him ",
+            "option3": "left, slightly in front of him"
+        },
+        {
+            "question": "You are steaming eastward in the North Atlantic in an extratropical cyclonic storm and the wind is dead ahead. Where is the center of the low pressure lies according to the law of Buys Ballot?",
+            "option1": " to the south ",
+            "option2": " to the north",
+            "option3": "astern of you "
+        },
+        {
+            "question": "You are steaming west in the North Atlantic in an extratropical cyclonic storm, and the wind is dead ahead. Where is the center of low pressure lies according to the law of Buys Ballot?",
+            "option1": "north",
+            "option2": "south",
+            "option3": "east"
+        },
+        {
+            "question": "Where is the center of the low pressure is located according to Buys Ballot's Law, when an observer in the Southern Hemisphere experiences a northwest wind?",
+            "option1": "south-southwest",
+            "option2": "east-northeast",
+            "option3": "east-southeast"
+        },
+        {
+            "question": "You are steaming west in the South Atlantic in an extratropical cyclonic storm, and the wind is dead ahead. According to the law of Buys Ballot, where is the center of low pressure lies?",
+            "option1": "to the south of you",
+            "option2": "to the north of you ",
+            "option3": " dead ahead of you"
+        },
+        {
+            "question": "When are the cloud formations are minimal?",
+            "option1": "surface temperature and temperature aloft are equal ",
+            "option2": "surface temperature and temperature aloft differ greatly",
+            "option3": "barometric pressure is very low "
+        },
+        {
+            "question": "How Clouds are classified accordingly?",
+            "option1": "altitude and how they were formed",
+            "option2": " location in a front ",
+            "option3": "moisture content "
+        },
+        {
+            "question": "In many areas 'atoll' clouds (clouds of vertical development) are produced over small islands. These are the result of what?",
+            "option1": "rising air currents produced by the warm islands ",
+            "option2": "warm air from the sea rising over higher land areas ",
+            "option3": "cool land air mixing with warm sea air "
+        },
+        {
+            "question": "How high clouds, composed of small white flakes or scaly globular masses, and often banded together to form a 'mackerelsky' would be classified? ",
+            "option1": "cirrocumulus",
+            "option2": " cirrus",
+            "option3": "altostratus"
+        },
+        {
+            "question": "What is the form of cloud often known as 'mackerel sky' which is generally associated with fair weather?",
+            "option1": "cirrocumulus",
+            "option2": "umulonimbus",
+            "option3": "stratus"
+        },
+        {
+            "question": "Which type of weather could you expect soon after seeing 'hook' or 'comma' shaped cirrus clouds? ",
+            "option1": "Rain with the approach of a warm front ",
+            "option2": "Clearing with the approach of a cold front",
+            "option3": " Continuing fog and rain "
+        },
+        {
+            "question": "How would a cloud of marked vertical development (often anvil-shaped) be classified?",
+            "option1": "cumulonimbus",
+            "option2": "altocumulus",
+            "option3": "cirrocumulus"
+        },
+        {
+            "question": "All of the following, what is not associated with cumulonimbus clouds?",
+            "option1": "steady rainfall ",
+            "option2": " hail storms ",
+            "option3": "thunderstorms"
+        },
+        {
+            "question": "On a clear, warm day, you notice the approach of a tall cumulus cloud. The cloud top has hard well defined edges and rain is falling from the dark lower edge. What follows should this cloud pass directly overhead?",
+            "option1": "it will be preceded by a sudden increase in wind speed ",
+            "option2": "it will be preceded by a sudden decrease in wind speed ",
+            "option3": "the wind speed will not change as it passes "
+        },
+        {
+            "question": "You are anchored in the Aleutian Island chain and receive word that a tsunami is expected to strike the islands in six hours. What is the safest action?",
+            "option1": "Get underway and be in deep, open-ocean water before the tsunami arrives.",
+            "option2": "Increase the scope of the anchor cable and drop the second anchor underfoot at short stay.",
+            "option3": "Get underway and be close inshore on the side of the island away from the tsunami."
+        },
+        {
+            "question": "You are steaming in the open ocean of the North Pacific between the Aleutian Chain and Hawaii. A warning broadcast indicates that an earthquake has occurred in the Aleutians and has generated a tsunami that is predicted to hit Hawaii. What action is necessary for the ship's safety?",
+            "option1": "No special action as tsunamis are inconspicuous in the open ocean",
+            "option2": "Calculate the tsunami's ETA at your position and turn to a course that will head into the Tsunami.",
+            "option3": "Securely stow all loose gear, check deck lashings, and prepare for extreme rolls."
+        },
+        {
+            "question": "You are steaming west in the North Atlantic in an extratropical cyclonic storm, and the wind is dead ahead. According to the law of Buys Ballot, where does the center of low pressure lies?",
+            "option1": "north",
+            "option2": "south",
+            "option3": "east"
+        },
+        {
+            "question": "You are steaming west in the South Atlantic in an extratropical cyclonic storm, and the wind is dead ahead. According to the law of Buys Ballot, where does the center of low pressure lies?",
+            "option1": "to the south of you",
+            "option2": "to the north of you",
+            "option3": "dead ahead of you"
+        },
+        {
+            "question": "What can you expect from frontal activity when two air masses collide?",
+            "option1": "there are significant differences between the temperature of each air mass",
+            "option2": "there are no significant differences between their temperatures and moisture content",
+            "option3": "there are differences in how they track along the jet stream"
+        },
+        {
+            "question": "You can follow the approach of a dangerous cyclonic storm by inspecting like what?",
+            "option1": "a newspaper, a weather map, a weather fax, or a weather forecast",
+            "option2": "the National Weather Service Observing Handbook No.1, Marine Surface Observations",
+            "option3": "the Coast Pilot or Sailing Directions"
+        },
+        {
+            "question": "Where does a katabatic wind blows?",
+            "option1": "Down an incline due to cooling of the air.",
+            "option2": "Horizontally between a high and a low pressure area.",
+            "option3": "In a circular pattern."
+        },
+        {
+            "question": "What is the range of tide?",
+            "option1": "Difference between the heights of high and low tide.",
+            "option2": "Distance the tide moves out from the shore.",
+            "option3": "Muration of time between high and low tide."
+        },
+        {
+            "question": "What is the reference datum used in determining the heights of land features on most charts?",
+            "option1": "Mean high water",
+            "option2": "Mean sea level",
+            "option3": "Mean low water"
+        },
+        {
+            "question": "What tide occurs at time of new moon and full moon?",
+            "option1": "Spring tide",
+            "option2": "Neap tide",
+            "option3": "Priming "
+        },
+        {
+            "question": "What is the velocity of the current in large coastal harbors?",
+            "option1": "Predicted in Tidal Current Tables.",
+            "option2": "Unpredictable",
+            "option3": "Generally constant"
+        },
+        {
+            "question": "When is the water is said to be a slack?",
+            "option1": "No horizontal and vertical motion of the water",
+            "option2": "A weak ebb or flood current",
+            "option3": "No horizontal motion of the water"
+        },
+        {
+            "question": "The williwaw of the Aleutian coast, the Tehuantepecer of the Mexican and central American coast, the Pampero of the Argentine coast, the mistral of the western Mediterranean and the Bora of the eastern Mediterranean are examples of which of the following?",
+            "option1": "Fall wind",
+            "option2": "Stationary fronts",
+            "option3": "Typhoons"
+        },
+        {
+            "question": "What is known as the winds you would expect to encounter in the North Atlantic between latitudes 5° and 30° are known?",
+            "option1": "Trades",
+            "option2": "Easterlies",
+            "option3": "Westerlies"
+        },
+        {
+            "question": "What indicates in the numeral of the center of a wind rose circle on a pilot chart?",
+            "option1": "Percentage of calms.",
+            "option2": "Average wind force in knots.",
+            "option3": "Total number of observations."
+        },
+        {
+            "question": "What is the periodic rise and fall of water resulting from gravitational interactions between the sun, moon, and earth?",
+            "option1": "Tide",
+            "option2": "current",
+            "option3": "Wave"
+        },
+        {
+            "question": "What is the point in the earth's orbit where, it is near at aphelion and experiences summer in the northern hemisphere and winter in the southern hemisphere?",
+            "option1": "Summer solstice.",
+            "option2": "Winter solstice.",
+            "option3": "Vernal equinox."
+        },
+        {
+            "question": "What may indicates the proximity of pack ice?",
+            "option1": "Glare on clouds on the horizon.",
+            "option2": "Icebergs",
+            "option3": "Changes in  air temperature."
+        },
+        {
+            "question": "When does an air mass is termed 'warm'?",
+            "option1": "The ground over which it moves is cooler than the air.",
+            "option2": "It originated in a low pressure area.",
+            "option3": "It originated in a high pressure area."
+        }
+    ]
+}

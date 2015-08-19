@@ -1,0 +1,352 @@
+{
+    "quizlist": [
+        {
+            "question": " In addition to the requirements concerning radiowatchkeeping, the master of every seagoing ship should ensure that:",
+            "option1": "the ship's radio station is adequately manned for the purpose of exchanging general communications - in particular public correspondence, taking into account the constraints imposed by the duties of those authorized to operate it",
+            "option2": "the ship's radio station is not-adequately manned for the purpose of exchanging general communications - in particular public correspondence, taking not into account the constraints imposed by the duties of those authorized to operate",
+            "option3": "the ship's radio station is adequately unmanned for the purpose of exchanging general communications - in particular public correspondence, nottaking into account the constraints imposed by the duties of those authorized to operate it"
+        },
+        {
+            "question": "What action when the officer in charge of the navigational watch shall notify the master immediately?",
+            "option1": "If, unexpectedly, land or a navigation mark is sighted or a change in soundings occurs",
+            "option2": "if no restricted visibility is encountered or expected",
+            "option3": "if no difficulty is experienced in maintaining course"
+        },
+        {
+            "question": "What purpose it shall serve if a proper look-out shall be maintained at all times in compliance with rule 5 of the International Regulations for Preventing Collisions at Sea, 1972?",
+            "option1": "maintaining a continuous state of vigilance by sight and hearing as well as by all other available means, with regard to any significant change in the operating environment;",
+            "option2": "not-appraising the situation and the risk of collision, stranding and other dangers to navigation;",
+            "option3": "not-detecting ships or aircraft in distress, shipwrecked persons, and wrecks"
+        },
+        {
+            "question": "After completing the 8–12 night watch at sea and handing over to the 2nd Officer, what would be your actions?",
+            "option1": "Having handed over the watch, I would complete writing up the Deck Log Book, and sign the book as a true record of events. I would proceed below decks and carry out ‘ships rounds’ and security checks, inspecting all accommodation alleyways, storage and domestic spaces.",
+            "option2": "Having handed over the watch, I would immediately rushed to my cabin and take a rest",
+            "option3": "Having handed over the watch, I will immediately go to the mess hall and have my meal"
+        },
+        {
+            "question": "For towing vessel over 100 GT that are permitted to maintain a two-watch system, what percentage of the deck crew must be Able Seamen?",
+            "option1": "50%",
+            "option2": "65%",
+            "option3": "75%"
+        },
+        {
+            "question": "How should the hours of rest Under the Manila Amendments to the STCW Convention may be divided into?",
+            "option1": "No more than 2 periods, one of which shall more than 2 periods, one of which shall be at least 6h in length, be at least 6h in length",
+            "option2": " no more than 1.5 periods, one of which shall more than 1.5 periods, one of which shall be at least 6h in length, be at least 6h in length",
+            "option3": " no more than 2 periods, one of which shall more than 2 periods, one of which shall be at least 6h in length, be at least 6h in length"
+        },
+        {
+            "question": "How should the Masters Standing Orders be followed?",
+            "option1": "The Master considers carefully the special circumstances, which exist every time he takes over command.",
+            "option2": "These aspects does not relate to the particular ship and to the officers and crew serving in her. ",
+            "option3": "There is no temptation to use just one or two set of tried and tested master's standing orders without any adjustment for each ship."
+        },
+        {
+            "question": "In a narrow channel, how many blasts an overtaking vessel which intends to PASS on the other vessel's port side would sounds?",
+            "option1": " two short blasts ",
+            "option2": " two prolonged followed by two short blasts ",
+            "option3": "one short blast "
+        },
+        {
+            "question": "In addition to maintaining a proper look-out for the purpose of fully appraising the situation and the risk of collision, stranding and other dangers to navigation, the duties of the look-out shall include the detection of ships or aircraft in distress, shipwrecked persons, wrecks and debris. What should be observed in maintaining a look-out?",
+            "option1": "the look-out must be able to give full attention to the keeping of a proper look-out and no other duties shall be undertaken or assigned which could interfere with that task; ",
+            "option2": "The officer in charge of the watch is the sole look-out in. daylight provided that on each such occasion: ",
+            "option3": "the situation has been carefully assessed and it has not been established without doubt that it is safe to do so; "
+        },
+        {
+            "question": "In taking over the watch, what shall the officer in charge of the navigational watch must do?",
+            "option1": "not hand over the watch to the relieving officer if there is reason to believe that the latter is not capable of carrying out the watchkeeping duties effectively, in which case the master shall be notified",
+            "option2": "hand over the watch to the relieving officer if there is reason to believe that the latter is capable of carrying out the watchkeeping duties effectively, in which case the master shall be notified",
+            "option3": "hand over the watch to the relieving officer if there is reason to believe that the latter is uncapable of carrying out the watchkeeping duties effectively, in which case the master shall be notified"
+        },
+        {
+            "question": "What does the Officers of the navigational watch must know?",
+            "option1": "know the handling characteristics of their ship and other operations",
+            "option2": " know excluding its stopping distances",
+            "option3": "should not appreciate that other ships may have different handling characteristics. "
+        },
+        {
+            "question": "The hours of rest Under the Manila Amendments to the STCW Conventionmay be divided into how many period?",
+            "option1": "no more than 2 periods, one of which shall more than 2 periods, one of which shall be at least 6h in length, be at least 6h in length",
+            "option2": " no more than 1.5 periods, one of which shall more than 1.5 periods, one of which shall be at least 6h in length, be at least 6h in length",
+            "option3": " no more than 2 periods, one of which shall more than 2 periods, one of which shall be at least 6h in length, be at least 6h in length"
+        },
+        {
+            "question": "What action provided on each such occasion where the officer in charge of the navigational watch may be the sole look-out in daylight?",
+            "option1": "the situation has been carefully assessed and it has been established without doubt that it is safe to do so;",
+            "option2": "no full account has been taken of all relevant factors including, but not limited to:",
+            "option3": "the attention is un-necessary when navigating in or near traffic separation schemes"
+        },
+        {
+            "question": "When does the officer in charge of the navigational watch must notify the master immediately?",
+            "option1": "if restricted visibility is encountered or expected",
+            "option2": "if the traffic conditions or the movements of other ships are not causing concern;",
+            "option3": "if no difficulty is experienced in maintaining course"
+        },
+        {
+            "question": "What does the officer in charge of the navigational watch must do?",
+            "option1": "keep the watch on the bridge",
+            "option2": "in any circumstances could leave the bridge until properly relieved",
+            "option3": "discontinue to be responsible for the safe navigation of the ship, despite the presence of the master on the bridge, until informed specifically that the master has assumed that responsibility and this is mutually understood"
+        },
+        {
+            "question": "The officer in charge of the navigational watch shall bear in mind the necessity to comply at all times with the requirements in force of the International Convention for the Safety of Life at Sea, (SOLAS) 1974. What account the officer of the navigational watch shall take into?",
+            "option1": "the need to station a person to steer the ship and to put the steering into manual control in good time to allow any potentially hazardous situation to be dealt with in a safe manner",
+            "option2": "the need to station a person to steer the ship and to put the steering into manual control in no time to allow any potentially hazardous situation to be dealt with in a safe manner",
+            "option3": "that with a ship under automatic steering it is not dangerous to allow a situation to develop to the point where the officer in charge of the navigational watch is without assistance "
+        },
+        {
+            "question": "What should the officer in charge of the navigational watch should check during his watch? make regular checks to ensure that:",
+            "option1": "the person steering the ship or the automatic pilot is steering the correct course;",
+            "option2": "the standard compass error is not determined even at least once a watch ",
+            "option3": "when possible, after any major alteration of course; the standard and gyro-compasses are not compared and repeaters are not synchronized with their master compass;"
+        },
+        {
+            "question": "Under the exception clause of STCW Convention, parties may allow exceptions from the required hours of rest. What is the provision that the rest period should be?",
+            "option1": "not less than 70 hours in any 7 day period ",
+            "option2": "not less than 70 hours in any 6 day period ",
+            "option3": "not less than 77 hours in any 7 day period "
+        },
+        {
+            "question": "Under the Manila Amendments to the STCW Convention, all persons who are assigned duty as officer in charge of a watch or as a rating forming part of a watch and those whose duties involve designated safety, prevention of pollution and security duties shall be provided with a rest period of not less than:",
+            "option1": "a minimum of 10 hours of rest in any 24-hour period",
+            "option2": "a minimum of 12 hours of rest in any 24-hour period",
+            "option3": "a minimum of 8 hours of rest in any 24-hour period"
+        },
+        {
+            "question": "What does the signal indicates when a vessel sounds one short blast?",
+            "option1": "she is altering course to starboard",
+            "option2": "she intends to pass port to port",
+            "option3": "she intends to pass starboard to starboard"
+        },
+        {
+            "question": "What following factors, inter alia, shall be taken into account when deciding the composition of the watch on the bridge, which may include appropriately qualified ratings?",
+            "option1": "at no time shall the bridge be left unattended;",
+            "option2": "keep the bridge attended;",
+            "option3": "weather conditions, visibility and whether there is no daylight or darkness;"
+        },
+        {
+            "question": "What night signals does a vessel constrained by her draft may display?",
+            "option1": "three all-round red lights in addition to the lights required for a power-driven vessel of her class ",
+            "option2": "the lights for a power-driven vessel which is not under command",
+            "option3": "the same lights as a vessel restricted in her ability to maneuver "
+        },
+        {
+            "question": "What other lights should a power-driven vessel pushing ahead or towing alongside should show besides her sidelights and stern light?",
+            "option1": "two masthead lights in a vertical line",
+            "option2": "a single white light forward",
+            "option3": "two yellow masthead lights in a vertical line "
+        },
+        {
+            "question": "What purpose shall serve that a proper look-out shall be maintained at all times in compliance with rule 5 of the International Regulations for Preventing Collisions at Sea, 1972?",
+            "option1": "maintaining a continuous state of vigilance by sight and hearing as well as by all other available means, with regard to any significant change in the operating environment;",
+            "option2": "not-appraising the situation and the risk of collision, stranding and other dangers to navigation;",
+            "option3": "not-detecting ships or aircraft in distress, shipwrecked persons, and wrecks"
+        },
+        {
+            "question": "What rest hours should be provided to all persons who are assigned duty as officer in charge of a watch or as a rating forming part of a watch and those whose duties involve designated safety, prevention of pollution and security duties under the Manila Amendments to the STCW Convention?",
+            "option1": "a minimum of 10 hours of rest in any 24-hour period",
+            "option2": "a minimum of 12 hours of rest in any 24-hour period",
+            "option3": "a minimum of 8 hours of rest in any 24-hour period"
+        },
+        {
+            "question": "What shall the officer in charge of the navigational watch must do while vessel at anchor?",
+            "option1": "determine and plot the ship’s position on the appropriate chart as soon as practicable",
+            "option2": "ensure that proper lookout is acceptable if not maintained",
+            "option3": "don't notify the master and does not undertake any necessary measures if the ship drags anchor;"
+        },
+        {
+            "question": "What should the master of every seagoing ship should ensure in addition to the requirements concerning radiowatchkeeping?",
+            "option1": "the ship's radio station is adequately manned for the purpose of exchanging general communications - in particular public correspondence, taking into account the constraints imposed by the duties of those authorized to operate it",
+            "option2": "the ship's radio station is not-adequately manned for the purpose of exchanging general communications - in particular public correspondence, taking not into account the constraints imposed by the duties of those authorized to operate",
+            "option3": "the ship's radio station is adequately unmanned for the purpose of exchanging general communications - in particular public correspondence, nottaking into account the constraints imposed by the duties of those authorized to operate it"
+        },
+        {
+            "question": "What should you do  as an aid to preventing thievery on the vessel while you are on anchor watch?",
+            "option1": "show anchor lights, deck lights and cargo lights hung over the vessel's side ",
+            "option2": "maintain water on deck with firehoses led out and all-purpose nozzles attached",
+            "option3": "only show the required anchor lights and keep the rest of the vessel darkened"
+        },
+        {
+            "question": "What should you do when navigating a vessel?",
+            "option1": "should never rely on a floating aid to maintain its exact position",
+            "option2": "should assume a wreck buoy is directly over the wreck",
+            "option3": "can always rely on a buoy to show proper light characteristics"
+        },
+        {
+            "question": "When deciding the composition of the watch on the bridge, which may include appropriately qualified ratings, what deciding factors, inter alia, shall be taken into account?",
+            "option1": "at no time shall the bridge be left unattended",
+            "option2": "the bridge could be left by duty officer not more than one hour provided there is an AB on watch",
+            "option3": "the duty officer could left the bridge for 30 minutes only"
+        },
+        {
+            "question": "When does an example of a vessel 'restricted in her ability to maneuver'? ",
+            "option1": "When it is reliable due to its essential simplicity",
+            "option2": "When compass error is negligible at or near the earth's magnetic poles",
+            "option3": "When all points on the compass rose are readily visible"
+        },
+        {
+            "question": "When does the officer in charge of the navigational watch may be the sole look-out in daylight provided that on each such occasion?",
+            "option1": "When the situation has been carefully assessed and it has been established without doubt that it is safe to do so;",
+            "option2": "When no full account has been taken of all relevant factors including, but not limited to:",
+            "option3": "When the attention is un-necessary when navigating in or near traffic separation schemes"
+        },
+        {
+            "question": "When does the officer in charge of the navigational watch must notify the master immediately?",
+            "option1": "if restricted visibility is encountered or expected",
+            "option2": "if the traffic conditions or the movements of other ships are not causing concern;",
+            "option3": "if no difficulty is experienced in maintaining course"
+        },
+        {
+            "question": "When does the officer in charge of the navigational watch shall immediately notify the master?",
+            "option1": "If, unexpectedly, land or a navigation mark is sighted or a change in soundings occurs",
+            "option2": "if no restricted visibility is encountered or expected",
+            "option3": "if no difficulty is experienced in maintaining course"
+        },
+        {
+            "question": "When on a coastal passage through the English Channel the OOW reports sighting a red and white striped, round buoy on the surface. It is identified as a submarine indicator buoy. What would you do?",
+            "option1": "As Master of the vessel I would immediately take the ‘conn’ of the vessel and establish a Bridge Team in position, manoeuvre the vessel to circle the buoy, keeping my engines running.",
+            "option2": "I would disregard a chart assessment to include the position of the buoy and note the depth in this area.",
+            "option3": "Any available information I would communicate to the Admiralty via the ship's owner all relevant details effecting the sighting of the buoy."
+        },
+        {
+            "question": "When restricted visibility is encountered or expected, the first responsibility of the officer in charge of the navigational watch is to comply with the relevant rules of the International Regulations for Preventing Collisions . In addition, what must the officer in charge of the navigational must do?",
+            "option1": "post a proper lookout",
+            "option2": "not inform the master",
+            "option3": "not exhibit navigation lights;"
+        },
+        {
+            "question": "When restricted visibility is encountered or expected, the first responsibility of the officer of the watch is to comply with the relevant rules of the applicable regulations for preventing collisions at sea, with particular regard to the sounding of fog signals, proceeding at a safe speed and having the engines ready for immediate manoeuvres. What are the additional responsibilities that the OOW must comply with?",
+            "option1": "post a proper look-out and helmsman and, in congested waters, revert to hand steering immediately; exhibit navigation lights; operate and use the radar; inform the master.",
+            "option2": "gather all required charts, list of lights and apply necessary corrections",
+            "option3": "gather and recondition all fire fighting equipments, life saving equipments and other necessary ship's safety equipments needed"
+        },
+        {
+            "question": "Which whistle signal may be sounded by one of two vessels in sight of each other? ",
+            "option1": "One short blast",
+            "option2": "One short, one prolonged, and one short blast ",
+            "option3": "One prolonged blast "
+        },
+        {
+            "question": "What shall, while at anchor the officer in charge of the navigational must do?",
+            "option1": "determine and plot the ship’s position on the appropriate chart as soon as practicable",
+            "option2": "ensure that proper lookout is acceptable if not maintained",
+            "option3": "don't notify the master and does not undertake any necessary measures if the ship drags anchor;"
+        },
+        {
+            "question": "Why does the officer in charge of the navigational watch should make regular checks? ",
+            "option1": "to ensure that the person steering the ship or the automatic pilot is steering the correct course;",
+            "option2": "to check that the standard compass error is not determined even at least once a watch ",
+            "option3": "when possible, after any major alteration of course; the standard and gyro-compasses are not compared and repeaters are not synchronized with their master compass;"
+        },
+        {
+            "question": "You are on anchor watch. What ypu should do as an aid to preventing thievery on the vessel?",
+            "option1": "show anchor lights, deck lights and cargo lights hung over the vessel's side ",
+            "option2": "maintain water on deck with firehoses led out and all-purpose nozzles attached",
+            "option3": "only show the required anchor lights and keep the rest of the vessel darkened"
+        },
+        {
+            "question": "You are operating a vessel in a narrow channel. Your vessel must stay within the channel to be navigated safely. Another vessel is crossing your course from starboard to port, and you are in doubt as to his intentions. What action you are going to do according to Rule 9?",
+            "option1": "may sound the danger signal",
+            "option2": "must sound one prolonged and two short blasts",
+            "option3": "should sound one short blast to indicate that you are holding course and speed "
+        },
+        {
+            "question": "You are underway and pass by a lighthouse. Its light, which was white since you first sighted it, changes to red. What does this means?",
+            "option1": "you have entered an area of shoal water or other hazard",
+            "option2": "it is the identifying light characteristic of the lighthouse",
+            "option3": "the lighthouse has lost power and has switched to emergency lighting"
+        },
+        {
+            "question": "You are underway in fog and hear a fog signal consisting of one prolonged and two short blasts. It could be any of the following EXCEPT a vessel of what?",
+            "option1": "being towed",
+            "option2": "constrained by her draft",
+            "option3": " engaged in fishing "
+        },
+        {
+            "question": "You are underway in heavy fog. You hear the fog signal of a vessel which is somewhere ahead of your vessel. What must you do?",
+            "option1": "slow to bare steerageway and navigate with caution",
+            "option2": "stop engines and navigate with caution",
+            "option3": "maintain speed and sound the danger signal"
+        },
+        {
+            "question": "You are underway in the North Sea on course 216°T when you sight a buoy bearing 021° relative. Under the IALA Buoyage System, how would you determine that you are in the best navigable water?",
+            "option1": "If the buoy has a light characteristic of Q(6) + L Fl 15s",
+            "option2": "If the buoy is horizontally banded yellow, black, yellow",
+            "option3": "If the buoy has a double cone topmark with both points up"
+        },
+        {
+            "question": "You are underway on course 142°T when you sight a buoy bearing 105°T. The buoy's white light has a characteristic of continuous very-quick flashing. What would you do to ensure that your vessel remains in the best navigable water?",
+            "option1": "alter course to port and pass north of the buoy",
+            "option2": "continue on course and ensure that the bearings change to the left",
+            "option3": "pass between the buoy and another buoy showing a fixed white light"
+        },
+        {
+            "question": " Which signal is required to be sounded by a power-driven vessel ONLY?",
+            "option1": "A signal meaning, I am altering my course to starboard.",
+            "option2": "A signal sounded when approaching a bend.",
+            "option3": "A signal meaning that the vessel sounding it is in doubt as to the other vessel's actions."
+        },
+        {
+            "question": " You are on watch in fog.  Which vessel is 'in sight'?",
+            "option1": "A vessel that you can see from the bridge",
+            "option2": "all of the options",
+            "option3": "A vessel from which you can hear the fog signal"
+        },
+        {
+            "question": "During restricted visibility you are posted, as lookout, on the bridge and you hear 1 prolonged blast at intervals of no more than 2 minutes on your port bow. What will you report to the OOW (officer on watch)?",
+            "option1": "Power-driven vessel making way on port bow",
+            "option2": "A vessel aground on port bow",
+            "option3": "A vessel at anchor on port bow"
+        },
+        {
+            "question": " An overtaking situation at night would be one in which one vessel sees which light(s) of a vessel ahead?",
+            "option1": "Stern light",
+            "option2": "Both sidelights",
+            "option3": "Masthead lights and sidelights"
+        },
+        {
+            "question": " On open water two vessels are in an overtaking situation.  The overtaking vessel has just sounded one short blast on the whistle.  What is the meaning of this whistle signal?",
+            "option1": "I am changing course to starboard.",
+            "option2": "On which side should I pass?",
+            "option3": "I request permission to pass you on my port side."
+        },
+        {
+            "question": " You are crossing a narrow channel in a 15-meter vessel when you sight a tankship off  your port bow coming up the channel.  Which statement is TRUE?",
+            "option1": "You shall not impede the safe passage of the tankship.",
+            "option2": "The tankship is the stand-on vessel because it is the larger  of the two vessels.",
+            "option3": "The tankship is the stand-on vessel because it is to port of  your vessel."
+        },
+        {
+            "question": "What aspect besides a 'head-on' or 'end-on' situation shall be deemed to exist at night when a vessel sees the other vessel ahead?",
+            "option1": "Both sidelights are visible.",
+            "option2": "None of the sidelights are visible.",
+            "option3": "The masthead lights of the other vessel are not in line with both sidelights visible."
+        },
+        {
+            "question": " What lights must be shown on a  barge being towed astern at night?",
+            "option1": "Sidelights and a stern light",
+            "option2": "A stern light only",
+            "option3": "A white light at each corner"
+        },
+        {
+            "question": " Which statement is true concerning a vessel 'constrained by her draft'?",
+            "option1": "She must be a power-driven vessel.",
+            "option2": "She is hampered because of her work.",
+            "option3": "She may be a vessel being towed."
+        },
+        {
+            "question": " Which vessel is to keep out of the way of the others?",
+            "option1": "A vessel engaged in trawling",
+            "option2": "A vessel not under command",
+            "option3": "A vessel constrained by her draft"
+        },
+        {
+            "question": "You are about to cross a narrow channel when you see an approaching vessel that can only be navigated safely within the channel. What action you should do?",
+            "option1": "Not cross the channel if you might impede the other vessel.",
+            "option2": "Sound the danger signal.",
+            "option3": "Cross the channel as you are the stand-on vessel."
+        }
+    ]
+}

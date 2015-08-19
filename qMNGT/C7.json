@@ -1,0 +1,148 @@
+{
+    "quizlist": [
+        {
+            "question": "Which information must automatic identification systems (AIS) automatically provide to appropriately equipped shore stations, vessels and aircraft? ",
+            "option1": "Vessel's course",
+            "option2": "ETA",
+            "option3": "Destination"
+        },
+        {
+            "question": "An ECDIS is required to display which information?",
+            "option1": "Soundings",
+            "option2": "Waypoints",
+            "option3": "Meteorological data"
+        },
+        {
+            "question": "An ECDIS is required to display which information? ",
+            "option1": "Hydrographic data, RADAR targets, ARPA vectors ",
+            "option2": "Temperature, Density, Distance",
+            "option3": "Pressure, Vibration"
+        },
+        {
+            "question": "Chart information details to be used in ECDIS should be the latest edition of information originated by a government-authorized hydrographic office and conform to conform to what standards?",
+            "option1": "International Hydrographic Organization",
+            "option2": "US Coast Guard",
+            "option3": "NASA"
+        },
+        {
+            "question": "ECDIS is set with performance standard by IMO called:",
+            "option1": "DX 90",
+            "option2": "DT 40",
+            "option3": "DP 90"
+        },
+        {
+            "question": "ECDIS must give an alarm for which of the following cases? ",
+            "option1": "When the specified limit for deviation from the planned route is exceeded",
+            "option2": "When the speed of a dangerous target exceeds a set limit ",
+            "option3": "If the ship's ETA has changed beyond the set limit "
+        },
+        {
+            "question": "ECDIS units incorporate Digital Chart Data Formats, what else it includes?",
+            "option1": "vector and raster ",
+            "option2": "imposed viewing",
+            "option3": " raster only "
+        },
+        {
+            "question": "If the electronic chart is part of an ECDIS, it must display the minimum data required by IMO/IHO, what else it does not include?",
+            "option1": " Tidal currents",
+            "option2": "Regulatory boundaries",
+            "option3": "Aids to navigation "
+        },
+        {
+            "question": "What is the Component of the IBS which contains the heart of the whole sysytem?",
+            "option1": "Chart data base",
+            "option2": "Planning station",
+            "option3": "Control system"
+        },
+        {
+            "question": "What is called as the database resulting from (1) the transformation of the electronic navigational chart (ENC) by ECDIS for appropriate use, (2) the updates to the ENC by appropriate means, and (3) the additional data added by the mariner?",
+            "option1": "System electronic navigational chart ",
+            "option2": "Chart display information",
+            "option3": "Standard display information"
+        },
+        {
+            "question": "What is the level of database information which cannot be removed from the ECDIS display and consists of information which is required at all times in all geographic areas and under all circumstances?",
+            "option1": "Display base information ",
+            "option2": "Standard display information",
+            "option3": "System electronic nautical chart "
+        },
+        {
+            "question": "What is the ship's electronic data base used in the ECDIS Sytem?",
+            "option1": "Electronic Nautical Chart ",
+            "option2": "Digital Chart",
+            "option3": "Chart data base"
+        },
+        {
+            "question": "What does 'ECDIS' means?",
+            "option1": "Elecronic chart display and information system",
+            "option2": "Electronic chart data information system",
+            "option3": "Electronic chart digital and information system"
+        },
+        {
+            "question": "What is a Raster-scan chart data?",
+            "option1": "A digitized 'picture' of a chart in one format and one layer",
+            "option2": "Composed of files that are smaller than vector files ",
+            "option3": "Organized into many separate files "
+        },
+        {
+            "question": "What is the Component of the IBS that allows a navigator to see an integrated navigation and tactical display and to avoid navigational hazard?",
+            "option1": "RADAR",
+            "option2": "System display unit",
+            "option3": "Control system"
+        },
+        {
+            "question": "What is the database information that should be shown when a chart is first displayed on ECDIS?",
+            "option1": "Standard display information",
+            "option2": "Chart display information",
+            "option3": "System electronic nautical chart"
+        },
+        {
+            "question": "What is the previous length of time does ECDIS must have the capability to preserve the record of the track?",
+            "option1": "12 hours",
+            "option2": "6 hours",
+            "option3": "18 hours"
+        },
+        {
+            "question": "Which data must ECDIS be able to record at one-minute intervals?",
+            "option1": "Course made good history",
+            "option2": "Estimated time of arrival",
+            "option3": "Speed through the water"
+        },
+        {
+            "question": "Which information must automatic identification systems (AIS) automatically provide to appropriately equipped shore stations, vessels and aircraft? ",
+            "option1": "Vessel's course",
+            "option2": "ETA",
+            "option3": "Destination"
+        },
+        {
+            "question": "Which of the following statements is TRUE regarding automatic identification systems (AIS) ?",
+            "option1": "AIS can be used to make passing arrangements via ship-to-ship text messaging but a vessel operator is not relieved from the requirement to sound whistle signals or make arrangements via bridge-to-bridge radiotelephone.",
+            "option2": "AIS can be used to make passing arrangements via ship-to-ship text massaging thus relieving a vessel operator from making such arrangements via bridge-to-bridge radiotelephone or signaling intent to pass via whistle signals.",
+            "option3": "AIS cannot be used to make passing arrangements because the system is not capable of this type of ship-to-ship communications."
+        },
+        {
+            "question": "Which of the following statements is TRUE regarding automatic identification systems (AIS)?",
+            "option1": "AIS provides near real-time information regarding another vessel's speed over ground and heading regardless of visibility.",
+            "option2": "AIS can be relied upon as the sole means to determine course changes due to other AIS equipped traffic.",
+            "option3": "AIS will not provide information on another vessel if that vessel is indistinguishable in radar sea clutter."
+        },
+        {
+            "question": "Expect what while underway, is a vessel over 100,000 gross tons with an automatic identification systems (AIS) is expected to broadcast all of the following information every 1 to 10 seconds?",
+            "option1": "Name of vessel ",
+            "option2": "Rate of turn ",
+            "option3": " Ship's heading "
+        },
+        {
+            "question": "Expect what while underway, an automatic identification systems (AIS) could broadcast all of the following information every 1 to 10 seconds?",
+            "option1": "ship's scantlings ",
+            "option2": " course over ground ",
+            "option3": " latitude and longitude "
+        },
+        {
+            "question": "In which principle that an electronic depth finder operates on?",
+            "option1": "Sound waves travel at a constant speed through water.",
+            "option2": "Pressure increases with depth.",
+            "option3": "Radar signals travel at a constant speed through water."
+        }
+    ]
+}

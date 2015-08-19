@@ -1,0 +1,178 @@
+{
+    "quizlist": [
+        {
+            "question": " A vessel arrives in port and the Master files a Marine Protest with a Notary Publi Why would a Master effect this documents?",
+            "option1": "Suspicion of cargo pilferage by the crew.   ",
+            "option2": "Crew misconduct during the voyage.",
+            "option3": " Suspicion of damage to cargo or vessel."
+        },
+        {
+            "question": "What is the Master’s responsibility under a time charter party?",
+            "option1": "Vessel’s administration for the owner, cargo operations/schedule for the charterer. ",
+            "option2": "Solely to cargo shippers and consignees.   ",
+            "option3": "Solely to the owner under normal conditions."
+        },
+        {
+            "question": "What does the term means “Sous Palan” as used in charter parties?",
+            "option1": "Under the hook and applies to loading from or discharging into lighters or barges. ",
+            "option2": "Under the hook and applies to discharging into railcars.   ",
+            "option3": "Under the hook and applies to loading from railcars."
+        },
+        {
+            "question": "How is a portable fire extinguisher is placed in operation?",
+            "option1": "Turning it upside down.  ",
+            "option2": "Pressing down the lever.",
+            "option3": "Activating the pin. "
+        },
+        {
+            "question": "A seaman leaves a vessel before it sails from a foreign port. He informs the Chief Officer that he won't return. After the vessel sails, the Chief Officer finds the seaman's work clothes in his locker. How should the Master handle this matter? ",
+            "option1": "Log the seaman as a deserter. ",
+            "option2": "Log the seaman as a fail to join. ",
+            "option3": "Log the seaman for misconduct. "
+        },
+        {
+            "question": "A vessel has a charter party for one voyage to carry a full load of manganese from Durban, South Africa, to Baltimore, Maryland, at a stipulated rate per ton. Which type of contract is involved?",
+            "option1": "Voyage charter party",
+            "option2": "Bareboat charter party",
+            "option3": "Demise charter party"
+        },
+        {
+            "question": "A vessel is entering port 'A' for the first time and has a Pilot conning the vessel. The Master is unsure that the Pilot is taking sufficient action to prevent a collision. What should the Master do?",
+            "option1": "Recommend an alternative action and if not followed relieve the Pilot.",
+            "option2": "Direct the Pilot to stop the vessel and anchor if necessary until the situation clears.",
+            "option3": "State his concerns to the Pilot but do not interfere with the handling of the vessel."
+        },
+        {
+            "question": "A vessel is involved in a casualty. What includes the cost of property damage?",
+            "option1": "Cost of labor and material to restore the vessel to the service condition which existed before the casualty.",
+            "option2": "Loss of revenue while the vessel is being repaired, up to a maximum of $50,000.",
+            "option3": "Lost of all traing certificates."
+        },
+        {
+            "question": "A vessel loads 5000 tons of manganese ore. The railroad cars that brought the ore to the vessel were previously loaded with iron ore so the ore is contaminated. The agent requests the Master to sign a Clean Bill of Lading and in return the shipper will give him a Letter of Indemnity. What is the best procedure to follow?",
+            "option1": "Refuse to sign a Clean Bill of Lading.",
+            "option2": "Sign a Clean Bill of Lading and accept the Letter of Indemnity.",
+            "option3": " Sign the Clean Bill of Lading and have the agent countersign it."
+        },
+        {
+            "question": " Sign the Clean Bill of Lading and have the agent countersign it.",
+            "option1": "A declaration is required and duty is involved on the total cost.",
+            "option2": "No declaration is required since this is considered routine maintenance.",
+            "option3": "A declaration is made and duty is charged on the materials only."
+        },
+        {
+            "question": "A vessel while enroute to a dry dock sank. Under these circumstances, what are the vessel’s owner can claim?",
+            "option1": "Actual Total Loss",
+            "option2": "General Average",
+            "option3": "Particular Average"
+        },
+        {
+            "question": "According to the IMO Code, what are the minimum number of securing points that should be on each side of a 'road vehicle', whose gross vehicle mass is between 3.5 tons and 20 tons, when carried on Ro-Ro vessels?",
+            "option1": "Two",
+            "option2": "One",
+            "option3": "Three"
+        },
+        {
+            "question": "According to the IMO Code, what are the minimum number of securing points that should be on each side of a 'road vehicle', whose gross vehicle mass is between 30 tons and 40 tons, when carried on Ro-Ro vessels?",
+            "option1": "Four",
+            "option2": "Three",
+            "option3": "One"
+        },
+        {
+            "question": "How could Arbitration be international?",
+            "option1": "One of the parties have designated and arbitrator other than his country of business.",
+            "option2": "The parties have expressly agreed that the subject matter of the arbitration agreement relates to more than one country.",
+            "option3": "One of the place of arbitration if determined in, or pursuant to the arbitration agreement."
+        },
+        {
+            "question": "At least one reinspection shall be made on each vessel holding a Certificate of Inspection valid for two years. What should be the duration of certificate inspection besides being held between the tenth and fourteenth months?",
+            "option1": "Generally similar in scope to the inspection required for certification, but in less detail. ",
+            "option2": "Equivalent to the inspection required for certification. ",
+            "option3": "At the discretion of the inspector, but in no lesser detail than required for original certification. "
+        },
+        {
+            "question": "What should the Master do before he/she relieves the Pilot of the conn?",
+            "option1": "Master should foresee any danger to the vessel on the present course.",
+            "option2": "Vessel must be in extremis.",
+            "option3": "Master should agree to sign a release of liability form."
+        },
+        {
+            "question": "Due to the nature of a vessel's construction for a particular trade, it does not fully comply with the provisions of SOLAS. Where will this be indicated?",
+            "option1": "On the Exemption Certificate.",
+            "option2": "On the reverse of the particular SOLAS certificate affected.",
+            "option3": "On the face of the Certificate of Inspection."
+        },
+        {
+            "question": "During the course of a voyage, a seaman falls on the main deck and injures his ankle. When should the Master submit a Report of Marine Accident, Injury or Death?",
+            "option1": "Injured is incapacitated. ",
+            "option2": "Injured needs first aid. ",
+            "option3": "Injury results in loss of life only. "
+        },
+        {
+            "question": "What ia called as Effective and efficient organizations that has a hierarchical structure?",
+            "option1": "Bureaucracy",
+            "option2": "The span of control.",
+            "option3": "The chain of command."
+        },
+        {
+            "question": "For whom does the qualification requirements apply?",
+            "option1": "For personnel assigned to shipboard duties.",
+            "option2": "For seafarers serving on tankers carrying oil, liquefied chemicals or liquefied gas in bulk.",
+            "option3": "For the master and the officers only."
+        },
+        {
+            "question": "If a Master must jettison a container loaded with hazardous material, whom he must, as soon as possible?",
+            "option1": "Nearest Captain of the Port.",
+            "option2": "National Hazardous Chemical Response Center.",
+            "option3": "Environmental Protection Agency."
+        },
+        {
+            "question": "If safety representatives are elected on any ship, the employer must appoint a ______. This is mandatory on any ship that has elected safety representatives.",
+            "option1": "Safety committee",
+            "option2": "Welfare committee",
+            "option3": "Logistics committee"
+        },
+        {
+            "question": "If you are the curriculum developer and director of the training program, which of the following general jobs should comes FIRST?",
+            "option1": "Establish behavioral or learning objective for programs. ",
+            "option2": "Design programs to satisfy training needs. ",
+            "option3": "Determine program content."
+        },
+        {
+            "question": "In authority and assertiveness, which of the following thoughts is correct if a master or pilot is considered to be of too high authority? I. Total command expected II. Lack of communication III. Cannot delegate IV. Performance orientation",
+            "option1": "I, II, III, & IV",
+            "option2": "I, II",
+            "option3": "IV"
+        },
+        {
+            "question": "In writing up the logbook at the end of your watch, you make an error in writing an entry. What is the proper way of correcting this error?",
+            "option1": "Cross out the error with a single line, write the correct entry, and initial it.",
+            "option2": "Carefully and neatly erase the entry and rewrite it correctly.",
+            "option3": "Blot out the error completely and rewrite the entry correctly."
+        },
+        {
+            "question": "What is the next step to do once the problem has been defined?",
+            "option1": "Identify the decision objectives.",
+            "option2": "Initiate corrective action.",
+            "option3": "Develop alternatives"
+        },
+        {
+            "question": "Why is preserving knowledge is important?",
+            "option1": "Is a foundation for future development.",
+            "option2": "Is essential to both the individual and the organization.",
+            "option3": "Stores and protects essentials."
+        },
+        {
+            "question": "Principles to be observed in determining the safe manning of a ship the PSCO should take into account the following no board functions when applicable EXCEPT drill or training?",
+            "option1": "Fire and emergency drills.",
+            "option2": "Specialized training requirements for particular types of ships.",
+            "option3": "Ongoing training requirements for all personnel including the operation and use of fire fighting and emergency."
+        },
+        {
+            "question": "Several merchant ships are arriving at the scene of a distress incident. One of the them must assume the duties of the Coordinator Surface Search (CSS). Which of the following statements is TRUE?",
+            "option1": "The CSS must be established by mutual agreement between the ships concerned.",
+            "option2": "CSS duties are always assumed by passenger vessels, dry cargo vessels, or tankers in that order of precedence.",
+            "option3": "A tank vessel should never be assigned CSS duties unless only tank vessels are present."
+        }
+    ]
+}

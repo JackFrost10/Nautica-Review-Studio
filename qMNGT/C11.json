@@ -1,0 +1,334 @@
+{
+    "quizlist": [
+        {
+            "question": "A motor controller contains three selector push buttons labeled 'start', 'jog', and 'stop'.  What happens to the motor when the 'jog' button is pushed?",
+            "option1": "Will run until the 'jog' button is released.",
+            "option2": "Will run until the 'jog' button is released.",
+            "option3": "Will not start until both the 'jog' and 'start' buttons are pushed."
+        },
+        {
+            "question": "A nickel-cadmium battery is receiving a normal charge and gases freely. What should be the charging current?",
+            "option1": "Remain the same.",
+            "option2": "Be increased.",
+            "option3": "Be cut off and the battery allowed to cool."
+        },
+        {
+            "question": "A testing device called a 'growler' is being used to locate a shorted coil in the stator of an AC electrical machine. What happens when the 'feeler' is moved over a slot containing the shorted coil?",
+            "option1": "A loud growling noise will be heard.",
+            "option2": "Any vibration within the feeler will cease.",
+            "option3": "The meter needle will be deflected to zero."
+        },
+        {
+            "question": "AC circuits develop resistance, inductance, and capacitance. How do you expressed the inductive reactance of a circuit?",
+            "option1": "Ohms",
+            "option2": "Mhos",
+            "option3": "Henrys"
+        },
+        {
+            "question": "After maintaining correct discharge pressure, soon ceases to discharge water and what are possible cause?",
+            "option1": "Pump sucking air",
+            "option2": "Pressure gauge wrong",
+            "option3": "Discharge valve throttled"
+        },
+        {
+            "question": "What is used aboard ship as an electrical device which employs a stationary armature and a rotating electromagnetic field?",
+            "option1": "Magnetic amplifier.",
+            "option2": "Ship's service alternator.",
+            "option3": "Three-wire DC generator."
+        },
+        {
+            "question": "Besides distilled water, what other compounds that the electrolyte in a lead-acid storage battery consists of?",
+            "option1": "Sulfuric acid.",
+            "option2": "Muriatic acid.",
+            "option3": "Hydrogen chloride."
+        },
+        {
+            "question": "For more complete vessel protection, what other purposes when using an impressed current cathodic system?",
+            "option1": "Straps connect the rudder with the hull and the propeller shaft is grounded through a slip ring/brush arrangement.",
+            "option2": "The hull's magnetic fields are aligned with a solid-state degaussing circuit using SCR's.",
+            "option3": "Machinery on deck and in the engineroom is first coated with zinc chromate before final painting."
+        },
+        {
+            "question": "How can moisture damage, as a result of condensation occurring inside of the cargo winch master switches, can be reduced?",
+            "option1": "Installing a light bulb in the pedestal stand.",
+            "option2": "Coating the switch box internals with epoxy sealer.",
+            "option3": "Venting the switch box regularly."
+        },
+        {
+            "question": "How do you trickle charge the battery about the standard procedure for maintaining the charge in an emergency diesel starting battery?",
+            "option1": "Continuously",
+            "option2": "At least once each week.",
+            "option3": "Whenever the charge falls to 75% of full charge."
+        },
+        {
+            "question": "If the line voltage to the controller shown in the illustration is 440 volts, what is applied across the control circuit?",
+            "option1": "110 volts",
+            "option2": "220 volts",
+            "option3": "440 volts"
+        },
+        {
+            "question": "In the event of a power failure during cargo loading operations, what technical parts could stop the movement of an electric powered cargo winch?",
+            "option1": "A spring set brake.",
+            "option2": "A manual override switch.",
+            "option3": "The weight of the load on the boom."
+        },
+        {
+            "question": "How can you reduce the moisture damage, as a result of condensation occurring inside of the cargo winch master switches?",
+            "option1": "Installing a light bulb in the pedestal stand.",
+            "option2": "Coating the switch box internals with epoxy sealer.",
+            "option3": "Venting the switch box regularly."
+        },
+        {
+            "question": "The ballast valve of the fore peak tank is located in the duct keel and cannot be opened or shut by remote operation. The valves of other tanks can be operated remotely without any trouble Which of the following will be the best practice?",
+            "option1": "Valve should be checked locally for troubleshooting without which it is difficult to find the exact problem.",
+            "option2": "The actuator must be defective and should be replaced with a new one.",
+            "option3": "The control circuit is defective and the PCB should be replaced."
+        },
+        {
+            "question": "Where do you obtained the electrical energy necessary to transmit a person's voice over a sound-powered telephone circuit?",
+            "option1": "Dry cell batteries",
+            "option2": "The ship's service switchboard.",
+            "option3": "The emergency switchboard."
+        },
+        {
+            "question": "What is the function of a full torque electric brake on an electric cargo winch?",
+            "option1": "Act as a backup brake in the event the mechanical brake  should fail.",
+            "option2": "Automatically hold the load as soon as current to the  machine is shut off.",
+            "option3": "Automatically govern the lowering speed of the load?"
+        },
+        {
+            "question": "What is the greatest detrimental effect on idle electrical equipment, such as cargo pump motors?",
+            "option1": "Loss of residual magnetism",
+            "option2": "absorption of moisture in the insulation",
+            "option3": "insulation varnish flaking"
+        },
+        {
+            "question": "What  charging process produces where battery charging rooms should be well ventilated?",
+            "option1": "Explosive gases.",
+            "option2": "Corrosive gases.",
+            "option3": "Highly poisonous gas."
+        },
+        {
+            "question": "What do you add as the proper way to mix the electrolyte for a battery?",
+            "option1": "Acid to distilled water.",
+            "option2": "Acid to alkaline water.",
+            "option3": "Alkaline water to acid."
+        },
+        {
+            "question": "What do you used on vessels instead of impressed current cathodic protection?",
+            "option1": "Sacrificial zincs.",
+            "option2": "Vacuum tube degaussing systems.",
+            "option3": "Filing"
+        },
+        {
+            "question": "What happens when electrical cables penetrate watertight bulkheads?",
+            "option1": "A watertight stuffing tube capable of accepting packing should be employed.",
+            "option2": "They should be secured by a clamp.",
+            "option3": "They should be grounded on either side of the bulkhead."
+        },
+        {
+            "question": "What instrument you are going to use aboard ship, to determine a grounded field coil in an AC motor?",
+            "option1": "Megohmmeter",
+            "option2": "Visual inspection",
+            "option3": "Galvanometer"
+        },
+        {
+            "question": "What is an electrical device which employs a stationary armature and a rotating electromagnetic field that is used aboard ship?",
+            "option1": "Magnetic amplifier.",
+            "option2": "Ship's service alternator.",
+            "option3": "Three-wire DC generator."
+        },
+        {
+            "question": "What is commonly means the abbreviation 'PCB' in electronic circuitry?",
+            "option1": "Printed circuit board.",
+            "option2": "Pulse coded binary",
+            "option3": "Poly-coated braid."
+        },
+        {
+            "question": "What is known as a device which prints out a permanent record of the plant operating conditions?",
+            "option1": "Data logger.",
+            "option2": "Analogger",
+            "option3": "Bell logger."
+        },
+        {
+            "question": "What is mean by the multiple prefix 'kilo'?",
+            "option1": "Thousand  (10 to the 3rd power).",
+            "option2": "Million  (10 to the 6th power).",
+            "option3": "Billion  (10 to the 9th power)."
+        },
+        {
+            "question": "What is one function of the movable cams in a drum-type winch motor controller?",
+            "option1": "Regulate the speed of the motor.",
+            "option2": "Maintain resistance contacts in clean condition.",
+            "option3": "Insulate the operating handle."
+        },
+        {
+            "question": "What is the function of full torque electric brake on an electric cargo winch?",
+            "option1": "Act as a backup brake in the event the mechanical brake  should fail.",
+            "option2": "Automatically hold the load as soon as current to the  machine is shut off.",
+            "option3": "Automatically govern the lowering speed of the load."
+        },
+        {
+            "question": "What is the greatest detrimental effect on idle electrical  equipment, such as cargo pump motors?",
+            "option1": "Absorption of moisture in the insulation.",
+            "option2": "Loss of residual magnetism.",
+            "option3": "Insulation varnish flaking."
+        },
+        {
+            "question": "What is the greatest detrimental effect on idle electrical equipment, such as cargo pump motors?",
+            "option1": "Loss of residual magnetism.",
+            "option2": "Absorption of moisture in the insulation.",
+            "option3": "Insulation varnish flaking."
+        },
+        {
+            "question": "What is the number of cells in a 12 volt lead-acid battery?",
+            "option1": "6 cells",
+            "option2": "12 cells",
+            "option3": "3 cells"
+        },
+        {
+            "question": "What is the proper way to apply plastic electrical tape to an electric cable splice?",
+            "option1": "Wind the tape so that each turn overlaps the turn before it.",
+            "option2": "Apply tape to the braided cover, but avoid touching it.",
+            "option3": "Apply the tape in one non-overlapping layer only."
+        },
+        {
+            "question": "What is the purpose of an impressed current cathodic protection system aboard ship?",
+            "option1": "Prevent corrosion of the hull, propeller, rudder and line shafting.",
+            "option2": "Neutralize the vessel's stray magnetic fields which would interfere with radar.",
+            "option3": "Protect engine room and deck machinery from oxidation in the presence of salt air."
+        },
+        {
+            "question": "What is the resistance of a replacement wire having twice the length and one-half the cross-sectional area of the original wire?",
+            "option1": "Four times that of the original wire.",
+            "option2": "Twice that of the original wire.",
+            "option3": "The same as that of the original wire."
+        },
+        {
+            "question": "What should be done to a discolored capacitor due to excessive heat should be?",
+            "option1": "Replaced",
+            "option2": "Calibrated",
+            "option3": "Cooled"
+        },
+        {
+            "question": "What should you do to repair a small electrical motor that has been submerged in saltwater?",
+            "option1": "Wash it with fresh water and apply an external source of heat.",
+            "option2": "Wenew the windings.",
+            "option3": "Send it ashore to an approved service facility."
+        },
+        {
+            "question": "What will be the freezing point of the electrolyte in a fully charged lead-acid battery?",
+            "option1": "Lower than in a discharged battery.",
+            "option2": "Higher than in a discharged battery.",
+            "option3": "The same as in a discharged battery."
+        },
+        {
+            "question": "What will happen to the pump flow rate by increasing the rotational speed of a cargo pump?",
+            "option1": "Increase in direct proportion to the increase in speed.",
+            "option2": "Decrease in direct proportion to the increase in speed.",
+            "option3": "Flow rate does not depend upon speed."
+        },
+        {
+            "question": "When does a lead-acid battery is considered fully charged?",
+            "option1": "Specific gravity of all cells reaches the correct value and no longer increases over a period of 1 to 4 hours.",
+            "option2": "Electrolyte gasses freely.",
+            "option3": "Battery charger ammeter indicates a positive reading."
+        },
+        {
+            "question": "When troubleshooting AC motors, where do you used portable growler for locating?",
+            "option1": "Shorted stator coils.",
+            "option2": "Grounded stator coils.",
+            "option3": "Grounded field coils."
+        },
+        {
+            "question": "When troubleshooting electronic equipment, why you should use a high impedance multimeter?",
+            "option1": "To prevent excess current flow through the meter that would damage it.",
+            "option2": "For AC measurements only and a low resistance meter for DC measurements.",
+            "option3": "Whenever a low impedance meter is not available, regardless of the components being tested."
+        },
+        {
+            "question": "Where can an ohmmeter can be used to measure?",
+            "option1": "Circuit continuity.",
+            "option2": "Circuit power.",
+            "option3": "Voltage between two points in a circuit."
+        },
+        {
+            "question": "Where does the electrical energy necessary to transmit a person's voice over a sound-powered telephone circuit is obtained from?",
+            "option1": "Dry cell batteries.",
+            "option2": "The ship's service switchboard.",
+            "option3": "The emergency switchboard."
+        },
+        {
+            "question": "Where is the direction of rotation of an induction motor?",
+            "option1": "The same as the direction of the rotating field.",
+            "option2": "Opposite the rotating field direction.",
+            "option3": "Determined by the number of poles."
+        },
+        {
+            "question": "Which device will stop the motor shown in the illustration in case of a short-circuit (high current) motor overload?",
+            "option1": "'F'",
+            "option2": "'G'",
+            "option3": "'H'"
+        },
+        {
+            "question": "Which of the electrical properties listed will always be the same across each component in a parallel circuit?",
+            "option1": "Voltage",
+            "option2": "Resistance",
+            "option3": "Current"
+        },
+        {
+            "question": "Which of the following conditions will occur if the solenoid coil burns out on a cargo winch with an electrical brake?",
+            "option1": "The brake will be set by spring force.",
+            "option2": "The motor will overspeed and burn up.",
+            "option3": "The load suspended from the cargo boom will fall."
+        },
+        {
+            "question": "Which of the following V/V cannot be overhauled in place without removing piping?",
+            "option1": "Butterfly valve",
+            "option2": "Globe valve",
+            "option3": "Diaphragm valve"
+        },
+        {
+            "question": "Which of the listed devices is used to measure pressure and convert it to an electrical signal?",
+            "option1": "Transducer",
+            "option2": "Reducer",
+            "option3": "Transformer"
+        },
+        {
+            "question": "Which of the listed instruments can be best used to locate a grounded field coil in a synchronous motor?",
+            "option1": "Megohmmeter",
+            "option2": "Frequency meter",
+            "option3": "Voltmeter"
+        },
+        {
+            "question": "Which type of AC single-phase motor will also operate on direct current?",
+            "option1": "Series-wound",
+            "option2": "Split-phase",
+            "option3": "Shaded-pole"
+        },
+        {
+            "question": "While charging, when is a lead-acid battery may become hotter than normal?",
+            "option1": "Battery has a shorted cell.",
+            "option2": "Charging voltage is too low.",
+            "option3": "Specific gravity is too high."
+        },
+        {
+            "question": "Why does a synchronous motor maintains synchronism with the rotating field?",
+            "option1": "DC current applied to the rotor coils causes the rotor magnets to lock in with the rotating flux of the stator.",
+            "option2": "Field strength varies directly with rotor slip.",
+            "option3": "The stator poles are dragged around due to the flux created by the excitation current."
+        },
+        {
+            "question": "Why is copper tubing is used in refrigerant system?",
+            "option1": "It has less internal resistance.",
+            "option2": "It is cheaper compared to other materials.",
+            "option3": "It is easier to check leaks in copper based system."
+        },
+        {
+            "question": "Why should you use a high impedance multimeter when troubleshooting electronic equipment?",
+            "option1": "To prevent excess current flow through the meter that would damage it.",
+            "option2": "For AC measurements only and a low resistance meter for DC measurements.",
+            "option3": "Whenever a low impedance meter is not available, regardless of the components being tested."
+        }
+    ]
+}

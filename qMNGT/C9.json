@@ -1,0 +1,358 @@
+{
+    "quizlist": [
+        {
+            "question": "A disabled vessel is in danger of grounding. The Master agrees to salvage services in accordance with Lloyd’s Standard Form of Salvage Agreement. Which of the following is true?",
+            "option1": "The salvage service is on a “no cure – no pay” basis",
+            "option2": "The salvor becomes the owner of the vessel until the salvage award, if any, is paid",
+            "option3": "The salvage award will be decided by suit in Admiralty Court"
+        },
+        {
+            "question": "A hurricane moving northeast out of the Gulf passes west of your position. You could expect all of the following EXCEPT the what?",
+            "option1": "Light showers. ",
+            "option2": "Winds veering from south,through west,to northwest. ",
+            "option3": "High winds. "
+        },
+        {
+            "question": "A seaman is reported missing in the morning and was last seen after coming off the mid-watch. Which type of turn would you use to return to the track-line steamed during the night?",
+            "option1": "Williamson",
+            "option2": "Racetrack",
+            "option3": "180° turn"
+        },
+        {
+            "question": "A ship is having a slow speed, by using the backing maneuver, when does the ship is considered to be dead on the water?",
+            "option1": "Quick water reaches the amidships.",
+            "option2": "Quick water reaches the stern.",
+            "option3": "Quick water reaches about 1/4 distance from the stern."
+        },
+        {
+            "question": "A towing vessel becomes tripped while towing on a hawser astern. What factor is MOST important when assessing the risk of capsizing?",
+            "option1": "Height of the towline connection. ",
+            "option2": "Length of the towline. ",
+            "option3": "Longitudinal position of the towline connection. "
+        },
+        {
+            "question": "A tropical storm is building strength some distance from your ship. Waves are coming from the east,with periods increasing from 5 seconds to 15 seconds. The swell is from the east. Where was the storm when these new swells were generated? ",
+            "option1": "To the south of you. ",
+            "option2": "To the north of you. ",
+            "option3": "To the east of yo.u "
+        },
+        {
+            "question": "After an explosion, when should repair of machinery and services be accomplished?",
+            "option1": "After control of fire, flooding and structural repairs.",
+            "option2": "Before control of flooding, fire and rescue of entrapped crew members.",
+            "option3": "After ensuring that the ship is upright."
+        },
+        {
+            "question": "An ocean tow is sinking in deep water. Attempts to sever the towing hawser are unsuccessful. Which action should now be taken? ",
+            "option1": "Slip the towline and allow it to run off the drum. ",
+            "option2": "Secure all watertight openings on the towing vessel.",
+            "option3": "Radio for emergency assistance. "
+        },
+        {
+            "question": "As the propeller turns, voids are formed on the trailing and leading edges of the propeller blades causing a loss of propulsive efficiency, pitting of the blades, and vibration. How these voids are known?",
+            "option1": "cavitation",
+            "option2": "advance",
+            "option3": "edging"
+        },
+        {
+            "question": "Assuming that your vessel is in a damaged condition and you have just beached the ship. What would be your immediate actions?",
+            "option1": "My subsequent actions on taking the ground is to order the Chief Officer to walk back both anchors to prevent accidentally re-floating off the ground into a deep water predicament.",
+            "option2": "Close down the depth of water around the propeller.",
+            "option3": "In the event barrier equipment is not available, ignore an improvised boom with mooring ropes."
+        },
+        {
+            "question": "Attempts to sever the towing hawser are unsuccessful.  Which action should now be taken?",
+            "option1": "Slip the towline and allow it to run off the drum.",
+            "option2": "Pull the towing hawser to tighten.",
+            "option3": "Throw a preventer under the towing hawser and engage it."
+        },
+        {
+            "question": "Chapter IV of the International Conference on Salvage (1989) is about Salvage “Claims and Actions”. What is NOT a condition for a salvage claim?",
+            "option1": "The salvors must save or attempt to save any life in peril.",
+            "option2": "The salvage service must be voluntary.",
+            "option3": "The property must be in peril."
+        },
+        {
+            "question": "During SAR operations the CIC must monitor SAR and distress communication radio frequencies, what is the recommend actions besides appropriate search areas and procedures to the Bridge?",
+            "option1": "Keep the bridge informed of all developments.",
+            "option2": "Keep the bridge informed of OSC reports only.",
+            "option3": "Keep the bridge informed of weather and other navigational reports."
+        },
+        {
+            "question": "During the voyage she encountered boisterous winds and heavy weather during which time what the vessel acted heavily and to such an extent that at times it was necessary to change course?",
+            "option1": "Labored ",
+            "option2": "Moved ",
+            "option3": "Drove "
+        },
+        {
+            "question": "Especially in adverse weather, risk of collision with an offshore supply vessel increases when the vessel is moored to what side of the unit?",
+            "option1": "Upwind",
+            "option2": "Downwind",
+            "option3": "Crosswind "
+        },
+        {
+            "question": "How does an icebreaker normally free a ship which has become beset while navigating independently? ",
+            "option1": "By approaching from the stern and crossing ahead at an angle of 20to 30to the beset ship's course. ",
+            "option2": "By backing down the track and cutting out ice on either bow. ",
+            "option3": "By overtaking the beset ship,running ahead and then backing down the track to the beset vessel. "
+        },
+        {
+            "question": "If you are caught in the left semicircle of a tropical storm, in the Southern Hemisphere, where should you bring the wind?",
+            "option1": "On the port bow and make as much way as possible. ",
+            "option2": "2 points on the port quarter,and make as much way as possible. ",
+            "option3": "On the starboard quarter,hold course and make as much way as possible. "
+        },
+        {
+            "question": "In principle of shiphandling, which factor that a master or a pilot has no direct control of the ship?",
+            "option1": "Shallow water factor",
+            "option2": "reduced engine power",
+            "option3": "wind power"
+        },
+        {
+            "question": "It is a particular professional knowledge regarding own ship various methods available and how to change over to secondary from primary methods. What is these knowledge about?",
+            "option1": "steering and conning",
+            "option2": "maneuvering",
+            "option3": "ship handling"
+        },
+        {
+            "question": "What is called as the use of an anchor to assist in turning in restricted waters?",
+            "option1": "good seamanship",
+            "option2": "a last resort",
+            "option3": "the sign of a novice shiphandler"
+        },
+        {
+            "question": "What an operator should be cautious of when steering a tow downstream around the shape of a sand bar, and staying on the proper side of the buoys?",
+            "option1": "Eddies under the bar.",
+            "option2": "Cross-currents pushing the tow into the bar.",
+            "option3": "Cross-currents pushing the tow away from the bar."
+        },
+        {
+            "question": "What should you expect when you encounter a tsunami in the open ocean?",
+            "option1": "No noticeable change from the existing sea state",
+            "option2": "Violent seas from mixed directions",
+            "option3": "Winds increasing to gale force from the northwest in the Northern Hemisphere"
+        },
+        {
+            "question": "What will happen to the bow when your vessel is backing on the starboard screw, and going ahead on the port screw?",
+            "option1": "swing to starboard",
+            "option2": "swing to port",
+            "option3": "back on a straight line"
+        },
+        {
+            "question": "What will happen when using a sea anchor with the survival craft?",
+            "option1": "Reduce your drift rate.",
+            "option2": "Keep the survival craft from turning over.",
+            "option3": "Aid in recovering the survival craft."
+        },
+        {
+            "question": "When a tug is pulling on a hawser at right angles to the ship, on the ship's engine, care must be taken that the pilot __________.",
+            "option1": "does not get too much way on the vessel",
+            "option2": "does not break the towline",
+            "option3": "keeps a steady course so the towline will remain tight"
+        },
+        {
+            "question": "When making way in heavy seas you notice that your vessel's screw is being lifted clear of the water and racing. What would be the one way to correct this?",
+            "option1": "decrease speed",
+            "option2": "increase speed",
+            "option3": "move more weight forward"
+        },
+        {
+            "question": "When steering a tow downstream around the shape of a sand bar, and staying on the proper side of the buoys, what an operator should be cautious of?",
+            "option1": "eddies under the bar",
+            "option2": "cross-currents pushing the tow into the bar",
+            "option3": "cross-currents pushing the tow away from the bar"
+        },
+        {
+            "question": "What fact you must be aware of when using the anchor to steady the bow while approaching a dock?",
+            "option1": "Using an offshore anchor decreases the chances of the anchor holding.",
+            "option2": "The anchor cable must never lead under the hull.",
+            "option3": "Steering control is ineffective in trying to turn to the side opposite to that of the anchor being used."
+        },
+        {
+            "question": "Which flight pattern indicates that the pilot needs assistance or that the aircraft’s transmitter has failed but its receiver still operates?",
+            "option1": "Right hand triangular pattern.",
+            "option2": "Left hand triangular pattern.",
+            "option3": "Right hand circular pattern."
+        },
+        {
+            "question": "While your vessel is impaired by stormy weather, a pumproom is suspected of accumulating gases after a ventilation machinery breakdown. Where should the combustible gas indicator case be placed when testing the pumproom atmosphere for combustible gases? ",
+            "option1": "In the upper level of the pumproom. ",
+            "option2": "On the deck outside the pumproom. ",
+            "option3": "In the middle level of the pumproom. "
+        },
+        {
+            "question": "You are 15 feet off a pier and docking a vessel using only a bow breast line and stern breast line. Once the slack is out of both lines you begin to haul in on the bow breast line. What is the effect on the vessel?",
+            "option1": "The bow will come in and the stern will remain the same distance off the pier.",
+            "option2": "The stern will come in and the bow will remain the same distance off the pier.",
+            "option3": "The bow will come in and the stern will go out."
+        },
+        {
+            "question": "You are anchored in the Aleutian Island chain and receive word that a tsunami is expected to strike the islands in six hours. What is the safest action?",
+            "option1": "Get underway and be in deep, open-ocean water when the tsunami arrives.",
+            "option2": "Increase the scope of the anchor cable and drop the second anchor underfoot at short stay.",
+            "option3": "Get underway and be close inshore on the side of the island away from the tsunami."
+        },
+        {
+            "question": "You are approaching a pier and intend to use the port anchor to assist in docking port side to. When is the time that you would NOT use the anchor?",
+            "option1": "There is shallow water enroute to the berth.",
+            "option2": "The wind was blowing from the starboard side.",
+            "option3": "Another vessel is berthed ahead of your position."
+        },
+        {
+            "question": "You are docking a ship with a single-screw tug assisting on your starboard bow. How should the tug be tied up if you are anticipating that she will have to hold your bow off while you stem the current?",
+            "option1": "The tug should put a stern line up, leading ahead on the ship.",
+            "option2": "The tug should put a spring line up, leading astern on the ship.",
+            "option3": "The tug would need at least two head lines."
+        },
+        {
+            "question": "You are docking a vessel in a slip which has its entrance athwart the tide. You land the ship across the end of the pier, stemming the tide, preparatory to breaking the ship around the corner. You have one tug to assist. Where would you generally tie up the tug?",
+            "option1": "Tie her up on the offshore bow.",
+            "option2": "Tie her up on the inshore quarter to lift the stern.",
+            "option3": "Have her on a hawser from the stern."
+        },
+        {
+            "question": "You are docking a vessel starboard side to with the assistance of two tugs. What are you going to ensure while you are attempting to hold the vessel off by operating both tugs at right angles to the vessel and at full power?",
+            "option1": "The ship has no headway at the time.",
+            "option2": "The bow closes the dock first.",
+            "option3": "The bow doesn't close the dock first."
+        },
+        {
+            "question": "You are docking a vessel. When do you expect wind and current to be most favorable?",
+            "option1": "Parallel to the pier from ahead.",
+            "option2": "Setting you on the pier.",
+            "option3": "Crossing your course in opposite directions."
+        },
+        {
+            "question": "You are docking an oceangoing single-screw vessel under normal circumstances with a single tug. When do you usually use the tug?",
+            "option1": "Control the bow and is tied to the offshore bow.",
+            "option2": "Control the stern and is tied to the stern on the offshore side.",
+            "option3": "Pull the vessel into the slip and is tied to the bow."
+        },
+        {
+            "question": "You are going astern (single-screw, right-handed propeller) with the anchor down at a scope of twice the depth of the water. What should you expect as the anchor dredges?",
+            "option1": "Stern to walk to port but at a reduced rate.",
+            "option2": "Stern to walk to port at a faster rate than normal.",
+            "option3": "Vessel to back in a straight line."
+        },
+        {
+            "question": "You are landing a single-screw vessel with a left-handed propeller, starboard side to the dock. As you approach the dock you back your engine with your rudder amidships. What should you expect the vessel?",
+            "option1": "Turn its stern towards the dock.",
+            "option2": "Drift away from the dock.",
+            "option3": "Turn its bow towards the dock."
+        },
+        {
+            "question": "You are landing a single-screw vessel, with a right-hand propeller, starboard side to the dock. When you have approached the berth and back the engine, what wouldyou expect the vessel to?",
+            "option1": "Turn her bow toward the dock.",
+            "option2": "Lose headway without swinging.",
+            "option3": "Turn her bow away from the dock."
+        },
+        {
+            "question": "You are steaming in a heavy gale and find it necessary to heave to. Under most circumstances,what is the best thing to do?",
+            "option1": "Taking the sea fine on the bow and reducing the speed to the minimum to hold that position.",
+            "option2": "Maintaining speed and taking the sea broad on the bow.",
+            "option3": "Going slow astern and taking the seas on the quarter."
+        },
+        {
+            "question": "You are steaming in the open ocean of the North Pacific between the Aleutian Chain and Hawaii. A warning broadcast indicates that an earthquake has occurred in the Aleutians and has generated a tsunami that is predicted to hit Hawaii. What action is necessary for the ship's safety?",
+            "option1": "No special action as tsunamis are inconspicuous in the open ocean.",
+            "option2": "Prepare for sudden, high-velocity wind gusts from rapidly changing directions.",
+            "option3": "Securely stow all loose gear, check deck lashings, and prepare for extreme rolls."
+        },
+        {
+            "question": "You are the Master of a 500-gross ton passenger vessel operating on rivers. Your vessel accidentally runs aground. Under the regulations for passenger vessels, whom you must notify?",
+            "option1": "nearest Coast Guard Marine Safety or Marine Inspection Office as soon as possible",
+            "option2": "Coast Guard, only if the grounding results in loss of life",
+            "option3": "Coast Guard, only if the grounding results in damage to property in excess of $(SA)25,000"
+        },
+        {
+            "question": "You are underway in heavy weather and your bow is into the seas. What should you do to prevent pounding?",
+            "option1": "decrease speed",
+            "option2": "change course, in order to take the seas at an 85 degree angle from the bow",
+            "option3": "increase speed"
+        },
+        {
+            "question": "You are using the anchor to steady the bow while maneuvering.What situation that yYou have the proper scope of anchor cable?",
+            "option1": "bow is held in position with the engines coming slowly ahead",
+            "option2": "anchor is just touching the bottom",
+            "option3": "scope is not more than 5 times the depth of the water"
+        },
+        {
+            "question": "You have made a turning circle at full speed in deep water. You are now going to make one with initial speed, slow ahead. Do you think the diameter will differ from that of initial full ahead?",
+            "option1": "The diameter will be the same whatever initial speed we have when starting the turn.",
+            "option2": "Yes, it will be much greater with slow ahead.",
+            "option3": "Yes, it will be a large difference in the turning diameter between full and slow ahead."
+        },
+        {
+            "question": "You have made a turning test on full speed in deep water. You are now going to make a test in shallow water. Do you think the turning diameter will be the same?",
+            "option1": "No, the turning diameter will be increased in shallow water.",
+            "option2": "Yes, the turning diameter will be the same for all depths.",
+            "option3": "No, the turning diameter will be smaller  in shallow water."
+        },
+        {
+            "question": "You have made a turning test on full speed in deep water. You are now going to make a test in shallow water. Do you think the turning diameter will be the same?",
+            "option1": "No, the turning diameter will be increased in shallow water.",
+            "option2": "Yes, the turning diameter will be the same for all depths.",
+            "option3": "No, the turning diameter will be smaller  in shallow water."
+        },
+        {
+            "question": "Your ship is dead in the water with the rudder amidships. As the right-handed screw starts to turn ahead, where does the bow will tend to go?",
+            "option1": "to port",
+            "option2": "as influenced by the tide and sea",
+            "option3": "to starboard"
+        },
+        {
+            "question": "Your ship is drifting in open sea with temporary engine malfunction. You are equipped with precise navigation equipment. What should you do in this situation?",
+            "option1": "Use the opportunity to plot direction and rate of drift for later use.",
+            "option2": "Ask the chief engineer when the engine will be ready.",
+            "option3": "Go to bed and wait for the engine to be ready."
+        },
+        {
+            "question": "Your ship is going full ahead as you start to slow down. With no wind, where is the position of the 'pivot point' now? ",
+            "option1": "It will move aft as the ship slows down.",
+            "option2": "It will move to the side of the center line.",
+            "option3": "Same position as when the ship is on full ahead."
+        },
+        {
+            "question": "Your ship is going full astern and making sternway. Where will the 'pivot point' be located? No wind, current.",
+            "option1": "Somewhere aft of the center of gravity, but it is impossible to pin-point the exact location.",
+            "option2": "At 1/6 of the ship's length from the stern.",
+            "option3": "At the center of gravity."
+        },
+        {
+            "question": "Your vessel has grounded on a bar. What should you do?",
+            "option1": "Rise",
+            "option2": "Shift to the high side",
+            "option3": "Remain stationary"
+        },
+        {
+            "question": "Your vessel is a single-screw ship with a right-hand propeller.  There is no current.  What is the easiest way to make a landing?",
+            "option1": "Switch to the high suction for condenser circulating water, if it is submerged.",
+            "option2": "Run the engine full astern to keep from being set further onto the bar.",
+            "option3": "If you cannot get clear immediately, lighten the ship by pumping all ballast overboard."
+        },
+        {
+            "question": "Your vessel is a single-screw ship with a right-hand propeller. There is no current. What is the easiest way to make a landing?",
+            "option1": "port side to",
+            "option2": "either port or starboard side to, with no difference in degree of difficulty",
+            "option3": "starboard side to"
+        },
+        {
+            "question": "Your vessel is off a lee shore in heavy weather and laboring.  Which action should you take?",
+            "option1": "Swing to starboard.",
+            "option2": "Swing to port.",
+            "option3": "Back on a straight line."
+        },
+        {
+            "question": "Your vessel is off a lee shore in heavy weather and laboring.  Which action should you take?",
+            "option1": "Put the sea and wind about two points on either bow and reduce speed.",
+            "option2": "Put the sea and wind on either quarter and proceed at increased speed.",
+            "option3": "Put the bow directly into the sea and proceed at full speed."
+        },
+        {
+            "question": "Your vessel is port side to a pier with a spring line led aft from the bow. What would be her response when putting the engines ahead with the rudder hard left in calm weather?",
+            "option1": "The bow in and the stern out.",
+            "option2": "Both the bow and stern in.",
+            "option3": "The bow out and the stern in."
+        }
+    ]
+}

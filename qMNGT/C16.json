@@ -1,0 +1,814 @@
+{
+    "quizlist": [
+        {
+            "question": "Your vessel has completed an inspection for certification and is issued a Temporary Certificate of Inspection. What feature has the Temporary Certificate?",
+            "option1": "Has the full force of the regular Certificate of Inspection.",
+            "option2": "Expires six months after it is issued.",
+            "option3": "Must be exchanged for a regular Certificate of Inspection within 3 months."
+        },
+        {
+            "question": "Your load line certificate expires on 27 May 1988. The vessel is surveyed on that date and is found satisfactory. You are sailing foreign the same day. Which statement is TRUE? ",
+            "option1": "The existing certificate is extended for a period of up to 150 days.",
+            "option2": "A new certificate must be issued before you sail.",
+            "option3": "The existing certificate is endorsed as valid for a five year period commencing 27 May 1988."
+        },
+        {
+            "question": "You are on a 30,000 DWT tankship engaged in trade to another country signatory to MARPOL 73/78. Which statement is TRUE? ",
+            "option1": "The Certificate of Inspection is prima facie evidence of compliance with MARPOL 73/78.",
+            "option2": "An IOPP Certificate is invalid if the ship carries cargoes outside the classes authorized thereon.",
+            "option3": "AN IOPP Certificate is renewed at each inspection for certification."
+        },
+        {
+            "question": "Which statement about the fo'c'sle card is TRUE? ",
+            "option1": "Is an exact copy of shipping articles.",
+            "option2": "The fo'c'sle card is a blank sample of the articles.",
+            "option3": "It contains copies of the crew's signatures from the articles."
+        },
+        {
+            "question": "Where can you find the number of inflatable life rafts required on a vessel?",
+            "option1": "Certificate of Inspection",
+            "option2": "SOLAS Certificate",
+            "option3": "Safety Certificate"
+        },
+        {
+            "question": "Where are the test certificates for wire rope used as cargo runners and loose gear certificates usually maintained?",
+            "option1": "With the Cargo Gear Register on the ship",
+            "option2": "In the Official Log",
+            "option3": "At the Coast Guard Marine Safety Office with the vessel's inspection records"
+        },
+        {
+            "question": "What is the period of validity of the SOLAS required Cargo Ship Safety Construction Certificate?",
+            "option1": "60 months",
+            "option2": "48 months",
+            "option3": "24 months"
+        },
+        {
+            "question": "What certificate you should check to determine the number of inflatable liferafts required on a vessel?",
+            "option1": "Certificate of Inspection",
+            "option2": "Load Line Certificate",
+            "option3": "SOLAS Certificate"
+        },
+        {
+            "question": "The supplement to the IOPP Certificate contains what type of data?",
+            "option1": "A checklist of the equipment installed for controlling the discharge of oil.",
+            "option2": "The grades of cargo that an oil tanker is permitted to carry.",
+            "option3": "The trade routes upon which the vessel may operate."
+        },
+        {
+            "question": "Which standards does the Safety Equipment Certificate shows that the vessel conforms with?",
+            "option1": "S.O.L.A.S. Convention",
+            "option2": "U.S. Coast Guard",
+            "option3": "American Bureau of Shipping"
+        },
+        {
+            "question": "What is the period validity of a Cargo Ship Safety Construction Certificate?",
+            "option1": "60 mos.",
+            "option2": "36 mos.",
+            "option3": "24 mos."
+        },
+        {
+            "question": "What is the organization that certifies the safe working load of cargo cranes on a vessel?",
+            "option1": "Classification society",
+            "option2": "National Cargo Bureau",
+            "option3": "U.S. Coast Guard"
+        },
+        {
+            "question": "What is the order of importance in addressing damage control?",
+            "option1": "Control fire, control flooding, repair structural damage.",
+            "option2": "Control fire, restore vital services, control flooding.",
+            "option3": "Restore vital services, control fire, control flooding."
+        },
+        {
+            "question": "What document which the number of certificated able seamen and lifeboatmen required on board is listed?",
+            "option1": "Certificate of Inspection",
+            "option2": "American Bureau of Shipping code",
+            "option3": "Muster List ('Station Bill')"
+        },
+        {
+            "question": "The ISPS Code was Adopted by Contracting Government with Part  A & B. Under what provision in the mandatory requirements & guidance of the SOLAS as amended?",
+            "option1": "Chapter XI-2",
+            "option2": "Chapter XX-1",
+            "option3": "Chapter XI-1"
+        },
+        {
+            "question": "What is the Certificate of Freeboard?",
+            "option1": "Load Line Certificate",
+            "option2": "Certificate of Inspection",
+            "option3": "Admeasurer's Certificate"
+        },
+        {
+            "question": "When was the Regulations for the Prevention of Pollution by Oil (Annex I) entered into force?",
+            "option1": "Oct. 2, 1983",
+            "option2": "Oct. 2, 1984",
+            "option3": "Oct. 2, 1985"
+        },
+        {
+            "question": "Where could may be found the Regulations concerning the stowage, lashing, and securing of timber deck cargoes aboard general cargo vessels?",
+            "option1": "Load Line Regulations",
+            "option2": "Rules and Regulations for Cargo and Miscellaneous Vessels",
+            "option3": "International Cargo Bureau Regulations"
+        },
+        {
+            "question": "How long the Records of tests and inspections of a cargo vessel's fire extinguishing systems shall be kept on board?",
+            "option1": "until the vessel's Certificate of Inspection expires",
+            "option2": "for 1 year",
+            "option3": "for 2 years"
+        },
+        {
+            "question": "For vessels fitted with cargo gear, an initial test of the units under a proof load shall be conducted. Subsequent tests and exams of the same nature shall be carried out at what time interval? ",
+            "option1": "5 years",
+            "option2": "4 years",
+            "option3": "3 years"
+        },
+        {
+            "question": "Where could may be found the Fire fighting equipment requirements for a particular vessel?",
+            "option1": "Certificate of Inspection",
+            "option2": "Certificate of Seaworthiness",
+            "option3": "Classification Certificate"
+        },
+        {
+            "question": "During the course of a voyage, a seaman falls on the main deck and injures his ankle. When should the Master submit a Report of Marine Accident, Injury or Death?",
+            "option1": "Injured, is unable to perform routine duties.",
+            "option2": "Injured needs first aid.",
+            "option3": "Injury results in loss of life only."
+        },
+        {
+            "question": "Due to the nature of a vessel's construction for a particular trade, it does not fully comply with the provisions of SOLAS. Where will this be indicated? ",
+            "option1": "On the Exemption Certificate",
+            "option2": "On the reverse of the particular SOLAS certificate affected",
+            "option3": "On the face of the Certificate of Inspection"
+        },
+        {
+            "question": "Cargo Ship Safety Construction Certificate shall be issued for a period not exceeding:",
+            "option1": "5 years",
+            "option2": "4 years",
+            "option3": "3 years"
+        },
+        {
+            "question": "A vessel sailing from Liverpool to New York puts into Boston, Mass. for emergency repairs. If no inward foreign cargo is to be discharged at that port, which of the following documents is required? ",
+            "option1": "Pro Forma Manifest",
+            "option2": "Custom Manifest",
+            "option3": "Inward Foreign Manifest"
+        },
+        {
+            "question": "A vessel has sustained damage in a collision with another vessel. It is necessary to have a Seaworthy Certificate before the vessel sails. Who will issue this certificate? ",
+            "option1": "Classification Society",
+            "option2": "American Consul",
+            "option3": "Captain of the Port"
+        },
+        {
+            "question": "A vessel cannot comply with all of the SOLAS requirements due to its construction. Where will this be indicated? ",
+            "option1": "On the Exemption Certificate",
+            "option2": "Nowhere; the vessel must comply to engage in international trade.",
+            "option3": "Nowhere; the vessel must comply to engage in international trade."
+        },
+        {
+            "question": "What is a document called which has a list of names, birthplaces, and residences of persons employed on a merchant vessel bound from a U.S. port on a foreign voyage and is required at every port?",
+            "option1": "Certified Crew List",
+            "option2": "Crew Manifest",
+            "option3": "Shipping Articles"
+        },
+        {
+            "question": "In controlling pollution, which action should be taken after all dirty ballast has been transferred to the slop tank and prior to discharge through the oily water separator?",
+            "option1": "The slops should be allowed time to settle.",
+            "option2": "The clean tanks should be ballasted.",
+            "option3": "Chemicals should be added to emulsify the oil."
+        },
+        {
+            "question": "Due to the nature of a vessel's construction for a particular trade,it does not fully comply with the provisions of SOLAS. Where will this be indicated?",
+            "option1": "Nowhere; the vessel must engage in international trade.",
+            "option2": "On the Exemption Certificate",
+            "option3": "On the reverse of the particular SOLAS certificate affected"
+        },
+        {
+            "question": "The Charterers shall have the privilege to ship dangerous cargo in accordance with what Code or any competent authorities' regulations,as applicable?",
+            "option1": "IMDG",
+            "option2": "MARPOL",
+            "option3": "SOLAS"
+        },
+        {
+            "question": "What document is issued under the provision of International Convention for the Prevention of Pollution from Ships 1973,as modified by the Protocol of 1978 relating thereto.",
+            "option1": "International Oil Pollution Prevention Certificate",
+            "option2": "Cargo Ship Safety Construction Certificate",
+            "option3": "International Air Pollution Prevention Certificate"
+        },
+        {
+            "question": "An International Tonnage Certificate will be issued to a vessel when it meets several requirements,which one that the vessel must be?",
+            "option1": "Be 79 or more feet in length.",
+            "option2": "Measure over 100 GT.",
+            "option3": "Engage in intercoastal or international trade."
+        },
+        {
+            "question": "Which tanker shall carry on board the Certificate of Fitness for the Carriage of Liquefied Gases in Bulk?",
+            "option1": "Gas carriers constructed before 1 July 1986.",
+            "option2": "Gas carriers constructed on or after 1 July 1986.",
+            "option3": "All chemical tankers."
+        },
+        {
+            "question": "Which ships shall carry on board the Certificate of insurance or other financial security in respect of civil liability for oil pollution damage?",
+            "option1": "Ships carrying more than 2000 tons of oil in bulk as cargo.",
+            "option2": "Oil tankers.",
+            "option3": "Bulk chemicals carriers."
+        },
+        {
+            "question": "Who shall carry on board the Garbage Management Plan?",
+            "option1": "Every ship of 400 gross tonnage and above and every ship which is certified to carry 15 persons or more.",
+            "option2": "Every ship of less than 400 gross tonnage and every ship which is certified to carry 15 persons or less.",
+            "option3": "Solid cargo vessel of other than Handysize or larger."
+        },
+        {
+            "question": "If the Certificate of Inspection of a damaged tank barge has expired, which certificate may be issued to allow its movement to a repair facility?",
+            "option1": "Permit to proceed.",
+            "option2": "Change of employment.",
+            "option3": "Application for inspection."
+        },
+        {
+            "question": "If there are any Certificates expired or nearing expiry, what must the master of a ship must apply for at any port?",
+            "option1": "Renewal or extension.",
+            "option2": "Extension or expiring.",
+            "option3": "Requirements or renewal."
+        },
+        {
+            "question": "Which tankers shall carry on board the International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk?",
+            "option1": "Chemical tankers constructed on or after 01-July-1986.",
+            "option2": "Chemical tankers constructed before 01-July-1986.",
+            "option3": "All chemical tankers."
+        },
+        {
+            "question": "That she was entered in the REGISTER BOOK of such Society, with the Character +100A1 subject to Periodical Surveys as required by the Rules, which document it will likely to appear?",
+            "option1": "CERTIFICATE OF CLASS",
+            "option2": "CERTIFICATE OF CLEANLINESS OF NATIONAL CARGO BUREAU,INC",
+            "option3": "FUMIGATION AND GAS FREE CERTIFICATE"
+        },
+        {
+            "question": "What feature given to a ship which is classified into gross tonnage and net tonnage from the Tonnage Certificate?",
+            "option1": "Dimensions.",
+            "option2": "Prescriptions.",
+            "option3": "Descriptions."
+        },
+        {
+            "question": "Who always issue the vessel's Load Line Certificate?",
+            "option1": "The Register of Shipping",
+            "option2": "Customs House",
+            "option3": "Cargo Survey Bureau"
+        },
+        {
+            "question": "Which document is NOT required by law to be posted aboard a vessel?",
+            "option1": "Official Crew List",
+            "option2": "Certificate of Inspection",
+            "option3": "Officer's licenses"
+        },
+        {
+            "question": "Your load line certificate expires on 27-May-2006. The vessel is surveyed on that date and is found satisfactory. You are sailing foreign the same day. Which statement is TRUE?",
+            "option1": "The existing certificate is extended for a period of up to 150 days",
+            "option2": "The existing certificate is extended until the first foreign port of call where a new certificate will be issued by the local surveyor",
+            "option3": "The existing certificate is endorsed as valid for a five year period commencing 27-May-2006"
+        },
+        {
+            "question": "Which vessel engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties to MARPOL 73/78 shall carry an Oil Record Book on board?",
+            "option1": "Bulk carrier of 400 gross tonnage and above",
+            "option2": "Oil tanker",
+            "option3": "Container vessel"
+        },
+        {
+            "question": "What certificate does the quarantine officer will issue when satisfied that there are no contagious diseases on board?",
+            "option1": "a free pratique",
+            "option2": "an outward clearance ",
+            "option3": "landing permits"
+        },
+        {
+            "question": "Your ship is sinking rapidly. A container containing an inflatable liferaft has bobbed to the surface upon functioning of the hydrostatic release. Which action should you take?",
+            "option1": "Take no action because the painter will cause the liferaft to inflate and open the container.",
+            "option2": "Manually open the container and inflate the liferaft with the hand pump.",
+            "option3": "Swim away from the container so you will not be in danger as it goes down."
+        },
+        {
+            "question": "You are on a 30,000 DWT tankship engaged in trade to another country signatory to MARPOL 73/78. Which statement is TRUE?",
+            "option1": "The IOPP Certificate is valid for 5 years.",
+            "option2": "The Certificate of Inspection is prima facie evidence of compliance with MARPOL 73/78.",
+            "option3": "An IOPP Certificate is invalid if the ship carries cargoes outside the classes authorized thereon."
+        },
+        {
+            "question": "What is the generally accepted method of determining whether the atmosphere within a cargo tank is explosive, too rich, or too lean to support combustion?",
+            "option1": "Use an explosimeter.",
+            "option2": "Enter the tank with an oxygen analyzer.",
+            "option3": "Send a gas sample ashore for laboratory analysis."
+        },
+        {
+            "question": "You are towing a 1000 gross ton gasoline tank barge. The barge is NOT gas free. When does the regulations say that the cargo tank hatches, ullage holes, and Butterworth plates on the barge may remain open without flame screens?",
+            "option1": "when under the supervision of a senior crew member on duty",
+            "option2": "only when the barge is empty",
+            "option3": "only while in areas of good weather"
+        },
+        {
+            "question": "You are in the Baltic Sea which is a special area listed in ANNEX V of MARPOL. How many miles from land must you be to discharge ground rags, glass, and bottles into the sea?",
+            "option1": "Must be retained aboard",
+            "option2": "3",
+            "option3": "12"
+        },
+        {
+            "question": "When oil is accidentally discharged into the water, what should you do after reporting the discharge?",
+            "option1": "Contain the oil and remove as much of it as possible from the water.",
+            "option2": "Throw chemical agents on the water to disperse the oil.",
+            "option3": "Throw sand on the water to sink the oil."
+        },
+        {
+            "question": "For at least how many years a Radio station logs involving communications during a disaster shall be kept by the station licensee?",
+            "option1": "3 years from date of entry",
+            "option2": "4 years from date of entry",
+            "option3": "2 years from date of entry"
+        },
+        {
+            "question": "You are at sea and not in a special area as defined in ANNEX V of MARPOL. How many nautical miles from land must you be to discharge ground garbage that will pass through a one-inch (25 mm) screen into the sea?",
+            "option1": "3 nm",
+            "option2": "6 nm",
+            "option3": "12 nm"
+        },
+        {
+            "question": "You are underway in the Gulf of Mexico when you hear a distress message over the VHF radio. The position of the sender is about 20 miles south of Galveston, TX, and you are about 80 miles ESE of Galveston. What action should you take?",
+            "option1": "Defer acknowledgment for a short interval so that a coast station may acknowledge receipt",
+            "option2": " Immediately acknowledge receipt of the distress message",
+            "option3": "Do not acknowledge receipt until other ships nearer to the distress have acknowledged"
+        },
+        {
+            "question": "In reporting to any PSCO or flag state of possible contravention of MARPOL 73/78 Annex II discharge provisions, the following particulars of the ship shall be noted EXCEPT__________.",
+            "option1": "name of the master",
+            "option2": "position of the ship",
+            "option3": "flag and port of registry"
+        },
+        {
+            "question": "SOLAS stipulates that mustering of passengers on a ship engaged in an international voyage which is not a short international voyage shall take place_____",
+            "option1": "within 24 hours after their embarkation",
+            "option2": "Within one week after leaving port",
+            "option3": "Within 24 hours after leaving"
+        },
+        {
+            "question": "A Ship Safety Certificate is issued by MARINA valid for a period not exceeding __________.",
+            "option1": "5 years",
+            "option2": "4 years",
+            "option3": "3 years"
+        },
+        {
+            "question": "Sanitary-, ballast-, bilge- or general service pumps may be accepted as fire pumps provided: (SOLAS II-2/4.3.2)",
+            "option1": "They are not normally used for pumping oil",
+            "option2": "They can be started from a position outside the engine room",
+            "option3": "They are fitted with automatic start connected to the fire alarm"
+        },
+        {
+            "question": "The most effective and convenient method of disposing oily debris is:",
+            "option1": "Incineration ",
+            "option2": "Landfills ",
+            "option3": "Commutation  "
+        },
+        {
+            "question": "New tanker means a tanker in which constructed and completed after ______.",
+            "option1": "June 1, 1982 ",
+            "option2": "January 1, 1979",
+            "option3": "January 1, 1980"
+        },
+        {
+            "question": "Who is responsible for implementation of protection and environment work on board?",
+            "option1": "both master and shipping company.",
+            "option2": "Master.",
+            "option3": "Government."
+        },
+        {
+            "question": "A contract of marine insurance is considered concluded when the proposal of the assured is accepted by the insurer whether the policy is issued or not. What covers the acceptance?",
+            "option1": "Cover Note",
+            "option2": "Cover Letter",
+            "option3": "coverage agreement"
+        },
+        {
+            "question": "An underwriter is liable for:",
+            "option1": "Loss caused by unavoidable delay due to fog",
+            "option2": "The natural decay of the vessel due to passage of time",
+            "option3": "Loss caused by the ordinary evaporation of liquid"
+        },
+        {
+            "question": "What is an example of the term 'Restraint of Rulers, Princes, or Peoples' in a marine insurance policy?",
+            "option1": "Arrest of a vessel by legal authorities to satisfy claims through exercise of a maritime lien.",
+            "option2": "Damage caused by riot of the population of a port.",
+            "option3": "Losses caused by fines from polluting the harbor after malfunction of a piping system."
+        },
+        {
+            "question": "In reporting to any PSCO or flag state of possible contravention of MARPOL 73/78 Annex II discharge provisions, the following particulars of the ship shall be noted EXCEPT__________.",
+            "option1": "name of the master",
+            "option2": "flag and port of registry",
+            "option3": "type, size (estimated tonnage) and other descriptive data"
+        },
+        {
+            "question": "For the purpose of the PSCO,  oil tankers,  chemical tankers,  gas carriers,  bulk carriers and  cargo high speed craft  of  500 gross tonnage  and  above shall comply with the  ISM Code  from the date__________.",
+            "option1": "1-Jul-98",
+            "option2": "1-Jul-97",
+            "option3": "Feb. 1, 1998"
+        },
+        {
+            "question": "The PSCO is guided with a list of detainable deficiencies, under areas of the SOLAS convention, the following are considered EXCEPT:",
+            "option1": "Poorly maintained lifeboats and/or lifesaving appliances",
+            "option2": "Failure of proper operation and propulsion and other essential machinery as well as electrical installations",
+            "option3": "Failure of proper operation of emergency generator, lighting, batteries and switches "
+        },
+        {
+            "question": "In US waters 'Oil Pollution Act of 1990' was activated in August 1993. What is the main issue for the introduction of the act?",
+            "option1": "to prevent oil spills in US waters",
+            "option2": "To encourage owners to build double hull vessels for trading US waters",
+            "option3": "to improve safety measures onboard"
+        },
+        {
+            "question": " Which of the following memo circular created the Qualification Documentation Certificate?",
+            "option1": " MC 164",
+            "option2": " MC 146",
+            "option3": " MC 416"
+        },
+        {
+            "question": "Cargo Ship Safety Construction Certificate shall be issued for a period not exceeding:",
+            "option1": "5 years",
+            "option2": "3 years",
+            "option3": "2 years"
+        },
+        {
+            "question": "Intermediate survey for tankers 10 years of age and over is required under____",
+            "option1": "Reg.1/10",
+            "option2": "Reg.1/8",
+            "option3": "Reg.1/7"
+        },
+        {
+            "question": "Under the STCW Convention, which regulation deals with tankers?",
+            "option1": "Regulation V/1",
+            "option2": "Regulation VI/1",
+            "option3": "Regulation VII/1"
+        },
+        {
+            "question": "In case deficiencies which caused detention cannot be remedied in the port of inspection PSCO may allow the ship to proceed to the nearest appropriate repair port on conditions that the following procedures be observed as __________.",
+            "option1": "The ship owner or master submits a letter of guarantee that the ship can be safely navigated to the repair port",
+            "option2": "The flag state or classification society acting on behalf of the flag state shall issue single voyage certificate",
+            "option3": "The PSC inspection from and any release notice shall make clear to which port the ship is allowed to sail"
+        },
+        {
+            "question": "SOLAS stipulates that there should be at least one international shore connection with an outside diameter of ____ on ships of 500 GRT or more.",
+            "option1": "178mm",
+            "option2": "182mm",
+            "option3": "176mm"
+        },
+        {
+            "question": "In reporting to any PSCO or flag State of possible contravention of the MARPOL 73/78 Annex II discharge provisions, the following particulars of the ship shall be noted EXCEPT:",
+            "option1": "Name of the master",
+            "option2": "Whether discharged ceased when ship was observed or contacted by radio",
+            "option3": "Part of the ship from which discharge was seen emanating"
+        },
+        {
+            "question": "At least one re-inspection shall be made on each vessel holding a Certificate of Inspection valid for two years.  This inspection shall be held between the tenth and fourteenth months of the duration period of the certificate and shall be __________.",
+            "option1": "generally similar in scope to the inspection required for certification, but in less detail",
+            "option2": "at the discretion of the inspector, but in no greater detail than required for original certification",
+            "option3": "at the discretion of the inspector, but in no lesser detail than required for original certification"
+        },
+        {
+            "question": "Required to maintain insurance of financial security, the owner of a ship shall register on a contracting state and carry more than _____ tons of oil in bulk as cargo.",
+            "option1": "2,000",
+            "option2": "5,000",
+            "option3": "10,000"
+        },
+        {
+            "question": " MARINA was created and geared towards the following objectives EXCEPT:",
+            "option1": " To create sub-agencies for the safe transport of goods and passengers",
+            "option2": " To provide for economical, safe, adequate and efficient shipment of raw materials, products, commodities and people",
+            "option3": " To create more job opportunities"
+        },
+        {
+            "question": "Where may as a general rule pressure containers for gas fire-extinguishing medium be kept? (SOLAS II-2/5.1.10)",
+            "option1": "Outside the space which is to be protected",
+            "option2": "Above bulkhead deck",
+            "option3": "In cold storages"
+        },
+        {
+            "question": "Under the New Regulations, what does SOLAS Chapter XI-2 deals with?",
+            "option1": "Special measures to enhance Maritime Safety  ",
+            "option2": "Additional provisions to combat Terrorism  ",
+            "option3": "Special provisions for the safety of the passengers "
+        },
+        {
+            "question": "Recognition of Certificates issued by other parties is under WHAT Regulations of the STCW as amended ?",
+            "option1": "Reg. 1/10",
+            "option2": "Reg. 1/11",
+            "option3": "Reg VI/4"
+        },
+        {
+            "question": "SOLAS stipulates that mustering of passengers on a ship engaged in an international voyage which is not a short international voyage shall take place_____",
+            "option1": "within 24 hours after their embarkation",
+            "option2": "Within one week after leaving port",
+            "option3": "Within 24 hours after leaving"
+        },
+        {
+            "question": "A Ship Safety Certificate is issued by MARINA valid for a period not exceeding __________.",
+            "option1": "5 years",
+            "option2": "4 years",
+            "option3": "3 years"
+        },
+        {
+            "question": "What is the best way to avoid pollution from small oil-spills aboard a ship?",
+            "option1": "contain any oil-spill onboard the ship",
+            "option2": "Have dispersing chemicals ready for use in case of oil-spill",
+            "option3": "have sawdust ready for use"
+        },
+        {
+            "question": "129. The ISPS Code applies to: I.  Passenger ships II. Mobile Offshore Drilling Units ",
+            "option1": "    (MODU)",
+            "option2": "I only",
+            "option3": "II only  "
+        },
+        {
+            "question": "If you discover alcohol and drug abuse onboard, whom do you report to?",
+            "option1": "the master.",
+            "option2": "the manager.",
+            "option3": "port authorities."
+        },
+        {
+            "question": "Under the STCW 1978, what is the meaning of near-coastal voyages?",
+            "option1": "Voyages in the vicinity of a party as defined by that party ",
+            "option2": "Voyages in waters other than international waters ",
+            "option3": "Voyages within 12 miles from the shoreline of any party "
+        },
+        {
+            "question": "A charter party in which the charterer assumes no responsibility for the operation of the vessel but pays stevedoring expenses.",
+            "option1": "voyage charter",
+            "option2": "time charter",
+            "option3": "bareboat charter"
+        },
+        {
+            "question": "Referring to the SOLAS convention, how often should a crew member on a cargo ship participate in one abandon ship drill and one fire drill?",
+            "option1": "monthly",
+            "option2": "every second week",
+            "option3": "This is only required when he joins the ship"
+        },
+        {
+            "question": "Who certifies the safe working load of cargo cranes on a vessel?",
+            "option1": "American Bureau of Shipping",
+            "option2": "U.S. Coast Guard",
+            "option3": "Society of Naval Architects and Marine Engineers"
+        },
+        {
+            "question": "In relation to P & I Insurance, which of the following premiums are fixed?",
+            "option1": "Premium for a vessel entered for charterer’s account",
+            "option2": "Premium for a vessel entered for both charterers & owners account",
+            "option3": "Premium for a vessel entered for shipper’s account"
+        },
+        {
+            "question": "In reporting to any PSCO or flag state of possible contravention of the MARPOL 73/78 Annex II discharge provisions, the following particulars of the slick shall be noted EXCEPT__________.",
+            "option1": "type of slick observed",
+            "option2": "sky condition (bright, sunshine, overcast, etc.)",
+            "option3": "colour of slick"
+        },
+        {
+            "question": "When is the periodical inspection in connection with the Ship's Loadline Certificate held?",
+            "option1": "Within three months of the anniversary date of completion of the initial survey",
+            "option2": "Three months after the anniversary date of the completion of initial survey",
+            "option3": "Before the anniversary date of the completion of initial survey"
+        },
+        {
+            "question": "States acting through the competent international organization shall establish international rules and standards for the purpose of the following EXCEPT:",
+            "option1": "Elimination of pollution of the marine environment",
+            "option2": "Control pollution of the marine environment",
+            "option3": "Reduce pollution of the marine environment"
+        },
+        {
+            "question": "You are the Chief Mate of a 30,000-DWT tankship. The vessel is engaged in trade with another country signatory to MARPOL 73/78. Which statement is TRUE?",
+            "option1": "The IOPP Certificate for an inspected vessel is valid for 5 years.",
+            "option2": "The Certificate of Inspection serves as prima facie evidence of complying with MARPOL 73/78.",
+            "option3": "An IOPP Certificate is renewed at each inspection for certification."
+        },
+        {
+            "question": "To what purpose is safety meetings held prior to surveys?",
+            "option1": "To check out if the rules of ISGOTT Chapter 10 is followed.",
+            "option2": "To meet all participants and distribute equipment.                        ",
+            "option3": "no particular reasons for holding a safety meeting.                    "
+        },
+        {
+            "question": "When you carry out a job, you should consider the following questions. Which of the following is not fitting?",
+            "option1": "is it possible for me to carry out a job. If not, I should reason out",
+            "option2": "is the noise level at the workplace low enough for communication",
+            "option3": "how is the place of work? Too cold. Too warm? Do I need a ventilation"
+        },
+        {
+            "question": "Your vessel has completed an inspection for certification and is issued a temporary certificate.  This __________.",
+            "option1": "has the full force of a regular Certificate of Inspection",
+            "option2": "must be exchanged for a regular Certificate of Inspection before going foreign or out of state",
+            "option3": "must be posted in the vicinity of the officers' licenses"
+        },
+        {
+            "question": "What  provides the basic legal requirements of the 1995 STCW convention.",
+            "option1": "Regulations",
+            "option2": "Articles",
+            "option3": "Resolutions"
+        },
+        {
+            "question": "What  is a declaration of the Master when he anticipates the hull and/or cargo damage due to unusual weather condition",
+            "option1": "note of marine protest",
+            "option2": "master's report to shipowners",
+            "option3": "damage report"
+        },
+        {
+            "question": "Which certificate to a cargo ship which is exempt from certain requirements of the regulations and showing that she complies with the rest of those requirement?",
+            "option1": "Qualified Cargo Ship Safety Construction Certificate",
+            "option2": "Passenger Ship Safety Equipment Certificate",
+            "option3": "Passenger Ship Safety Construction Certificate"
+        },
+        {
+            "question": "Under the International convention on Civil Liability for Oil Pollution Damage, which of the following WILL NOT entitle the shipowner to limit his ability in respect of any one of the incident to an aggregate amount calculated as follows:",
+            "option1": "5 million units of account for a ship not exceeding 5,000 of tonnage",
+            "option2": "3 million units of account for a ship not exceeding 5,000 of tonnage ",
+            "option3": "For a ship with a tonnage of 5,000 for each additional unit of tonnage"
+        },
+        {
+            "question": "The entry into force of the 1978 Protocol relating to the International Convention for the prevention of pollution from ships was _______.",
+            "option1": "Oct. 2, 1983",
+            "option2": "Oct. 2, 1986",
+            "option3": "Oct. 2, 1985"
+        },
+        {
+            "question": "Rule VI of the York-Antwerp Rules 1974 as amended in 1990 relates to:",
+            "option1": "Salvage ",
+            "option2": "Voluntarily stranding",
+            "option3": "Expenses in lightening a ship when ashore and consequent damage"
+        },
+        {
+            "question": "Shipowners carry goods by sea or put a vessel at the disposal of charterers for the purpose against payment of a certain rate of freight mutually agreed in advance. This undertaking by the shipowner is called ______________.",
+            "option1": "Affreightment",
+            "option2": "contract of shipment",
+            "option3": "contract of carriage"
+        },
+        {
+            "question": "In reporting to any PSCO or flag state of possible contravention of the MARPOL 73/78 Annex II discharge provisions, the following particulars of the ship shall be noted EXCEPT__________.",
+            "option1": "name of the Master",
+            "option2": "position of the ship",
+            "option3": "approximate course and speed"
+        },
+        {
+            "question": "On a passenger ship, PSCO requires that life boats and davit launched life rafts are capable of being launched within a period of:",
+            "option1": "30 minutes",
+            "option2": "25 minutes",
+            "option3": "20 minutes "
+        },
+        {
+            "question": "What is termed as a vague expression usually intended to convey that there are no invidious or unusual terms in the charter party?",
+            "option1": "clean charter",
+            "option2": "direct charter",
+            "option3": "non-clause charter"
+        },
+        {
+            "question": "What is termed as a vague expression usually intended to convey that there are no invidious or unusual terms in the charter party?",
+            "option1": "clean charter",
+            "option2": "direct charter",
+            "option3": "non-clause charter"
+        },
+        {
+            "question": "Which of the following list of MARINA circulars provides the provision for the issuance of Accreditation of Maritime Training Centers offering courses under the ISPS code?",
+            "option1": "M.C. 185",
+            "option2": "M.C. 180",
+            "option3": "M.C. 182"
+        },
+        {
+            "question": " A vessel loads 5000 tons of manganese ore. The railroad cars that brought the ore to the vessel were previously loaded with iron ore so the ore is contaminate The agent requests the Master to sign a Clean Bill of Lading and in return the shipper will…",
+            "option1": " Refuse to sign a Clean Bill of Lading.",
+            "option2": " Sign a Clean Bill of Lading and accept the Letter of Indemnity.",
+            "option3": " Sign a Clean Bill of Lading under protest."
+        },
+        {
+            "question": "A vessel loads packaged cargoes. The Mate discovers some of the packages have been damaged and put some exceptions on the Bill of Lading. This document is called__________.",
+            "option1": "Exceptional Bill of Lading",
+            "option2": "Ordinary Bill of Lading",
+            "option3": "Non-negotiable Bill of Lading"
+        },
+        {
+            "question": "The period validity of a Cargo Ship Safety Construction Certificate is",
+            "option1": "60 mos.",
+            "option2": "24 mos.",
+            "option3": "36 mos."
+        },
+        {
+            "question": "Which Regulations deal with roro passenger ships under the STCW Convention?",
+            "option1": "Reg. V/2",
+            "option2": "Reg. V/5",
+            "option3": "Reg. V/3"
+        },
+        {
+            "question": "The S.S. Sheet Bend arrives in New York after encountering heavy weather on a voyage from Cape Town. Who will note the protest for the Master?",
+            "option1": "Notary Public",
+            "option2": "U.S. Shipping Commissioner",
+            "option3": "Officer in Charge Marine Inspection"
+        },
+        {
+            "question": "Obligations of members of the P and  I Club are the following EXCEPT__________.",
+            "option1": "disclose material facts",
+            "option2": "do not admit liability",
+            "option3": "arrange survey"
+        },
+        {
+            "question": "A document that every ship is required as per Annex II of MARPOL 73/78, whether as part of the ship's official logbook or otherwise, in the form specified in appendix IV to the Annex.",
+            "option1": "Cargo Record Book",
+            "option2": "Oil Record Book",
+            "option3": "IOPP Certificate"
+        },
+        {
+            "question": "In plugging submerged holes, rags, wedges, and other materials should be used in conjunction with plugs to:",
+            "option1": "Reduce the water leaking around the plugs",
+            "option2": "Reduce the water pressure on the hull ",
+            "option3": "Prevent progressive flooding"
+        },
+        {
+            "question": "The governing C/P stipulates a weather working day of two-eight-hour shifts. Under these terms how many hours will compromise a weather working day?",
+            "option1": "16 hours",
+            "option2": "8 hours",
+            "option3": "12 hours"
+        },
+        {
+            "question": "You are on a vessel 10 nautical miles off the coast of Algeria, in the Mediterranean Sea. Are you allowed to dump food waste overboard?",
+            "option1": "No, food waste can not be dumped overboard",
+            "option2": "Yes, the food waste can be dumped if it is ground so that the resulting particles can pass through a screen with 25 mm openings",
+            "option3": "Yes, the food waste can be dumped if it is ground so that the resulting particles can pass through a screen with 50 mm openings"
+        },
+        {
+            "question": "To comply with legislation regarding SBT's, CBT's and COW, the requirements for tankers we well addressed in the______",
+            "option1": "MARPOL 78 protocol",
+            "option2": "ICPS",
+            "option3": "MARPOL 73 convention"
+        },
+        {
+            "question": "When oil is discharged overboard, an entry is required in the __________.",
+            "option1": "Oil Record Book",
+            "option2": "deck rough log",
+            "option3": "engine rough log"
+        },
+        {
+            "question": " Which of the following interested groups concerned with chartering process acquire the capacity they need to acquire a charter party?",
+            "option1": " Shippers  ",
+            "option2": " Ship operators   ",
+            "option3": " Ship owners"
+        },
+        {
+            "question": "Calculate the monthly time charter payment of 50,000 DWT with a charter rate of US$3.00 per DWT per 30 day period with an assumed off-hire of 1.5 days.",
+            "option1": " US$142.500  ",
+            "option2": " US$147.000   ",
+            "option3": " US$450.000"
+        },
+        {
+            "question": "Which one of the following items has to be included in an abandon ship drill according to SOLAS regulations?",
+            "option1": "Checking that life-jackets are correctly donned.",
+            "option2": "Starting and operating radio life-saving appliances.",
+            "option3": "Launching and recovery of a survival craft."
+        },
+        {
+            "question": "Which document lists all the lifesaving equipment required for a vessel?",
+            "option1": "Certificate of Inspection ",
+            "option2": "Certificate of Registry",
+            "option3": "American Bureau of Shipping Classification Certificate"
+        },
+        {
+            "question": "Regulations for the Prevention of Pollution by Oil (Annex I) entered into force on:",
+            "option1": "Oct. 2, 1983",
+            "option2": "Oct. 2, 1982",
+            "option3": "Oct. 2, 1984"
+        },
+        {
+            "question": "Which of the following concerning the jurisdiction of UNCLOS '82 in maritime matters is  CORRECT?",
+            "option1": "It establishes the basic features in the implementation of TSS",
+            "option2": "It establishes the basic features in conforming to the international regulations procedure",
+            "option3": "It establishes the basic features in the implementation of safety regulations"
+        },
+        {
+            "question": "What type of construction material should be avoided regarding fire protection purposes? (SOLAS II-2/2.2.3)",
+            "option1": "All combustible materials",
+            "option2": "All plastic materials",
+            "option3": "All composite materials"
+        },
+        {
+            "question": "While enroute from Japan to Long Beach a fire has damaged 50 cartons of canned sardines on a ship loaded with general cargo. This claim would come under ______.",
+            "option1": "Particular Average",
+            "option2": "Constructive Total loss",
+            "option3": "Actual total loss"
+        },
+        {
+            "question": " The Master’s responsibility under a time charter party is:",
+            "option1": " Vessel’s administration for the owner, cargo operations/schedule for the charterer ",
+            "option2": " Solely to cargo shippers and consignees   ",
+            "option3": " Solely to the owner under normal conditions"
+        },
+        {
+            "question": "As per MARPOL, the rating to hazard to human health by oral intake of 500-5000  mg/kg is __________.",
+            "option1": "practically non-hazardous",
+            "option2": "slightly hazardous",
+            "option3": "moderately hazardous"
+        },
+        {
+            "question": "Which type of davit is not considered to be a mechanical davit?",
+            "option1": "Radial",
+            "option2": "Crescent",
+            "option3": "Quadrantal"
+        },
+        {
+            "question": "Which type of davit the boat is stowed on a davit rather than on a cradle?",
+            "option1": "Crescent",
+            "option2": "Quadrantal",
+            "option3": "Radial"
+        }
+    ]
+}

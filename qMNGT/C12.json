@@ -1,0 +1,616 @@
+{
+    "quizlist": [
+        {
+            "question": "What signals a vessel engaged in fishing during the day would show?",
+            "option1": "Two cones, apexes together.",
+            "option2": "A cone, apex downward",
+            "option3": "One black ball"
+        },
+        {
+            "question": "Your tank vessel is loading a hazardous cargo. The allowance for expansion is based on ambient temperatures of what maximum range?",
+            "option1": "-18°C to  46°C",
+            "option2": "-10°C to  90°C",
+            "option3": "-40°C to  50°C"
+        },
+        {
+            "question": " Under which charter has the shipowner’s lien for freight and other charges on goods shipped under Bill of Lading.",
+            "option1": " Voyage charter  ",
+            "option2": " Bareboat charter",
+            "option3": " Demise charter   "
+        },
+        {
+            "question": " Underway at night you see the red sidelight of a vessel well off your port bow.  Which statement is TRUE?",
+            "option1": "You may maintain course and speed.",
+            "option2": "You are on a collision course with the other vessel.",
+            "option3": "You are required to alter course to the right."
+        },
+        {
+            "question": "A cargo hold containing cargo such as nitrates, chlorates etc. which produce oxygen under the influence of heat catches fire. How would you deal with this?",
+            "option1": "With this type of material the hatches should not be battened down.  The fire can only be extinguished by using large quantities of water. ",
+            "option2": "Apply boundary cooling.",
+            "option3": "Close the hatches, apply boundary cooling and allow the fire to use up the oxygen and extinguish itself."
+        },
+        {
+            "question": "A package contains nitric acid solution and is radioactive. The radiation level at the package surface is .36 millirems per hour. How should this package be labeled? ",
+            "option1": "Radioactive I and corrosive. ",
+            "option2": "Fissile class I. ",
+            "option3": "Radioactive II and poison. "
+        },
+        {
+            "question": "A ship's forward draft is 22`-04`` and its after draft is 23`-00``. The draft amidships is 23`-04``. Where does this concentration of weight indicates?",
+            "option1": "Amidships",
+            "option2": "At the ends ",
+            "option3": "In the lower holds"
+        },
+        {
+            "question": "According to the IMO Code, what are the minimum number of securing points that should be on each side of a 'road vehicle', whose gross vehicle mass is between 20 tons and 30 tons, when carried on Ro-Ro vessels?",
+            "option1": "Three",
+            "option2": "One",
+            "option3": "Two"
+        },
+        {
+            "question": "According to the IMO Code, what are the minimum number of securing points that should be on each side of a 'road vehicle', whose gross vehicle mass is between 3.5 Tons and 20 Tons, when carried on Ro-Ro vessels?",
+            "option1": "Two",
+            "option2": "One",
+            "option3": "Three"
+        },
+        {
+            "question": "According to the IMO Code, what are the minimum number of securing points that should be on each side of a 'road vehicle', whose gross vehicle mass is between 30 tons and 40 tons, when carried on Ro-Ro vessels?",
+            "option1": "Four",
+            "option2": "One",
+            "option3": "Three"
+        },
+        {
+            "question": "How do you determine the vessel's KG?",
+            "option1": "Dividing the total vertical moment summation by displacement.",
+            "option2": "Dividing the total longitudinal moment summation by displacement.",
+            "option3": "Multiplying the MT1 by the longitudinal moments."
+        },
+        {
+            "question": "How many classes of dangerous cargoes are covered by the IMDG Code?",
+            "option1": "There are nine (9) classes of dangerous cargoes + pollutants.",
+            "option2": "There are eight (8) classes of dangerous cargoes + 1 pollutants.",
+            "option3": "There are seven (7) classes of dangerous cargoes + 2 pollutants."
+        },
+        {
+            "question": "How would you stow 500 drums of corrosive liquid as deck cargo?",
+            "option1": "It would be normal practice to check the product with the IMDG Code, to ensure that it should not be incompatible with any other deck cargo being carried.",
+            "option2": "As otherwise advised these drums would be stowed in large batches so as to allow access to any leaking drums whilst in transit.",
+            "option3": " In the event of a leaking drum developing while at sea, it is not necessary to ‘jettison’ the effected drum(s)."
+        },
+        {
+            "question": "If loading a cargo parcel of hazardous material, where would you obtain the details of such a cargo?",
+            "option1": "Dangerous and hazardous goods are detailed in the International Maritime Dangerous Goods (IMDG) Code. ",
+            "option2": "Dangerous and hazardous goods are detailed in the BS Code.",
+            "option3": "Dangerous and hazardous goods are detailed in the IGS Code."
+        },
+        {
+            "question": "Inert gas should be supplied with an oxygen content of less than how many percent?",
+            "option1": "5%",
+            "option2": "2%",
+            "option3": "21%"
+        },
+        {
+            "question": "Since when does a vessel aground may have negative GM?",
+            "option1": "Displacement lost acts at the point where the ship is aground.",
+            "option2": "Lost buoyancy method is used to calculate KM, and KB is reduced.",
+            "option3": "Virtual rise of G is directly proportional to the remaining draft."
+        },
+        {
+            "question": "The forward draft of your ship is 27`-11`` and the after draft is 29`-03``. The draft amidships is 28`-05``. What is your vessel deflection condition?",
+            "option1": "Hogged",
+            "option2": "Sagged ",
+            "option3": "Listed"
+        },
+        {
+            "question": "Weak pressure gradients and light, variable winds.",
+            "option1": "Steady winds generally from the southeast in the Southern Hemisphere.",
+            "option2": "Steady winds in one direction for six months followed by wind reversal for the next six months.",
+            "option3": "The formation of typhoons or hurricanes in certain seasons."
+        },
+        {
+            "question": "To make sure of getting the full advantage of a favorable current, you should reach an entrance or strait at what time in relation to the predicted time of the favorable current?",
+            "option1": "30 minutes before the predicted time",
+            "option2": "30 minutes before flood, one hour after an ebb",
+            "option3": "One hour after the predicted time"
+        },
+        {
+            "question": "What causes an increase in the movement of liquid in a tank when a vessel inclines?",
+            "option1": "Natural rolling period ",
+            "option2": "Metacentric radius",
+            "option3": "Metacentric height "
+        },
+        {
+            "question": "What does NOT affect the value of the free surface correction? ",
+            "option1": "Registered tonnage.",
+            "option2": "Specific gravity of the liquid in the tank.",
+            "option3": "Length of the tank."
+        },
+        {
+            "question": "What happens to the free surface moments of slack tanks when displacement increases?",
+            "option1": "Remain unchanged",
+            "option2": "Are inversely proportional",
+            "option3": "Decrease"
+        },
+        {
+            "question": "What has the effect of raising when increasing free surfaces?",
+            "option1": "Virtual height of the center of gravity.",
+            "option2": "Uncorrected KG",
+            "option3": "Metacenter"
+        },
+        {
+            "question": "What increased with when the free surface effects of a partially full liquid tank decrease?",
+            "option1": "Displacement volume of the vessel",
+            "option2": "Size of the surface area in the tank",
+            "option3": "Placement of the tank above the keel"
+        },
+        {
+            "question": "What indicates the arrival of a hurricane within 24 to 36 hours?",
+            "option1": "Unusually good weather with above average pressures followed by a slow fall of 4 millibars in six hours.",
+            "option2": "The barometer drops 2 millibars between 1000 and 1600.",
+            "option3": "The normal swell becoming lower and from a steady direction."
+        },
+        {
+            "question": "What is found by dividing displacement into the LCG of a vessel?",
+            "option1": "Sum of the longitudinal moments of the vessel .",
+            "option2": "Longitudinal baseline of the vessel. ",
+            "option3": "Sum of the vertical moments of the vessel."
+        },
+        {
+            "question": "What is necessary with, to divide the free-surface moments to calculate the free surface correction?",
+            "option1": "Total displacement",
+            "option2": "Total weight of liquid loads.",
+            "option3": "Lightweight "
+        },
+        {
+            "question": "What is one of the biggest dangers when carrying a cargo of asphalt or molten sulphur, which are carried at temperatures of over 300°F?",
+            "option1": "Water in the tanks or pipelines. ",
+            "option2": "Having the cargo too cool .",
+            "option3": "Explosion of vapors after discharge. "
+        },
+        {
+            "question": "What is the Certificate of Freeboard?",
+            "option1": "Load Line Certificate",
+            "option2": "Certificate of Inspection",
+            "option3": "Admeasurer's Certificate"
+        },
+        {
+            "question": "What is the correction to KG for longitudinal free surface effects for a vessel can be found by dividing the vessel's displacement?",
+            "option1": "Sum of the longitudinal free surface moments of the vessel. ",
+            "option2": "Longitudinal centerline of the vessel.",
+            "option3": "Sum of the vertical moments of the vessel. "
+        },
+        {
+            "question": "What is the load's results aboard a vessel when multiplying a load's weight by the distance of the load's center of gravity from the centerline?",
+            "option1": "Transverse moment",
+            "option2": "TCG",
+            "option3": "Righting moment"
+        },
+        {
+            "question": "What is the major advantage of a rhumb line track?",
+            "option1": "The vessel can steam on a constant heading (disregarding wind, current, etc.).",
+            "option2": "It approximates a great circle on east-west courses in high latitudes.",
+            "option3": "It is easily plotted on a gnomonic chart for comparison with a great circle course."
+        },
+        {
+            "question": "What is the results in on a vessel when multiplying a load's weight by the distance of the load's center of gravity above the baseline?",
+            "option1": "Vertical moment ",
+            "option2": "Transverse moment ",
+            "option3": "Righting moment"
+        },
+        {
+            "question": "What is used in order to determine the litmus paste?",
+            "option1": "Thievage",
+            "option2": "Innage",
+            "option3": ""
+        },
+        {
+            "question": "What type is a deepwell pump?",
+            "option1": "Centrifugal pump",
+            "option2": "Screw pump",
+            "option3": "Eductor"
+        },
+        {
+            "question": "Where does initial stability depends upon the effect of free surface?",
+            "option1": "The dimensions of the liquid surface and the vessel's displacement ",
+            "option2": "The amount of liquid in the compartment ",
+            "option3": "Only the length of the compartment"
+        },
+        {
+            "question": "Where does the loose liquids flowing for the greatest effect on stability occurs?",
+            "option1": "In and out of a vessel that is holed in a wing tank. ",
+            "option2": "In and out of a vessel that is holed in a peak tank.",
+            "option3": "From fore to aft in the tanks of a vessel."
+        },
+        {
+            "question": "Where is the weight of a cargo concentrated that a vessel would be referred to as 'tender'?",
+            "option1": "Concentrated high and the double bottoms are empty.",
+            "option2": "Concentrated low and the double bottoms are full",
+            "option3": "Concentrated low and the double bottoms are empty"
+        },
+        {
+            "question": "Where virtual height does a partially full tank causes a virtual rise?",
+            "option1": "Center of gravity",
+            "option2": "Center of flotation",
+            "option3": "Center of buoyancy "
+        },
+        {
+            "question": "Which is characteristic of a 'special cargo'?",
+            "option1": "It is of high value or easily pilferable.",
+            "option2": "The cargo gives off toxic gases when heated.",
+            "option3": "Periodic inspection is required while in transit to prevent spoilage."
+        },
+        {
+            "question": "Which statement is NOT true concerning the stowage of class 1 explosives? ",
+            "option1": "Class 1.4 explosives may not be stowed in the same hold with class 6.1 poisons. ",
+            "option2": "Class 1.4 explosives must be 'separated from' a stow of class 8 corrosive materials. ",
+            "option3": "Class 1.4 explosives must be 'separated from' a stow of class 5.1 oxidizing materials. "
+        },
+        {
+            "question": "Which statement is TRUE concerning equatorial tides? ",
+            "option1": "The difference in height between consecutive high or low tides is at a minimum.",
+            "option2": "They are used as the basis for the vulgar establishment of the port.",
+            "option3": " They occur when the Moon is at maximum declination north or south."
+        },
+        {
+            "question": "Which will most likely occur when entering shallow water?",
+            "option1": "The vessel's trim will change.",
+            "option2": "The vessel's list will change.",
+            "option3": "An increase in speed will occur."
+        },
+        {
+            "question": "You are approaching shallow water with Under Keel Clearance of 15%. What speed should you have when entering and when should you slow down?",
+            "option1": "Reduce to slow or less in due time before entering.",
+            "option2": "About 10 knots, slow down 15 minutes before entering.",
+            "option3": "Maintain normal sea-speed, no need to slow down."
+        },
+        {
+            "question": "You are bound from port A governed by the summer load line mark to port B also governed by the summer mark. The great circle track will take you into a zone governed by the winter mark. Which statement is TRUE? ",
+            "option1": "What must you do at the winter mark when you enter the winter zone and cannot exceed the summer mark upon departing port A?",
+            "option2": "You can load so that upon arrival at the pier at port B your freeboard is equal to the summer mark less any fresh water allowance. ",
+            "option3": "You can only load to the winter mark plus any fresh water allowance and burnout to sea at port A. "
+        },
+        {
+            "question": "You are on a containership. Which statement about the stowage of hazardous materials in containers is TRUE?",
+            "option1": "A refrigerated container with a fuel tank containing a flammable liquid must be stowed on deck. ",
+            "option2": "Packages of liquids within a container should be stowed on top of packages of solids to prevent crushing. ",
+            "option3": "All packages within a container must be marked 'This End Up' to indicate the correct stowage. "
+        },
+        {
+            "question": "You are on a multiple-product chemical tanker. The loading plan includes cargoes of diethylenetriamine and formamide. Which statement concerning the stowage of these cargoes is TRUE? ",
+            "option1": "The minimum segregation required is a single bulkhead.",
+            "option2": "The valves in common piping systems must be chained closed and locked. ",
+            "option3": " The cargoes must have individual venting systems."
+        },
+        {
+            "question": "You are on a multiple-product tankship and scheduled to load a cargo classed as an aromatic amine. What cargoes classed this cargo is incompatible with?",
+            "option1": "Organic anhydrides",
+            "option2": " Ketones ",
+            "option3": "Phenols"
+        },
+        {
+            "question": "You are sailing in shallow water, with 15% Under Keel Clearance. How will the stopping distance be, compared to deep water?",
+            "option1": "Longer",
+            "option2": "The same as in all depths.",
+            "option3": "Large change at first, then changing slightly."
+        },
+        {
+            "question": "You are sailing in shallow water, with 15% Under Keel Clearance. Turning the ship around, what space do you need compared to deep water?",
+            "option1": "Need more space than normal.",
+            "option2": "The turning diameter of your ship is the same for all water depths.",
+            "option3": "To port less, to starboard more space."
+        },
+        {
+            "question": "You are sailing in shallow water, with 15% Under Keel Clearance. With full RPM, what will your speed be compared to deep water?",
+            "option1": "Faster",
+            "option2": "Stay the same",
+            "option3": "The RPM will drop with 15% of full"
+        },
+        {
+            "question": "You are the officer in charge during the loading of a tanker in Ras Tannurah. The deck watchman reports a lot of oil on the water. What should be your FIRST action",
+            "option1": "Tell the jettyman to stop loading immediately.",
+            "option2": "Find out if the oil is coming from your vessel",
+            "option3": "call the Master."
+        },
+        {
+            "question": "You have orders to load cargoes of carbon disulfide, diisopropylamine and pyridine on your multi-product tankship. Which statement is true? ",
+            "option1": "Pyridine and diisopropylamine may not be carried in tanks having a common header vent. ",
+            "option2": "Carbon disulfide may be carried in NOS. 1 and 2 center tanks and diisopropylamine in NOS. 1 and 2 wing tanks. ",
+            "option3": "Pyridine must be separated from carbon disulfide by two barriers (cofferdams, voids, empty tanks, etc.). "
+        },
+        {
+            "question": "You receive a package, for shipment aboard your vessel, containing class 1 explosives. The package is damp, moldy and stained. What must you do to transport this package according to the regulations?",
+            "option1": "Seek the shipper's advice with regard to withdrawal, repair, or replacement.",
+            "option2": "Repair or replace the packaging before stowage. ",
+            "option3": "Note an exception on the Bill of Lading"
+        },
+        {
+            "question": "You will load class 1.2 commercial explosives and need to construct a portable magazine. What does the magazine MUST be?",
+            "option1": "Be elevated with skids 10cm (3.9 inches) above the deck.",
+            "option2": "Be made of metal. ",
+            "option3": "Have a hinged cover. "
+        },
+        {
+            "question": "Your tank vessel is fully loaded, and you find that she is down slightly by the head. How you may adjust the trim?",
+            "option1": "Shift cargo aft ",
+            "option2": "Add ballast amidship.",
+            "option3": "Load more cargo fwd of tipping center. "
+        },
+        {
+            "question": "Your vessel is listing because of a negative GM.What must you do to lower G below M?",
+            "option1": "Add weight symmetrically below G.",
+            "option2": "Ballast on the high side.",
+            "option3": "Transfer weight to the high side."
+        },
+        {
+            "question": "Your vessel is damaged and is listing to port. The rolling period is short. There is sufficient freeboard so that deck edge submersion is not a problem. What corrective action should be taken first in regards to the vessel's stability?",
+            "option1": "shift any off center weights from port to starboard",
+            "option2": "Flood any empty double bottom tanks to add weight low down",
+            "option3": "press up any slack double bottom tanks to add weight low down"
+        },
+        {
+            "question": "Your vessel is floating in water or density 1010. The water allowance is 8 inches. How far below her marks may she be loaded so as to float at her mark in salt water of density 1025?",
+            "option1": "4.8 inches",
+            "option2": "6.4 inches",
+            "option3": "8.0 inches"
+        },
+        {
+            "question": "Your tank vessel is fully loaded, and you find that she is  down slightly by the head.  To adjust the trim, you may __________.",
+            "option1": "shift cargo aft",
+            "option2": "load more cargo aft",
+            "option3": "all of the options"
+        },
+        {
+            "question": "You are to load a bagged cargo in the lower hold of a shipped equipped with drain walls in the after end of the hold. The layer of dunnage should be laid down ",
+            "option1": "in a fore and aft pattern",
+            "option2": "at an angle to the keel with the forward end outboard",
+            "option3": "diagonally across the entire hold"
+        },
+        {
+            "question": "You are to load a bagged cargo in the lower hold of a shipped equipped with side bilges. The first layer of dunnage should be laid down ________",
+            "option1": "at an angle to the keel, with the forward end inboard",
+            "option2": "at an angle to the keel with the forward end outboard",
+            "option3": "diagonally across the entire hold"
+        },
+        {
+            "question": "You are the officer in charge of discharging an oil tanker of 15000 DWT  in Corpus Christi, USA. Where shall the Oil Transfer Procedure be located",
+            "option1": "Posted or available where it can be easily seen and used by crew-members engaged in the discharge  operation.",
+            "option2": "Available in the Chief Officers office, or Captains office",
+            "option3": "permanently posted in the wheelhouse"
+        },
+        {
+            "question": "Why is it important to check ullages frequently during loaded passage",
+            "option1": "check if any internal or hull leakages",
+            "option2": "Check cargo quantities each grade are correct",
+            "option3": "owners requirement"
+        },
+        {
+            "question": "Which of the following will improve stability",
+            "option1": "pumping the bilges",
+            "option2": "closing watertight  doors",
+            "option3": "consuming fuel from a full tank"
+        },
+        {
+            "question": "Which of the following types of cargo can be loaded on deck?",
+            "option1": "Container, certain dangerous goods, timber, logs, railway engine, boxed machinery",
+            "option2": "Steel coils, fishmeal, coffee",
+            "option3": "Frozen goods"
+        },
+        {
+            "question": "Which of the following terms is associated with LIMBER?",
+            "option1": "Drainage",
+            "option2": "Ceiling",
+            "option3": "Securing gear"
+        },
+        {
+            "question": "Which of the following tensioning devices is used with webbing to secure light vehicles aboard Ro-Ro vessels?",
+            "option1": "Buckle tensioner",
+            "option2": "Adjust-a-matic tensioner",
+            "option3": "Turnbuckle"
+        },
+        {
+            "question": "Which of the following statements about tank cleaning is/are true? I. Products which are volatile and vaporize without traces. II. Vegetable oils and animal oils of non-drying type should preferably be pre-washed directly",
+            "option1": "II  only",
+            "option2": "Both I and II",
+            "option3": "I only"
+        },
+        {
+            "question": "Which of the following statements about inert gas pressures in a cargo tank is TRUE?",
+            "option1": "gas pressures should be maintained at the highest permissible level throughout the discharging process.",
+            "option2": "the pressures of the inert gas in the tank may create excessive pressure at the pump while discharging",
+            "option3": "high gas pressures may cause pyrophoxic oxidation in the tank"
+        },
+        {
+            "question": "Which of the following statement regarding the trimming of gain is/are TRUE? I. In any filled compartments the bulk grain be trimmed so as to fill all spaces under the deck and hatch covers to the maximum extent possible.  II. Loading all free grain space",
+            "option1": "both I and II",
+            "option2": "II only",
+            "option3": "neither I nor II"
+        },
+        {
+            "question": "Which of the following requirements to ships stability for normal operation  corresponds to present  regulations? (NSCL 4/12.2)",
+            "option1": "The ship is loaded in such a manner that adequate stability is achieved in all loading condition.",
+            "option2": "Centre of gravity shall be calculated with an accuracy better than 5 percent.",
+            "option3": "I waters with the danger of icing, loading of deck cargo must be approved by competent authority."
+        },
+        {
+            "question": "Which of the following requirements to inert gas system for oil cargo tanks do not correspond to present regulations? (SOLAS II-2/62.2)",
+            "option1": "Keep a low pressure in the tanks at all times at sea and in port (periods of gas-freeing excepted)",
+            "option2": "Eliminate the need for air to enter the tank during normal operation (gas-freeing excepted)",
+            "option3": "Maintaining the atmosphere in any part of the tank within an oxygen content not exceeding 8% by volume"
+        },
+        {
+            "question": "Which of the following requirements to fixed foam systems for cargo deck area on tankers do not correspond to present regulations? (SOLAS II-2/61)",
+            "option1": "Sufficient foam concentrate shall be supplied to ensure at least one hour of foam generation",
+            "option2": "Application throw in still air condition shall not be less than 15 m",
+            "option3": "The number of foam applicators shall not be less than four"
+        },
+        {
+            "question": "Which of the following requirements regarding embarking, disembarking and stowage of vehicle on ferries corresponds to present regulations? (NSCL 4/11.4).",
+            "option1": "During crossing, ports on the car deck shall be closed and battened.",
+            "option2": "Vehicles shall at all times be secured against shifting.",
+            "option3": "Vehicles shall at all times be secured against shifting."
+        },
+        {
+            "question": "Which of the following requirements regarding  on board stability data corresponds to present regulations?             (NSCL 4/12.1)",
+            "option1": "A calculation example showing the use of  'KG'  limitation curves.",
+            "option2": "A calculation example showing use of 'GM' limitation curves.",
+            "option3": "Stability data produced by stability calculation instruments."
+        },
+        {
+            "question": "Which of the following precautions  is/are to be observed when washing oil cargo compartments when the compartment atmosphere is inert?",
+            "option1": "inert gas pump and cargo pumps should not run simultaneously ",
+            "option2": "all of these",
+            "option3": "inert is to be stopped up"
+        },
+        {
+            "question": "Which of the following precautions  is/ are to be observed when washing oil cargo compartments when the compartment atmosphere is inert?",
+            "option1": "confirm that oxygen content does not exceed 8 % volume throughout the operation",
+            "option2": "confirm that oxygen content does not exceed 15 % volume throughout the operation",
+            "option3": "confirm that oxygen content does not exceed 12 % volume throughout the operation"
+        },
+        {
+            "question": "Which of the following precaution/s is/are to be taken to minimize the dangers inherent in carrying ore concentrate in bulk.  I. Moisture content should be known and certificate be given.  I. No more water should be added through leaking hatches",
+            "option1": "Both I and II",
+            "option2": "I only",
+            "option3": "II only"
+        },
+        {
+            "question": "Which of the following methods of rigging is capable of lifting the heaviest weight without exceeding the safe limit?",
+            "option1": "doubling gear",
+            "option2": "Yo-yo gear",
+            "option3": "Yo-yo gear together with doubling gear"
+        },
+        {
+            "question": "Which of the following items DO NOT have to be noted in the Oil Record Book ",
+            "option1": "Quantity of ballast discharged from segregated ballast tanks",
+            "option2": "Time of start and end when filling ballast into cargo tanks",
+            "option3": "Method used to establish that cargo tanks were dry after Crude Oil Washing"
+        },
+        {
+            "question": "Which of the following kinds of cargo must be carried in a deep frozen state?",
+            "option1": "Fish, meat, butter",
+            "option2": "Fish meal, malt",
+            "option3": "Coal, minerals"
+        },
+        {
+            "question": "Which of the following is the stated proper sequence before commencing cargo operations aboard Ro-Ro vessels?",
+            "option1": "Notify engine room, lower the ramp, start ventilation",
+            "option2": "Lower the ramp, start ventilation,  notify engine room",
+            "option3": "Start ventilation, notify engine room, lower the ramp"
+        },
+        {
+            "question": "Which of the following is/are the safety factors which must be considered both before and when using a pair of derricks rigged to operate in union purchase?",
+            "option1": "all shackles, hooks, and pins to be of same SWL as the derrick they served",
+            "option2": "bigger and stronger wires should be used",
+            "option3": "all shackles, hooks, blocks, and pins must be brand new"
+        },
+        {
+            "question": "Which of the following is the correct definition of transverse metacenter?",
+            "option1": "the point to which G may rise and still permit the vessel to possess positive stability",
+            "option2": "the sum of the center of buoyancy and the center of gravity",
+            "option3": "the transverse shift of the center of buoyancy as a vessel rolls."
+        },
+        {
+            "question": "Which of the following is NOT necessary, prior to loading or discharging cargo on a Ro-Ro vessel?",
+            "option1": "Turn on the red cargo light.",
+            "option2": "Lower the stern ramp.",
+            "option3": "Raise/open the stern door."
+        },
+        {
+            "question": "Which of the following is NOT an alarm on an inert gas plant ",
+            "option1": "low oxygen alarm",
+            "option2": "scrubber high water level alarm",
+            "option3": "deck seal low water alarm"
+        },
+        {
+            "question": "Which of the following is a characteristic of the warning signs required to be displayed on a tanker vessel while transferring any hazardous cargo",
+            "option1": "The signs use black lettering on a white background",
+            "option2": "The signs must indicate NO SMOKING",
+            "option3": "They must be visible from both sides, and from forward and aft"
+        },
+        {
+            "question": "Which of the following does not affect the value of the free surface correction?",
+            "option1": "Registered tonnage",
+            "option2": "Specific gravity of the liquid in the tank",
+            "option3": "length of the tank"
+        },
+        {
+            "question": "Which of the following decreases ship’s stability because it reduces initial stability and is usually off center ?",
+            "option1": "topside icing",
+            "option2": "Uneven Log deck load",
+            "option3": "Heavy shipping seas on deck"
+        },
+        {
+            "question": "Which of the following cargoes are liable to spontaneous combustion",
+            "option1": "coal",
+            "option2": "silica gel",
+            "option3": "lead"
+        },
+        {
+            "question": "Which of the following cargoes can explode",
+            "option1": "ammonium nitrate",
+            "option2": "gypsum",
+            "option3": "turnings or swarfings"
+        },
+        {
+            "question": "Which of the following cargoes can solidify",
+            "option1": "latex",
+            "option2": "kerosene",
+            "option3": "molasses"
+        },
+        {
+            "question": "Which of the following are considered bulk cargoes that may have hazardous properties or which may liquefy?",
+            "option1": "Copper ore concentrate, iron ore concentrate, zinc sulphide",
+            "option2": "Rice, corn, malt",
+            "option3": "Barley, fish meal"
+        },
+        {
+            "question": "Which of the following booklets would you consult to determine the number of persons required on duty while loading leaded gasoline on your tanker",
+            "option1": "oil transfer procedures manual",
+            "option2": "certificate of inspection",
+            "option3": "IOPP certificate"
+        },
+        {
+            "question": "Which of the following alternatives are recommended when decanting water overboard from the slop tank",
+            "option1": "Leave a 'cushion' of water in the slop tank, to minimize the risk of polluting the sea",
+            "option2": "Maintain a speed of at least 12 knots when pumping overboard",
+            "option3": "using dispersing chemicals in the slop tank"
+        },
+        {
+            "question": "Which of the following actions would best increase the transverse stability of a merchant vessel at sea?",
+            "option1": "ballasting the double bottom tanks",
+            "option2": "deballasting the deep tanks",
+            "option3": "raising the cargo booms to the upright position"
+        },
+        {
+            "question": "Which of the following actions are stated in the correct order prior to loading or discharging cargo on a Ro-Ro vessel?",
+            "option1": "Lower the stern ramp, raise/open the stern door, turn on ventilation for cargo holds",
+            "option2": "Turn on ventilation for cargo holds, raise/open the stern door, lower the stern ramp",
+            "option3": "Turn on ventilation for cargo holds, lower the stern ramp, raise/open the stern door"
+        },
+        {
+            "question": "Which method should be used to warm up the pump turbines prior to discharge?",
+            "option1": "Shut the discharge valve and run the pump at slow speed",
+            "option2": "Run the turbine at slow speed with the pump disconnected",
+            "option3": "Run the pump at high speed with the discharge valves closed"
+        },
+        {
+            "question": "Which method of adjusting mooring lines is MOST useful for  leaving a boat free to rise and fall with the tide?",
+            "option1": "Crossing the spring lines",
+            "option2": "Doubling up on spring or breast lines",
+            "option3": "Slacking bow and stern lines"
+        },
+        {
+            "question": "Which measure should NOT be taken to reduce the pounding of a vessel in a head sea?",
+            "option1": "Add ballast in the after peak.",
+            "option2": "Alter course.",
+            "option3": "Reduce speed."
+        },
+        {
+            "question": "Which material should NOT be used to secure cargo on deck for a voyage?",
+            "option1": "Fiber rope",
+            "option2": "Steel strapping",
+            "option3": "Steel chain"
+        }
+    ]
+}

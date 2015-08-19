@@ -1,0 +1,142 @@
+{
+    "quizlist": [
+        {
+            "question": "You are plotting a running fix. The LOP to be run forward is an arc from a radar range, what technique should be used? ",
+            "option1": "The position of the object observed should be advanced to the new time and a new arc swung using the radius of the old arc. ",
+            "option2": "The distance between LOP's should be added to the radar range and a new arc swung. ",
+            "option3": "An arc should never be run forward."
+        },
+        {
+            "question": "You are using a radar in which your own ship is shown at the center, and the heading flash always points to 0°. If bearings are measured in relation to the flash, what type of bearings are produced? ",
+            "option1": "Relative",
+            "option2": "True ",
+            "option3": "Compass"
+        },
+        {
+            "question": "An icebreaker is assisting a vessel through an ice field. What will it signify if she would display a visual signal consisting of the code letter 'M' (Mike)?",
+            "option1": "my vessel is stopped and making no way through the water",
+            "option2": "I am operating astern propulsion",
+            "option3": "I am altering my course to port"
+        },
+        {
+            "question": "At 0530 zone time, on 20 December, you depart Cape Town (ZD -1). You are bound for New York (ZD +5), and you estimate your speed of advance at 25 knots. The distance is 6,762 miles. What is your estimated zone time of arrival at New York?",
+            "option1": "0600, 31 December",
+            "option2": "1100, 31 December",
+            "option3": "0700, 31 December"
+        },
+        {
+            "question": "Generally speaking, what kind of weather a ship steaming across the North Pacific from Japan to Seattle will likely to experience?",
+            "option1": "favorable currents for practically the entire crossing",
+            "option2": "adverse currents for practically the entire crossing",
+            "option3": "favorable currents in the summer months and adverse currents in the winter months"
+        },
+        {
+            "question": "In the Northern Hemisphere, if your vessel is in a hurricane's navigable semicircle, where should it be positioned with the wind?",
+            "option1": "On starboard quarter, hold course and make as much speed as possible",
+            "option2": "On port bow, hold course and make as much speed as possible until the hurricane has passed",
+            "option3": "On port quarter, maintain course and make as much speed as possible "
+        },
+        {
+            "question": "On an Atlantic Ocean voyage from New York to Durban, South Africa, what ocean current you should expect the Agulhas Current to strongly present?",
+            "option1": "head current",
+            "option2": "onshore set",
+            "option3": "offshore set"
+        },
+        {
+            "question": "Temperature and moisture characteristics are modified in a warm or cold air mass due to what?",
+            "option1": "Movement of the air mass",
+            "option2": "Pressure changes in the air mass",
+            "option3": "The heterogeneous nature of the air mass "
+        },
+        {
+            "question": "What are the two most effective generating forces of surface ocean currents?",
+            "option1": "Wind and density differences in the water",
+            "option2": "Temperature and salinity differences in the water ",
+            "option3": "Water depth and underwater topography"
+        },
+        {
+            "question": "What enables you to estimate the bearing of a storm's center? ",
+            "option1": "Buys Ballot's Law",
+            "option2": "An educated guess",
+            "option3": "Pascal's Law"
+        },
+        {
+            "question": "What is the principal danger from ice collecting on a vessel?",
+            "option1": "loss of stability ",
+            "option2": "adverse effect on trim",
+            "option3": "decrease in displacement"
+        },
+        {
+            "question": "Where does the major ocean currents tend to flow in the Northern Hemisphere?",
+            "option1": "clockwise around the North Atlantic and North Pacific Oceans",
+            "option2": "clockwise or counterclockwise depending on whether it is warm or cold current",
+            "option3": "counterclockwise except in the Gulf Stream"
+        },
+        {
+            "question": "Where is the center of low pressure located when an observer in the Northern Hemisphere experiences a northeast wind according to Buys Ballot's law?",
+            "option1": "south-southeast",
+            "option2": "northwest",
+            "option3": "west-southwest"
+        },
+        {
+            "question": "Which of the following describes why topside icing, which is usually off-center, decreases vessel stability? ",
+            "option1": "it increases the height of the center of gravity ",
+            "option2": "increases displacement",
+            "option3": "it increases draft "
+        },
+        {
+            "question": "You are plotting a running fix in an area where there is a determinable current. How should this current be treated in determining the position? ",
+            "option1": "The course and speed made good should be determined and used to advance the LOP.",
+            "option2": "The drift should be added to the ship's speed.",
+            "option3": " The current should be ignored."
+        },
+        {
+            "question": "You are plotting a running fix. The LOP to be run forward is an arc from a radar range, what technique should be used? ",
+            "option1": "The position of the object observed should be advanced to the new time and a new arc swung using the radius of the old arc. ",
+            "option2": "The distance between LOP's should be added to the radar range and a new arc swung. ",
+            "option3": "An arc should never be run forward. "
+        },
+        {
+            "question": "You are running parallel to the coast and estimate that the current is against you. In plotting a running fix using bearings from the same object on the coast, the greatest safety margin from inshore dangers will result if what speed is used to determine the fix? ",
+            "option1": "Minimum speed estimate",
+            "option2": "Maximum speed estimate ",
+            "option3": "Average speed estimate"
+        },
+        {
+            "question": "You are steaming eastward in the North Atlantic in an extratropical cyclonic storm and the wind is dead ahead. According to the law of Buys Ballot, where does the center of the low pressure lies?",
+            "option1": "To the south ",
+            "option2": "To the north",
+            "option3": "Ahead of you"
+        },
+        {
+            "question": "What should be a dead reckoning (DR) plot?",
+            "option1": "Should be started each time the vessel's position is fixed.",
+            "option2": "Should be replotted hourly.",
+            "option3": "Must utilize magnetic courses."
+        },
+        {
+            "question": "Where is a gnomonic projection is based on?",
+            "option1": "Plane tangent at one point.",
+            "option2": "Infinite series of cones tangent at selected parallels.",
+            "option3": "Cone tangent at one parallel."
+        },
+        {
+            "question": "Other than the equator, what is a parallel of latitude? ",
+            "option1": "Small circle",
+            "option2": "Gnomonic curve",
+            "option3": "Great circle"
+        },
+        {
+            "question": "Where does a polyconic projection is based on?",
+            "option1": "Series of cones tangent at selected parallels.",
+            "option2": "Cone tangent at one parallel.",
+            "option3": "Plane tangent at one point."
+        },
+        {
+            "question": "What is a known position obtained by applying only your vessel's course and speed?",
+            "option1": "Dead-reckoning position.",
+            "option2": " Fix",
+            "option3": "Probable position."
+        }
+    ]
+}

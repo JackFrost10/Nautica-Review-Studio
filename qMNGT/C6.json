@@ -1,0 +1,232 @@
+{
+    "quizlist": [
+        {
+            "question": "An indirect radar echo is caused by a reflection of the main lobe of the radar beam off the observer's vessel. Which of the following is NOT a characteristic of indirect echoes? ",
+            "option1": "They always appear on a bearing of 90° from the true bearing of the contact.",
+            "option2": "Their bearing is almost constant, even when the true bearing of the contact changes appreciably. ",
+            "option3": "The indirect echoes usually appear in shadow sectors. "
+        },
+        {
+            "question": "As you pass under the Vicksburg Bridges, you estimate the current as 3.0 mph. What is the speed over the ground, if your vessel is making turns for 10.5 mph?",
+            "option1": "13.5 mph",
+            "option2": "16.5 mph",
+            "option3": "10.5 mph"
+        },
+        {
+            "question": "At 1032 on 24 June, you pass Carolina Landing Light (mile 508.8 AHP). What has been the average current since 2350, 23 June, if you have been making turns for 9.0 mph?",
+            "option1": "0.5 mph ",
+            "option2": "1.5 mph",
+            "option3": "5.7 mph"
+        },
+        {
+            "question": "Chart information details to be used in ECDIS should be the latest edition of information originated by a government-authorized hydrographic office and conform to what standards?",
+            "option1": "International Hydrographic Organization",
+            "option2": "International Maritime Organization",
+            "option3": "NASA"
+        },
+        {
+            "question": "ECDIS allows the mariner to change the color palette that is used to display an ENC. Three different color tables have been designed to provide the maximum clarity and contrast between features on the display under three different lighting conditions on the bridge, namely Day, Dusk and Night.",
+            "option1": "The Day Color Table, meant to be used in bright sunlight uses a bright background for deep water and looks the most like a traditional paper chart. ",
+            "option2": "The Dusk Color Table uses a semi background for deep water and colors are subdued, but slightly dimmer than those used in the Night Color Table",
+            "option3": "The Night Color Table, meant to be use in darkest conditions uses a dusk background for deep water and muted color shades for other features"
+        },
+        {
+            "question": "ECDIS displays depths in meters, soundings and contour lines often show fractional meter values. Describe what the “own-ship safety contour” should be:",
+            "option1": "The “own-ship safety contour” is always displayed, but mariners may choose to have all other depth contours turned off.",
+            "option2": "The “own-ship safety contour” is sometimes displayed, but mariners may choose to have all other depth contours turned off.",
+            "option3": "The “own-ship safety contour” is sometimes displayed, and mariners may choose to have all other depth contours turned off."
+        },
+        {
+            "question": "ECDIS enables mariners to set their own-ship “safety depth.” If no depth is set, where do you set  the value of ECDIS?",
+            "option1": "ECDIS sets the value to 30m",
+            "option2": "ECDIS sets the value to 32m",
+            "option3": "ECDIS sets the value to 34m"
+        },
+        {
+            "question": "How would the two targets if the ARPA may swap targets when automatically tracking?",
+            "option1": "pass close together ",
+            "option2": "are tracked on the same bearing",
+            "option3": "are tracked at the same range"
+        },
+        {
+            "question": "Two vessels are abreast of each other and passing port to port in a confined waterway. What should you expect as your bow approaches the screws of the other vessel?",
+            "option1": "Your bow will sheer towards the other vessel.",
+            "option2": "Your bow will sheer away from the other vessel.",
+            "option3": "Your draft will significantly decrease."
+        },
+        {
+            "question": "What does a device indicates when a vessel is required to have an Electronic Plotting Aid (EPA)?",
+            "option1": "speed of the vessel over the ground or through the water",
+            "option2": "depth of the water",
+            "option3": "vessel's position"
+        },
+        {
+            "question": "What is a Raster-scan chart data?",
+            "option1": "a digitized'picture' of a chart in one format and one layer",
+            "option2": "composed of files that are smaller than vector files",
+            "option3": "organized into many separate files "
+        },
+        {
+            "question": "What is called as the database resulting from (1) the transformation of the electronic navigational chart (ENC) by ECDIS for appropriate use, (2) the updates to the ENC by appropriate means, and (3) the additional data added by the mariner?",
+            "option1": "system electronic navigational chart ",
+            "option2": "chart display information",
+            "option3": "standard display information"
+        },
+        {
+            "question": "What is the level of database information which cannot be removed from the ECDIS display and consists of information which is required at all times in all geographic areas and under all circumstances?",
+            "option1": "display base information",
+            "option2": "standard display information ",
+            "option3": "system electronic nautical chart "
+        },
+        {
+            "question": "What is TRUE of the history display of a target's past positions on an ARPA? ",
+            "option1": "In the true presentation, it provides a quick visual check to determine if a vessel has changed course. ",
+            "option2": "It provides a graphic display to emphasize which vessel is on a collision course. ",
+            "option3": " The display is one of the primary inputs and must be in use when using the trial maneuver capability. "
+        },
+        {
+            "question": "chart information details to be used in ECDIS should be the latest edition of information originated by a government-authorized hydrographic office and conform to what standards?",
+            "option1": "DGPS, within a coverage area",
+            "option2": "SPS, without selective availability",
+            "option3": "PPS, without selective availability"
+        },
+        {
+            "question": "What will cause the Electronic Plotting Aid (EPA) to emit a visual alarm, audible alarm, or both? ",
+            "option1": "A tracked target entering your preset CPA-TCPA limits ",
+            "option2": " A target being initially detected within a guard zone",
+            "option3": "A tracked target lost for one radar scan"
+        },
+        {
+            "question": "When navigating using GPS, what is an indicator of the geometry of the satellites that your receiver is locked onto? ",
+            "option1": "Horizontal Dilution of Precision",
+            "option2": "Selective Availability",
+            "option3": " Doppler Shifting"
+        },
+        {
+            "question": "When using an ARPA, what should you consider in order to evaluate the information displayed?",
+            "option1": "Navigational constraints may require a target vessel to change course. ",
+            "option2": "The target vessel's generated course and speed are based solely on radar inputs. ",
+            "option3": "The trial maneuver feature will automatically determine a course that will clear all targets. "
+        },
+        {
+            "question": "Which ARPA data should you use in order to determine if a close quarters situation will develop with a target vessel?",
+            "option1": "Relative track information",
+            "option2": "Predicted time of CPA",
+            "option3": "Initial range of acquisition"
+        },
+        {
+            "question": "Which data must ECDIS be able to record at one-minute intervals? ",
+            "option1": "Course made good history",
+            "option2": "Estimated time of arrival ",
+            "option3": "Speed through the water "
+        },
+        {
+            "question": "Which Electronic Plotting Aid (EPA) data should you use in order to determine if a close quarters situation will develop with a target vessel? ",
+            "option1": "Initial range of acquisition",
+            "option2": "Predicted time of the closest point of approach (CPA) ",
+            "option3": "Relative track information"
+        },
+        {
+            "question": "Which feature, when set to zero, might allow a GPS unit to have an accuracy equivalent to Precise Positioning Service receiver capability? ",
+            "option1": "Selective Availability",
+            "option2": "Transit",
+            "option3": "Anti-spoofing"
+        },
+        {
+            "question": "Which include in ECDIS units that incorporate Digital Chart Data Formats?",
+            "option1": "vector and raster",
+            "option2": "imposed viewing ",
+            "option3": "raster only "
+        },
+        {
+            "question": "Which of the following data layer categories is NOT displayed on ECDIS?",
+            "option1": "Ship hydrodynamic information ",
+            "option2": "Hydrographic Office data",
+            "option3": "ECDIS warnings and messages"
+        },
+        {
+            "question": "With regard to GPS, how could a civilian receiver may be capable of achieving the same accuracy as a military receiver?",
+            "option1": "selective availability is set to zero ",
+            "option2": "the satellites are all below 15° in elevation",
+            "option3": "your vessel is equipped with a Doppler receiver"
+        },
+        {
+            "question": "With respect to automatic identification systems (AIS) which of the following information is broadcast every one to ten seconds? ",
+            "option1": "Navigational status",
+            "option2": "Dimensions of vessel ",
+            "option3": "Air Draft "
+        },
+        {
+            "question": "With respect to automatic identification systems (AIS), which information is expected to be broadcast every 1 to 10 seconds? ",
+            "option1": "Ship's heading",
+            "option2": "Name of ship",
+            "option3": "IMO number "
+        },
+        {
+            "question": "You are anchored in the Aleutian Island chain and receive word that a tsunami is expected to strike the islands in six hours. What is the safest action?",
+            "option1": "Get underway and be in deep, open-ocean water when the tsunami arrives.",
+            "option2": "Increase the scope of the anchor cable and drop the second anchor underfoot at short stay.",
+            "option3": "Get underway and be close inshore on the side of the island away from the tsunami."
+        },
+        {
+            "question": "You are approaching the pilot station with the wind fine on the starboard bow and making about 3 knots. You can help to calm the seas by taking what action just before the pilot boat comes along on the port side?",
+            "option1": "A short burst of ahead full with left full rudder",
+            "option2": "Giving right full rudder",
+            "option3": "Stopping the engines"
+        },
+        {
+            "question": "You are steaming along the coast of Ireland in the Irish Sea. You sight a lighted buoy with a white flashing light showing a group of two flashes. What does the buoy indicates?",
+            "option1": "should pass well clear on either side of the buoy",
+            "option2": "must pass north of the buoy ",
+            "option3": "must pass south of the buoy"
+        },
+        {
+            "question": "You are steaming in a heavy gale and find it necessary to heave to. Under most circumstances, what is the best action to do?",
+            "option1": "taking the sea fine on the bow and reducing the speed to the minimum to hold that position",
+            "option2": "maintaining speed and taking the sea broad on the bow",
+            "option3": "going slow astern and taking the seas on the quarter"
+        },
+        {
+            "question": "You are steaming in the open ocean of the North Pacific between the Aleutian Chain and Hawaii. A warning broadcast indicates that an earthquake has occurred in the Aleutians and has generated a tsunami that is predicted to hit Hawaii. What action is necessary for the ship's safety?",
+            "option1": "No special action as tsunamis are inconspicuous in the open ocean",
+            "option2": "Prepare for sudden, high-velocity wind gusts from rapidly changing directions.",
+            "option3": "Securely stow all loose gear, check deck lashings, and prepare for extreme rolls."
+        },
+        {
+            "question": "You are stopped with no way upon your vessel at the pilot station. Your vessel is a large twin-screw ship. You must come around 180° to board your Pilot. How should you use the engines and rudder to turn the ship fastest in the least amount of space?",
+            "option1": "Half ahead with hard over rudder, then full astern on inboard engine",
+            "option2": "Slow ahead with hard over rudder",
+            "option3": "Full ahead on one engine, full astern on the other"
+        },
+        {
+            "question": "Your ARPA has automatic speed inputs from the log. Due to currents, the log is indicating a faster speed than the speed over the ground. What should you expect under these circumstances? ",
+            "option1": "The targets true course vector will be in error. ",
+            "option2": "The range of initial target acquisition will be less than normal. ",
+            "option3": "The generated TCPA will be later than the actual TCPA"
+        },
+        {
+            "question": "Your ARPA has been tracking a target and has generated the targets course and speed. The radar did not receive a target echo on its last two scans due to the weather. What should you expect under these circumstances? ",
+            "option1": "The ARPA will generate data as if the target was still being tracked by radar. ",
+            "option2": "The ARPA will give an audible and/or visual lost target alarm. ",
+            "option3": "The ARPA will generate data based on sea return echoes from the vicinity where the target was lost. "
+        },
+        {
+            "question": "Your ARPA has two guard zones. What is the purpose of the inner guard zone? ",
+            "option1": "Warn of small targets that are initially detected closer than the outer guard zone ",
+            "option2": "Alert the watch officer that a vessel is approaching the preset CPA limit ",
+            "option3": "Guard against target loss during critical maneuvering situations "
+        },
+        {
+            "question": "Your Electronic Plotting Aid (EPA) has automatic speed inputs from the log. Due to currents, the log is indicating a faster speed than the speed over the ground. What should you expect under these circumstances? ",
+            "option1": "The targets true course vector will be in error. ",
+            "option2": "The range of initial target acquisition will be less than normal. ",
+            "option3": "The generated TCPA will be later than the actual TCPA."
+        },
+        {
+            "question": "Your Electronic Plotting Aid (EPA) has two guard zones. What is the purpose of the inner guard zone? ",
+            "option1": "Warn of small targets that are initially detected closer than the outer guard zone ",
+            "option2": " Sound an alarm for targets first detected within the zone",
+            "option3": "Guard against target loss during critical maneuvering situations "
+        }
+    ]
+}
