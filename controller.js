@@ -46,7 +46,7 @@ var competence = document.getElementById('comp').value;
 			questionBank[i][3]=data.quizlist[i].option3;
 		}
 
-		numberOfQuestions=questionBank.length;
+		numberOfQuestions=(questionBank.length) - 1;
 		qrnd=Math.random()*numberOfQuestions;
 		qrnd=Math.ceil(qrnd);
 		displayQuestion();
@@ -118,7 +118,7 @@ window.scrollTo(0,document.body.scrollHeight);
 		var perCent = (score/numberOfQuestions)*100;
 		$(stage).append('<p class="text-info">Your score percentage:</p>');
 		$(stage).append('<div class="progress"><div class="progress-bar" role="progressbar" aria-valuenow="'+score+'" aria-valuemin="0" aria-valuemax="'+numberOfQuestions+'" style="width: '+perCent+'%;">'+perCent+'%</div></div>');
-		$(stage).append('<button type="button" class="btn btn-success"><a href="index.html" style="color:white;">Retake</a></button>');
+		$(stage).append('<a href="index.html" class="btn btn-success style="color:white;">Retake</a>');
 	}//display final slide
 	
 	

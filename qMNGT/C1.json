@@ -13,6 +13,12 @@
             "option3": "Compass"
         },
         {
+            "question": "You are using a radar in which your own ship is shown at the center, and the heading flash always points to 0°. If bearings are measured in relation to the flash, what type of bearings are produced? ",
+            "option1": "Relative",
+            "option2": "True ",
+            "option3": "Compass"
+        },
+        {
             "question": "An icebreaker is assisting a vessel through an ice field. What will it signify if she would display a visual signal consisting of the code letter 'M' (Mike)?",
             "option1": "my vessel is stopped and making no way through the water",
             "option2": "I am operating astern propulsion",
